@@ -1,0 +1,193 @@
+<!-- 
+MIT License
+
+Copyright (c) 2021 ladymade-star
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+-->
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="bmstable" content="header.json" />
+    <title>Stella (Rejected)</title>
+
+    <!-- Bootstrap CSS (見た目だけ利用) -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+
+    <style>
+        /* 小さなレイアウト調整（任意） */
+        #table_int {
+            width: 100%;
+        }
+
+        .loading-row {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <header class="mb-3">
+        <nav class="navbar navbar-dark bg-dark">
+            <div class="container-fluid">
+                <span class="navbar-brand mb-0 h1">Stella (Rejected)</span>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container">
+        <div id="notice" class="alert alert-success mb-3" role="alert">
+            <div id="loading-area">
+                <div class="d-flex align-items-center">
+                    <strong class="me-2">難易度表の読み込みと表示に数秒かかります。</strong>
+                    <div class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></div>
+                </div>
+            </div>
+            <hr />
+            <p class="mb-0">STELLAVERSEで投票の結果正式グレード非搭載となった提案落ち譜面のみを集めた表。</p>
+        </div>
+
+        <div class="table-container">
+            <!-- テーブルはここに一括差し替え -->
+            <table class="table table-light table-striped table-hover" id="table_int" aria-describedby="notice"></table>
+        </div>
+    </main>
+
+    <!-- モジュールスクリプト（モダンブラウザ向け） -->
+    <script type="module">
+        // -------------------------
+        // ユーティリティ
+        // -------------------------
+        const escapeHtml = (s) => String(s ?? '').replace(/[&<>"']/g, (c) =>
+            ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]
+        );
+
+        // 一度に大量の DOM を作るので innerHTML による一括差し替えを行う（高速）
+        function makeBMSTable(info, mark) {
+            const table = document.getElementById('table_int');
+            if (!Array.isArray(info) || info.length === 0) {
+                table.innerHTML = '<!-- no data -->';
+                return;
+            }
+
+            // 配列が既にレベル順であることを期待する場合は単純グルーピングで順序維持
+            const groups = new Map();
+            for (const it of info) {
+                const lvl = it.level ?? '';
+                if (!groups.has(lvl)) groups.set(lvl, []);
+                groups.get(lvl).push(it);
+            }
+
+            const thead = `<thead class="table-dark">
+                <tr>
+                <th scope="col">Level</th>
+                <th scope="col">Title</th>
+                <th scope="col">Artist</th>
+                <th scope="col">本体</th>
+                <th scope="col">差分</th>
+                <th scope="col">譜面</th>
+                <th scope="col">議論</th>
+                </tr>
+            </thead>`;
+
+            const parts = [];
+            parts.push('<tbody>');
+
+            for (const [lvl, items] of groups) {
+                parts.push(`<tr class="table-dark" style="text-align:center" id="${escapeHtml(mark + lvl)}">
+                <td colspan="7"><b>${escapeHtml(mark + lvl)} (${items.length}譜面)</b></td>
+                </tr>`);
+
+                for (const it of items) {
+                    const md5 = encodeURIComponent(String(it.md5 ?? ''));
+                    const title = escapeHtml(it.title);
+                    const artist = escapeHtml(it.artist);
+                    const url = escapeHtml(it.url ?? '#');
+                    const url_diff = escapeHtml(it.url_diff ?? '#');
+                    const id = encodeURIComponent(String(it.id ?? ''));
+
+                    parts.push(`<tr>
+                    <td width="5%">${escapeHtml(mark + lvl)}</td>
+                    <td><a href="http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=${md5}" target="_blank" rel="noopener noreferrer">${title}</a></td>
+                    <td>${artist}</td>
+                    <td width="4%"><a href="${url}" target="_blank" rel="noopener noreferrer">●</a></td>
+                    <td width="4%"><a href="${url_diff}" target="_blank" rel="noopener noreferrer">Δ</a></td>
+                    <td width="4%"><a href="https://bms-score-viewer.pages.dev/view?md5=${md5}" target="_blank" rel="noopener noreferrer">view</a></td>
+                    <td width="4%"><a href="https://stellabms.xyz/discuss/${id}" target="_blank" rel="noopener noreferrer">議論</a></td>
+                    </tr>`);
+                }
+            }
+
+            parts.push('</tbody>');
+            table.innerHTML = thead + parts.join('');
+        }
+
+        // -------------------------
+        // データ取得とエラーハンドリング
+        // -------------------------
+        async function loadAndRender() {
+            const meta = document.querySelector('meta[name="bmstable"]');
+            const loadingArea = document.getElementById('loading-area');
+            const table = document.getElementById('table_int');
+
+            if (!meta) {
+                loadingArea.innerHTML = '<span class="text-danger">header.json のメタが見つかりません。</span>';
+                return;
+            }
+
+            const headerPath = meta.getAttribute('content');
+
+            try {
+                // header.json を取得
+                const headerResp = await fetch(headerPath, { cache: 'no-cache' });
+                if (!headerResp.ok) throw new Error('header.json fetch failed: ' + headerResp.status);
+                const header = await headerResp.json();
+
+                if (!header || !header.data_url) throw new Error('header.json に data_url がありません');
+
+                // 実データを取得
+                const dataResp = await fetch(header.data_url, { cache: 'no-cache' });
+                if (!dataResp.ok) throw new Error('data fetch failed: ' + dataResp.status);
+                const information = await dataResp.json();
+
+                // テーブル描画
+                makeBMSTable(information, header.symbol ?? '');
+
+                // 読み込み表示を消す
+                loadingArea.innerHTML = '<span class="text-success">読み込み完了</span>';
+
+            } catch (err) {
+                console.error(err);
+                loadingArea.innerHTML = `<span class="text-danger">データ読み込みに失敗しました: ${escapeHtml(err.message)}</span>`;
+                // 最低限、空のテーブルヘッダを入れておくと見た目が崩れにくい
+                table.innerHTML = `<thead class="table-dark">
+                <tr><th>Level</th><th>Title</th><th>Artist</th><th>本体</th><th>差分</th><th>譜面</th><th>議論</th></tr>
+                </thead><tbody><tr class="loading-row"><td colspan="7">表示できるデータがありません</td></tr></tbody>`;
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', loadAndRender);
+    </script>
+</body>
+
+</html>
