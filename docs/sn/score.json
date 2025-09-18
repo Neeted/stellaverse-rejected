@@ -1,0 +1,72 @@
+[
+  {
+    "id": 7343,
+    "title": "Arcadia -★★-",
+    "artist": "HaL feat. riri",
+    "md5": "aecab624de77611bf1ad8c81f5acba8f",
+    "sha256": "074ea638e7f54a797d6b4e8762a0a50af683d0723343d8a124483f4e214985ff",
+    "url": "http://web.archive.org/web/20060621124303/www.remarkablesense.org/~hal/waveceptor/bms/bms_arcadia_LQ.zip",
+    "url_diff": "http://absolute.pv.land.to/uploader/src/up5602.zip",
+    "level": "1"
+  },
+  {
+    "id": 7348,
+    "title": "虚像の迷宮 -Despair-",
+    "artist": "The Creator obj:1/8",
+    "md5": "fa1d183f49bb1551f142b9462a93c7e7",
+    "sha256": "d897daa94dc3989df78d8418e6b3cbdcbb1c4e1f78ea9dd1d787abe132299066",
+    "url": "http://tm2.toymusical.net/download.html",
+    "url_diff": "http://oneeighth.web.fc2.com/patterns.html",
+    "level": "3"
+  },
+  {
+    "id": 7286,
+    "title": "Luminance (鬼畜和菓子)",
+    "artist": "Cocoa / obj:NoName",
+    "md5": "5855de647719cdfad681a7fcf55ce8c6",
+    "sha256": "7a23f157e107938d68304db57cd0ff0621e89896f54f3ba78414b970c688a477",
+    "url": "https://drive.google.com/file/d/1Qn5Dh_GPXwSc5IEEd7jjII0TqWTU1Gnm/view?usp=drive_link",
+    "url_diff": "http://kanki2.net/bme/luminance_bitter.zip",
+    "level": "5"
+  },
+  {
+    "id": 7266,
+    "title": "L.D.2025 [MAPLE]",
+    "artist": "silcostones feat. 小宮真央 BGI : morph / Original : Andy Lee / obj:LeaF",
+    "md5": "af9f6a81ace8d87fdd33807670544ff5",
+    "sha256": "c53020a3dcf09c70666a1bda0ce106f5a0c068867083fe8e51e0db05f6693015",
+    "url": "https://hapinano.org/bms/ss_ld2025_ogg.zip",
+    "url_diff": "https://stellabms.xyz/upload/5294",
+    "level": "7"
+  },
+  {
+    "id": 7314,
+    "title": "MAGICAL AXION STADIUM",
+    "artist": "ルゼ / obj. AXION BGA:retu",
+    "md5": "736705129767d42ce3718c618ed7f646",
+    "sha256": "7f8299264615eb6f76e54980b2627d834798b1dd95650dc1359a5d02c65b5a58",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=305&event=140",
+    "url_diff": "https://stellabms.xyz/upload/4033",
+    "level": "8"
+  },
+  {
+    "id": 7315,
+    "title": "Hanky-Panky [FANKY]",
+    "artist": "TRIAL BGA:KinCraft bj : BAECON",
+    "md5": "9db892b1b621caa4f35c9c0f5b508261",
+    "sha256": "c430d08c9dacb9e893e718794082c077ae2e342f11b15c1ab27cc8b779273085",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=121",
+    "url_diff": "",
+    "level": "9"
+  },
+  {
+    "id": 7212,
+    "title": "Meshimase!! Nyan-Nyan Nightmare [MNMN]",
+    "artist": "かたぎり BGI:mst / obj:京都306",
+    "md5": "3466618963c1491a1092bb883dfe3ea8",
+    "sha256": "938cf628df6c6af679495900ab99ceb30589ba338419592372542b8f43f215c8",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=123",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up2352.zip",
+    "level": "9"
+  }
+]
