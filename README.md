@@ -8,7 +8,8 @@ sub表には提出されたすべての譜面が含まれているので、何�
 STELLAVERSEで同様の表が提供されることがない限り、毎週日曜21時10分(JST)に自動更新予定。
 
 難易度表のHTML表示部分は以下を拝借しました。
-[bms-table-template](https://github.com/ladymade-star/BMS-Table-Template)
+
+- [bms-table-template](https://github.com/ladymade-star/BMS-Table-Template)
 
 ## 難易度表ページ
 
