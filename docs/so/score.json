@@ -90,6 +90,16 @@
     "level": "2"
   },
   {
+    "id": 7488,
+    "title": "硬核機動[7KEYS-HYPER]",
+    "artist": "しらいし",
+    "md5": "5ca8ff5a9b67600e658245aa059e6e48",
+    "sha256": "003f06d6a7279f91a65968c41e8c13a11dd31c077e2685e36448b3645aa908f8",
+    "url": "https://drive.google.com/file/d/15Vz7fdTRdLnRuhqErXi6iQdVkXJcE6wH/view?pli=1",
+    "url_diff": "",
+    "level": "2"
+  },
+  {
     "id": 7443,
     "title": "Sphere",
     "artist": "arrange:A.S-Leaf / illustration:岾兎。",
@@ -267,6 +277,16 @@
     "sha256": "c6a47e83d8056953eb278b97001665531f4a4303db39fde7c522722a6faa6323",
     "url": "http://www.nekomirin.com/bms/nekomirin_franchanmusic_HQogg.zip",
     "url_diff": "https://web.archive.org/web/20120918210013/http://sabosabun.tank.jp/",
+    "level": "11"
+  },
+  {
+    "id": 7424,
+    "title": "多重極展開 [VIOLATION]",
+    "artist": "Rocky / obj:HYSNS",
+    "md5": "845ec47e1d82986a2877b9bfd49e3d4d",
+    "sha256": "40dfb40131618cb119805ac4840a11ae19e7a9c8324e88bf1791879c9bdfd5e4",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=88",
+    "url_diff": "https://stellabms.xyz/upload/5979",
     "level": "11"
   }
 ]
