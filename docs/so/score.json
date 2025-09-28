@@ -40,12 +40,32 @@
     "level": "0"
   },
   {
-    "id": 7252,
-    "md5": "d2def8e5fda67bc390d7439f80cfbe3a",
-    "sha256": "ff21c0d85c4c9d9b80c578a91d1c01b80f2f2943f40828e7f60843a0481c8912",
-    "title": "バーチャルセラピー [SP ANOTHER]",
-    "artist": "ふぃるまーち！（CV：ちょこ＆藍月なくる＆山田じぇみ子） MV: うまるつふり ＆ 自動車 原付",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=167&event=123",
+    "id": 7584,
+    "title": "PHAZE UPPER [SP ANOTHER]",
+    "artist": "Reku Mochizuki",
+    "md5": "0f724936872dd01eeb3161536e0f608c",
+    "sha256": "ac14eddde379d417583fd16249f8927758597f7633426fe4d7f371b3b2c1b16f",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=174&event=137",
+    "url_diff": "",
+    "level": "0"
+  },
+  {
+    "id": 7606,
+    "title": "TOKYO-RHYTHM No.524 [SP ANOTHER]",
+    "artist": "フォ㍊",
+    "md5": "2ab074c3ce77b1ab8dae738a93856702",
+    "sha256": "2a7546e3ae0ea15af6f6348946fe213114e3eda109e6af3c179c76d732de8055",
+    "url": "http://www.likeside.net/2008/09/21/tokyo-groove-tokyo-rhythm-no524/",
+    "url_diff": "",
+    "level": "0"
+  },
+  {
+    "id": 7677,
+    "title": "ガバキックの音が鳴る時だけニッコリするゴールデン・レトリバー",
+    "artist": "Kanata.S feat.ゴールデンレトリバー",
+    "md5": "9dc02095db8631cf3a9478f92e676349",
+    "sha256": "c08a6460f97dd457555ed3a0ef525fe09921e1bfcb6e3e7de927232a5794e19b",
+    "url": "http://72mo471.web.fc2.com/bms.htm",
     "url_diff": "",
     "level": "0"
   },
@@ -98,6 +118,16 @@
     "url": "https://drive.google.com/file/d/15Vz7fdTRdLnRuhqErXi6iQdVkXJcE6wH/view?pli=1",
     "url_diff": "",
     "level": "2"
+  },
+  {
+    "id": 7660,
+    "title": "Enneaquest [SP ANOTHER]",
+    "artist": "SEPHID BGA by EraPi0nner / obj AZVW_2",
+    "md5": "e125cd94da508390dbec1f1c7acd7017",
+    "sha256": "933cb46d6ea60fe80ee2b4a7377f4bdb0f4ca39f4cff17fd9be7eac9eff7932a",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=133",
+    "url_diff": "",
+    "level": "3"
   },
   {
     "id": 7443,

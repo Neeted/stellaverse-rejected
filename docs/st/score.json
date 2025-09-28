@@ -3460,6 +3460,16 @@
     "level": "3"
   },
   {
+    "id": 373,
+    "md5": "f774560eae905ffb80f8382d6e56d1e5",
+    "sha256": "8658e945f93440440d3f159864759641a274ce5dac8d20a00a187f11a643cf9a",
+    "title": "Batrachotoxin -EXHAUST-",
+    "artist": "uet (mov:いかお)",
+    "url": "https://dropbox.bms.ms/u/60346274/bms/yadoku_ogg.rar",
+    "url_diff": "http://absolute.pv.land.to/uploader/src/up4905.zip",
+    "level": "3"
+  },
+  {
     "id": 667,
     "md5": "df2eb063493103330d1be4d7170d4930",
     "sha256": "34686d8fb8ab1bec96010a480810a8934be8c3545bebef59274409afe7cb9213",
@@ -6297,6 +6307,16 @@
     "artist": "Satsuki Akatsuka obj.screw",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=481&event=116",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01327.zip",
+    "level": "6"
+  },
+  {
+    "id": 7518,
+    "title": "sunlit power stone [あの場所は約束の最中]",
+    "artist": "dj sept-em obj:TAKANASHI_HOSHINO",
+    "md5": "c730fb1573fe61c17e9345d623c6a253",
+    "sha256": "85db2f251fd80b9bf351d7373a5df529a7bd87b4f47749b91cfc02b251630156",
+    "url": "http://web.archive.org/web/20030819153752/http://www.cmo.jp/users/e-my/bms/tc_sunlit.rar",
+    "url_diff": "https://stellabms.xyz/upload/6125",
     "level": "6"
   },
   {
