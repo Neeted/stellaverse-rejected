@@ -1920,16 +1920,6 @@
     "level": "0"
   },
   {
-    "id": 5205,
-    "md5": "1486448b03ccc4d643b210c12d73a915",
-    "sha256": "b45885e0a98585c926c1d35459a4ef90ade1d782930e42c22757cc776e7a923c",
-    "title": "東 [ANOTHER]",
-    "artist": "かたぎり BGA: 2nd_identity",
-    "url": "https://venue.bmssearch.net/bmskanji2/11",
-    "url_diff": "",
-    "level": "0"
-  },
-  {
     "id": 6744,
     "md5": "577332a90391ca3f6b32b86c206fc113",
     "sha256": "1dfbbd1234f502ad0c398092c0e2bf857207e208ea7e60def9d9268bd2bfb293",
@@ -9040,16 +9030,6 @@
     "level": "5"
   },
   {
-    "id": 6088,
-    "md5": "756f5aad016f6211e154f1980e78472e",
-    "sha256": "c1f269f898ca6af45cf22621ffa89207c631113060c414ae0445c259397d4a93",
-    "title": "Space Route to Kepler-186f [Quasar]",
-    "artist": "anco / Movie: 森定祥 Obj: Atharnal",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=142",
-    "url_diff": "https://atharnal.github.io/diff/table.html",
-    "level": "5"
-  },
-  {
     "id": 2854,
     "md5": "19f67cefa09051fb3371bfd918b259bf",
     "sha256": "215a678d1952880bcf649afca109e3edb7a386b4900763c185204e937510ab5b",
@@ -9197,16 +9177,6 @@
     "artist": "celas respect for W.A.Mozart obj. BK",
     "url": "https://bms.kyouko.moe/torrent/BMS_Library/%E3%83%88%E3%83%AB%E3%82%B3%E8%A1%8C%E9%80%B2%E6%9B%B2%20(Hd-NRG%20mix)%20(by%20celas%20respect%20for%20W.A.Mozart).rar",
     "url_diff": "https://stellabms.xyz/upload/1631",
-    "level": "5"
-  },
-  {
-    "id": 4516,
-    "md5": "f2c5cac6fdb8a023cd82823f54e7858c",
-    "sha256": "d6cdf1b67d53514c9fd4e037181c3d0cc4003eb488784cc23416bcf742dd7e10",
-    "title": "ニライカナイ (short ver.) [Dystopia]",
-    "artist": "sweez & Meine Meinung / obj:Lorse",
-    "url": "https://onedrive.live.com/?cid=01037CE944BF6D37&id=1037CE944BF6D37%21140",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/00445.zip",
     "level": "5"
   },
   {
