@@ -338,3 +338,71 @@
 2025-10-05 12:49:50,409 [INFO] 保存完了: /home/runner/work/stellaverse-rejected/stellaverse-rejected/docs/dpst/score.json (合計 42 要素)
 2025-10-05 12:49:50,409 [INFO] --- 処理完了: table=dpst ---
 2025-10-05 12:49:50,409 [INFO] 全テーブル処理が終了しました
+2025-10-12 12:49:37,460 [INFO] 全テーブル処理を開始します
+2025-10-12 12:49:37,460 [INFO] --- 処理開始: table=st ---
+2025-10-12 12:49:37,460 [INFO] ダウンロード: https://stellabms.xyz/st/score_sub.json (試行 1/3)
+2025-10-12 12:49:39,256 [INFO] 取得成功: https://stellabms.xyz/st/score_sub.json -> 2746 要素
+2025-10-12 12:49:39,257 [INFO] ダウンロード: https://stellabms.xyz/st/score.json (試行 1/3)
+2025-10-12 12:49:40,685 [INFO] 取得成功: https://stellabms.xyz/st/score.json -> 1972 要素
+2025-10-12 12:49:40,685 [INFO] ダウンロード: https://stellabms.xyz/st/score_vote.json (試行 1/3)
+2025-10-12 12:49:41,218 [INFO] 取得成功: https://stellabms.xyz/st/score_vote.json -> 9 要素
+2025-10-12 12:49:41,219 [INFO] st: 除外対象 md5 数 = 1981
+2025-10-12 12:49:41,220 [INFO] フィルタ結果: 元 2746 要素, 除外 1981 要素, 残存 765 要素
+2025-10-12 12:49:41,226 [INFO] 保存完了: /home/runner/work/stellaverse-rejected/stellaverse-rejected/docs/st/score.json (合計 765 要素)
+2025-10-12 12:49:41,226 [INFO] --- 処理完了: table=st ---
+2025-10-12 12:49:41,228 [INFO] --- 処理開始: table=sl ---
+2025-10-12 12:49:41,228 [INFO] ダウンロード: https://stellabms.xyz/sl/score_sub.json (試行 1/3)
+2025-10-12 12:49:43,785 [INFO] 取得成功: https://stellabms.xyz/sl/score_sub.json -> 3565 要素
+2025-10-12 12:49:43,785 [INFO] ダウンロード: https://stellabms.xyz/sl/score.json (試行 1/3)
+2025-10-12 12:49:45,297 [INFO] 取得成功: https://stellabms.xyz/sl/score.json -> 2080 要素
+2025-10-12 12:49:45,297 [INFO] ダウンロード: https://stellabms.xyz/sl/score_vote.json (試行 1/3)
+2025-10-12 12:49:45,822 [INFO] 取得成功: https://stellabms.xyz/sl/score_vote.json -> 12 要素
+2025-10-12 12:49:45,823 [INFO] sl: 除外対象 md5 数 = 2092
+2025-10-12 12:49:45,823 [INFO] フィルタ結果: 元 3565 要素, 除外 2092 要素, 残存 1473 要素
+2025-10-12 12:49:45,836 [INFO] 保存完了: /home/runner/work/stellaverse-rejected/stellaverse-rejected/docs/sl/score.json (合計 1473 要素)
+2025-10-12 12:49:45,836 [INFO] --- 処理完了: table=sl ---
+2025-10-12 12:49:45,837 [INFO] --- 処理開始: table=sn ---
+2025-10-12 12:49:45,837 [INFO] ダウンロード: https://stellabms.xyz/sn/score_sub.json (試行 1/3)
+2025-10-12 12:49:46,564 [INFO] 取得成功: https://stellabms.xyz/sn/score_sub.json -> 79 要素
+2025-10-12 12:49:46,564 [INFO] ダウンロード: https://stellabms.xyz/sn/score.json (試行 1/3)
+2025-10-12 12:49:49,301 [INFO] 取得成功: https://stellabms.xyz/sn/score.json -> 63 要素
+2025-10-12 12:49:49,301 [INFO] ダウンロード: https://stellabms.xyz/sn/score_vote.json (試行 1/3)
+2025-10-12 12:49:49,933 [INFO] 取得成功: https://stellabms.xyz/sn/score_vote.json -> 6 要素
+2025-10-12 12:49:49,933 [INFO] sn: 除外対象 md5 数 = 69
+2025-10-12 12:49:49,933 [INFO] フィルタ結果: 元 79 要素, 除外 69 要素, 残存 10 要素
+2025-10-12 12:49:49,933 [INFO] 保存完了: /home/runner/work/stellaverse-rejected/stellaverse-rejected/docs/sn/score.json (合計 10 要素)
+2025-10-12 12:49:49,933 [INFO] --- 処理完了: table=sn ---
+2025-10-12 12:49:49,933 [INFO] --- 処理開始: table=so ---
+2025-10-12 12:49:49,933 [INFO] ダウンロード: https://stellabms.xyz/so/score_sub.json (試行 1/3)
+2025-10-12 12:49:50,873 [INFO] 取得成功: https://stellabms.xyz/so/score_sub.json -> 204 要素
+2025-10-12 12:49:50,873 [INFO] ダウンロード: https://stellabms.xyz/so/score.json (試行 1/3)
+2025-10-12 12:49:51,843 [INFO] 取得成功: https://stellabms.xyz/so/score.json -> 147 要素
+2025-10-12 12:49:51,843 [INFO] ダウンロード: https://stellabms.xyz/so/score_vote.json (試行 1/3)
+2025-10-12 12:49:52,361 [INFO] 取得成功: https://stellabms.xyz/so/score_vote.json -> 21 要素
+2025-10-12 12:49:52,362 [INFO] so: 除外対象 md5 数 = 168
+2025-10-12 12:49:52,362 [INFO] フィルタ結果: 元 204 要素, 除外 168 要素, 残存 36 要素
+2025-10-12 12:49:52,362 [INFO] 保存完了: /home/runner/work/stellaverse-rejected/stellaverse-rejected/docs/so/score.json (合計 36 要素)
+2025-10-12 12:49:52,362 [INFO] --- 処理完了: table=so ---
+2025-10-12 12:49:52,363 [INFO] --- 処理開始: table=dp ---
+2025-10-12 12:49:52,363 [INFO] ダウンロード: https://stellabms.xyz/dp/score_sub.json (試行 1/3)
+2025-10-12 12:49:53,631 [INFO] 取得成功: https://stellabms.xyz/dp/score_sub.json -> 856 要素
+2025-10-12 12:49:53,631 [INFO] ダウンロード: https://stellabms.xyz/dp/score.json (試行 1/3)
+2025-10-12 12:49:55,712 [INFO] 取得成功: https://stellabms.xyz/dp/score.json -> 645 要素
+2025-10-12 12:49:55,712 [INFO] ダウンロード: https://stellabms.xyz/dp/score_vote.json (試行 1/3)
+2025-10-12 12:49:56,257 [INFO] 取得成功: https://stellabms.xyz/dp/score_vote.json -> 3 要素
+2025-10-12 12:49:56,257 [INFO] dp: 除外対象 md5 数 = 648
+2025-10-12 12:49:56,258 [INFO] フィルタ結果: 元 856 要素, 除外 648 要素, 残存 208 要素
+2025-10-12 12:49:56,260 [INFO] 保存完了: /home/runner/work/stellaverse-rejected/stellaverse-rejected/docs/dp/score.json (合計 208 要素)
+2025-10-12 12:49:56,260 [INFO] --- 処理完了: table=dp ---
+2025-10-12 12:49:56,260 [INFO] --- 処理開始: table=dpst ---
+2025-10-12 12:49:56,260 [INFO] ダウンロード: https://stellabms.xyz/dpst/score_sub.json (試行 1/3)
+2025-10-12 12:49:57,140 [INFO] 取得成功: https://stellabms.xyz/dpst/score_sub.json -> 192 要素
+2025-10-12 12:49:57,140 [INFO] ダウンロード: https://stellabms.xyz/dpst/score.json (試行 1/3)
+2025-10-12 12:49:57,956 [INFO] 取得成功: https://stellabms.xyz/dpst/score.json -> 150 要素
+2025-10-12 12:49:57,956 [INFO] ダウンロード: https://stellabms.xyz/dpst/score_vote.json (試行 1/3)
+2025-10-12 12:49:58,522 [INFO] 取得成功: https://stellabms.xyz/dpst/score_vote.json -> 0 要素
+2025-10-12 12:49:58,522 [INFO] dpst: 除外対象 md5 数 = 150
+2025-10-12 12:49:58,522 [INFO] フィルタ結果: 元 192 要素, 除外 150 要素, 残存 42 要素
+2025-10-12 12:49:58,523 [INFO] 保存完了: /home/runner/work/stellaverse-rejected/stellaverse-rejected/docs/dpst/score.json (合計 42 要素)
+2025-10-12 12:49:58,523 [INFO] --- 処理完了: table=dpst ---
+2025-10-12 12:49:58,523 [INFO] 全テーブル処理が終了しました

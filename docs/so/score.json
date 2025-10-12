@@ -40,6 +40,16 @@
     "level": "0"
   },
   {
+    "id": 7648,
+    "title": "OVER THE UTOPIA (DJ NORMAL)",
+    "artist": "DJ Zeku Pointee / BGA : TARXO",
+    "md5": "e05a0c933648d8c041fc107662f052ef",
+    "sha256": "7f4a996aa50265ef21e32dd63d1e38811b4808501b32c739dab0ddb83759f44d",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=96",
+    "url_diff": "",
+    "level": "0"
+  },
+  {
     "id": 7584,
     "title": "PHAZE UPPER [SP ANOTHER]",
     "artist": "Reku Mochizuki",
@@ -47,6 +57,16 @@
     "sha256": "ac14eddde379d417583fd16249f8927758597f7633426fe4d7f371b3b2c1b16f",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=174&event=137",
     "url_diff": "",
+    "level": "0"
+  },
+  {
+    "id": 7688,
+    "md5": "e692022e97a710b911fb33e664de6c7a",
+    "sha256": "e551de6a5572fc0830f8a219b106ba85d8f057e02b04cf610109b0efba1b0280",
+    "title": "Seoul Subway Song [Go to Sadang Station]",
+    "artist": "Michael obj. Limite",
+    "url": "https://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.230501%20patch/newsongs/Seoul%20Subway%20Song.rar?from=search",
+    "url_diff": "https://bms.limiteknj.net/sp/Seoul%20Subway%20Song.rar",
     "level": "0"
   },
   {
@@ -250,6 +270,16 @@
     "level": "6"
   },
   {
+    "id": 7693,
+    "title": "%E3%83%96%E3%83%B3%E3%82%BF%E3%83%B3 ～Falling in \"B\" mix～(樹海)",
+    "artist": "((LMB))  obj:WAYA",
+    "md5": "f6bf86cd7a9ec5989958eb1c0f1b3b9a",
+    "sha256": "e078704c6649f7b90965436134be146eec87f602d041f278f795a5f73d2ba88d",
+    "url": "https://web.archive.org/web/20151021051232/http://page.freett.com/mikoko",
+    "url_diff": "http://flowermaster.web.fc2.com/",
+    "level": "7"
+  },
+  {
     "id": 7244,
     "title": "SpaceFinder",
     "artist": "Centain",
@@ -287,6 +317,16 @@
     "sha256": "efb9e0f3e3373e5fcfdcc18fb3c80f7f7c9865a68d152a9d770041448647c4b0",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=127",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/03483.zip",
+    "level": "10"
+  },
+  {
+    "id": 7710,
+    "title": "EXILE[EVERYTHING]",
+    "artist": "-45 obj:R1N",
+    "md5": "d57a13574f22b497b392af0934273706",
+    "sha256": "8b53869151e02593dc9393d2291df75150c042eb063782ffe4d4ce8e89a87375",
+    "url": "https://bmsdrive.zris.work/d/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/EXILE.rar?sign=1OI2OuLH0TX8yThet3MqitjilFDyZx-xTF3YIFRAT7c=:0",
+    "url_diff": "https://drive.google.com/file/d/1l9GXiua4EciP0F1dH0-xKjP9FkvVUJ6h/view?usp=drive_link",
     "level": "10"
   },
   {

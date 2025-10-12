@@ -1820,6 +1820,16 @@
     "level": "0"
   },
   {
+    "id": 7676,
+    "title": "ミシロタウン2014[6個押し]",
+    "artist": "ミズゴロウ",
+    "md5": "e310e8cf2e886d80dae196af13ccafc3",
+    "sha256": "deb9d2fc0a55df26e6a77c64d37c9b9035ccc12420c8336528b7b2a73e5dc0ee",
+    "url": "https://dropbox.bms.ms/u/80023107/other/g2r/mishiro2014_ogg.zip",
+    "url_diff": "https://stellabms.xyz/upload/4428",
+    "level": "0"
+  },
+  {
     "id": 6069,
     "md5": "20daf6c408b4dd1d427efea71e194367",
     "sha256": "0a2510520051a45e6b4e08ede78cbe867cae9d6578fab10f91e31db310651cd6",
@@ -6780,16 +6790,6 @@
     "level": "3"
   },
   {
-    "id": 7188,
-    "md5": "bc6b97bbc0953e7b4e004ca878c3dba4",
-    "sha256": "e92bd9397e754bab05537338cc52707fc8e22ed7ac07b2c646a6c983b1eaed5f",
-    "title": "ちょっ！めっ！たんっ！ - Nanoda -",
-    "artist": "mochimochi obj:3830",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=320&event=142",
-    "url_diff": "https://stellabms.xyz/upload/3570",
-    "level": "3"
-  },
-  {
     "id": 4573,
     "md5": "95cf88518665f665177629cdd6ba7fae",
     "sha256": "e07c0c9bfd9d32b55b4b78ba2b63bb693e535c704c38e797ceaa58fb3af9f883",
@@ -9060,6 +9060,16 @@
     "level": "5"
   },
   {
+    "id": 2515,
+    "md5": "5dc7f4e0e0317ab5ea8ea3bdd5f83dbd",
+    "sha256": "970f6456ea1049ae2dc2a7f318ed31aaeebf954ef64f675a05aa46302c3eb2df",
+    "title": "This Club is not 4 U [SP INSANE]",
+    "artist": "EmoCo. / 玲架 obj. Lapis",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=123",
+    "url_diff": "",
+    "level": "5"
+  },
+  {
     "id": 1099,
     "md5": "363d358326162aa13e81e4f325edda6d",
     "sha256": "7f0fa2197e0ce76edc1a5e5a2cb80f5c193dce5f192a9cb133b96340e8531761",
@@ -10597,6 +10607,16 @@
     "artist": "Process 2.3.1 vs Y-Itoh / obj. siokaze vs Fender",
     "url": "http://www1.axfc.net/u/3160933.zip?key=bms",
     "url_diff": "http://siokazebms.web.fc2.com/",
+    "level": "7"
+  },
+  {
+    "id": 7679,
+    "title": "Liberte-SuperSaw Epic mix- [7keys Discrether]",
+    "artist": "源屋 obj:ASNALL",
+    "md5": "93e7e7972da2c6bb225c897c41604b5f",
+    "sha256": "9ee6ccbcdcc3e585af3b708da0948fc937efcbf6a189155f2d059ccf1933c954",
+    "url": "http://web.archive.org/web/20071018083604/http://minamotrance.com/Liberte.rar",
+    "url_diff": "https://strangerxxx.web.fc2.com/hokan/liberte/Liberte-dis_bga.bme",
     "level": "7"
   },
   {
@@ -13587,16 +13607,6 @@
     "artist": "渋谷凛 obj:ゆさこずえ",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=88",
     "url_diff": "https://www.dropbox.com/s/cxrs9oxyunw2k7n/_bestfriend-kozue.bme?dl=0",
-    "level": "11"
-  },
-  {
-    "id": 1633,
-    "md5": "b89279d026c9d40d0f5eedde2e25b920",
-    "sha256": "f05580f31b0d35b62d6afb03c56eb041b83e39df04cc65563edfcbd23721a61d",
-    "title": "図書室のエルザ [FOX]",
-    "artist": "橘花音 かなえゆめ composed by nmk / Notes:キラ Illustration:かぜっと",
-    "url": "http://tosyosituno-elsa.tumblr.com/",
-    "url_diff": "http://kirakitsune.web.fc2.com/sabun.html",
     "level": "11"
   },
   {

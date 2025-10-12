@@ -1220,6 +1220,16 @@
     "level": "6"
   },
   {
+    "id": 7695,
+    "title": "From Highest HEAVEN [LNA14]",
+    "artist": "Remixed by iROH obj:ucc",
+    "md5": "bb5fbe1428eaa09ef3b142e8c9575f18",
+    "sha256": "cd0f32b5291b1c00347f03346b0b2c33b5266ff3b0effa670cc1d6bab73d64fc",
+    "url": "http://uploader.bms.ms/data/iroh_from_highest_heaven.zip",
+    "url_diff": "https://www.axfc.net/u/4106942",
+    "level": "6"
+  },
+  {
     "id": 2250,
     "md5": "99cbf38735fe1a526733e1628231e368",
     "sha256": "2bb9997d6a1ec9a632438790b4787c66862645550406130d7fe28ddaf1d0433e",
@@ -1437,6 +1447,16 @@
     "artist": "NIKITA / misokabocha / Obj:ゆ～兎",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=96",
     "url_diff": "https://web.archive.org/web/20160406055801/http://www42.tok2.com/home/dpbms/cgi-bin/uploader/src/dpbms_1567.zip",
+    "level": "7"
+  },
+  {
+    "id": 7696,
+    "title": "Function Generator (DP Insane)",
+    "artist": "kohaxy obj.桜音音",
+    "md5": "73c88839f7c7d1e1a263ecbbb6ff4902",
+    "sha256": "2199b96ba0f4c420bf2823ad712e951f6881d73b99fd15ca36449001129168da",
+    "url": "https://drive.google.com/file/d/1Ev-KfYq4OLvGQ2mCpmY1-Kg0QQoNcaX4/view",
+    "url_diff": "",
     "level": "7"
   },
   {
