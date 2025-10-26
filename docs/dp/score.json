@@ -1130,16 +1130,6 @@
     "level": "6"
   },
   {
-    "id": 2434,
-    "md5": "a75b2a10b342f1a1fd00959a06952463",
-    "sha256": "08dd86153b693d64f689cd839ce9010a4dd11c65546444d1ff5e641f54d34a28",
-    "title": "Angel dust⇒ A mix",
-    "artist": "LV.4 / Add Sounds+Obj:ゆ～兎",
-    "url": "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
-    "url_diff": "http://web.archive.org/web/20140921042604/http://timetorain.web.fc2.com/sabun/druggysacidrack_lv4_angeldust_YH.zip",
-    "level": "6"
-  },
-  {
     "id": 2904,
     "md5": "3b2e166d059d9d9db7723fa67f524380",
     "sha256": "e18efec355cb4b963c21ac28478fc38a930aab0687c8472dda4946d89dbac2ba",
@@ -1607,6 +1597,16 @@
     "artist": "Blacksparrow VS DeathisM",
     "url": "http://k-bms.com/party_pabat/party.jsp?board_num=1&num=68",
     "url_diff": "",
+    "level": "8"
+  },
+  {
+    "id": 1965,
+    "md5": "3969aa2fbc8482d5ba23aafbc1a167db",
+    "sha256": "1c16d2e6e25f0b9f4a30f4a3651a7f8002d0b1c488ce8fdec354534be0e3f497",
+    "title": "Lemuria [VerA]",
+    "artist": "Festa  obj:右手が恋人 鑓田(alpha complex)",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=536&event=110",
+    "url_diff": "https://ux.getuploader.com/dpbms/download/131",
     "level": "8"
   },
   {

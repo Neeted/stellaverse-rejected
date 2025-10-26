@@ -1670,6 +1670,16 @@
     "level": "0"
   },
   {
+    "id": 5794,
+    "md5": "b27d3caa24d5970f564d24e9f9992c5f",
+    "sha256": "e0ba57621f3b1774c3937e95a514a72756d554e64e7cfadff68a3d06df27fec6",
+    "title": "ほっぺ [7keys]",
+    "artist": "mommy obj : BAECON",
+    "url": "https://dl.dropboxusercontent.com/s/e8wnaic4p3ilfyx/hoppe.rar",
+    "url_diff": "https://web.archive.org/web/20200927161526/http://100min.lapisbms.xyz/upload/4_BAECON.zip",
+    "level": "0"
+  },
+  {
     "id": 3687,
     "md5": "e2804741855076baa3aa0fb8e58fa02d",
     "sha256": "9593d9394bdce0acdcc3751246206a7e114851591b7629535b587c919b0fe4c1",
@@ -5217,16 +5227,6 @@
     "artist": "ねこみりん feat.みゆ / むらしん obj:Kojou Chihiro",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=54",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01490.zip",
-    "level": "2"
-  },
-  {
-    "id": 2933,
-    "md5": "dc50a276cd07be9dc30be7c8594c1990",
-    "sha256": "df4e1c45f9f156a49e8e3d856898db35a2c67c55766f3979e277730fcfc3859c",
-    "title": "勿忘草 [ZOI]",
-    "artist": "Sentire obj:SUZUKAZEΛ",
-    "url": "http://web.archive.org/web/20071010145904/http://sentire.jp/bms.htm",
-    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
     "level": "2"
   },
   {
@@ -11927,6 +11927,16 @@
     "artist": "nmk feat.橘花音 Obj:nytou BGA:わっふゑ",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=181&event=123",
     "url_diff": "",
+    "level": "9"
+  },
+  {
+    "id": 7689,
+    "title": "Futurity [LighT]",
+    "artist": "Ryo Nakamura obj. LuvTek",
+    "md5": "6c6acc8013d4cb754ef85baaf67de931",
+    "sha256": "2fbedaa42c3fea5a7a34620030402d5668ee52c50a8089cb0ab85ed2a96cfb0f",
+    "url": "https://www.dropbox.com/s/fw5ig0d5459i9o2/futurity.zip?dl=1",
+    "url_diff": "https://darksabun.github.io/event/bcel/sabun/A1a_LuvTek.zip",
     "level": "9"
   },
   {

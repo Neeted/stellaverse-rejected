@@ -110,6 +110,16 @@
     "level": "1"
   },
   {
+    "id": 7784,
+    "title": "AURORA [EX]",
+    "artist": "roop / obj. AXION",
+    "md5": "53d7aa04239498fbe81409fbfe452a88",
+    "sha256": "8a9d978b50307e2b274ab5da14ba5492036b1d156d46733f1e134f84aca3bd19",
+    "url": "https://bmsdrive.zris.work/d/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/AURORA.rar?sign=8qEHnmCo-GNGve44hpfeUiA1ASmCqdmPmFGkNkl15fs=:0",
+    "url_diff": "https://drive.google.com/file/d/1DPbeo4vmWXrzjaByKXZCuWMM1zxiaUOU/view?usp=sharing",
+    "level": "2"
+  },
+  {
     "id": 7374,
     "md5": "5076b5372dc199dce796ef3da19e11e2",
     "sha256": "892e030305ccc83345075180dc0c843d5b5b63f3663557ea355c249f63d62e0f",
@@ -200,6 +210,16 @@
     "level": "5"
   },
   {
+    "id": 7765,
+    "title": "BMS：B.M.S.",
+    "artist": "テレビ光吉放送局",
+    "md5": "e56302c4ce6110aba7e175f9809ff63d",
+    "sha256": "51269019e741847fdbda7d79b703ef460d74910dcc9f71596890fabf311e2403",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=367&event=140",
+    "url_diff": "https://anonymous.nekokan.dyndns.info/data/BOF%EF%BC%9AET/BMSbuweisuodongsabun/_spBMS.bms",
+    "level": "5"
+  },
+  {
     "id": 7242,
     "title": "GHOST IN THE DEEP ABYSS",
     "artist": "BTB",
@@ -220,6 +240,16 @@
     "level": "5"
   },
   {
+    "id": 7768,
+    "title": "Bicolor spirit [★ CHAOS special]",
+    "artist": "urimu / obj:OK@GE Movie:RAIDEN",
+    "md5": "2947b1aaf89bd0f46ba34ca09032566b",
+    "sha256": "e432638f12cb78dd05970045bf1d255e26d96534ba66f0f9a6f5418da44c48dc",
+    "url": "https://dropbox.bms.ms/u/87285618/Bicolor%20Spirit_ogg.zip",
+    "url_diff": "http://flowermaster.web.fc2.com/kikaku/kikaku8.zip",
+    "level": "6"
+  },
+  {
     "id": 7317,
     "title": "Cinderella's Age (7key Maniac)",
     "artist": "EXCALIpUR (obj.mp)",
@@ -236,6 +266,16 @@
     "md5": "8dd59d4f098e978226377ee9773d7838",
     "sha256": "e0fff5e4fea576f268ec936a43089253e381b66f3d138eef66b2b793466c756d",
     "url": "https://scytheleg.sakura.ne.jp/tempyou/bms/bms/stl_lmp.rar",
+    "url_diff": "",
+    "level": "6"
+  },
+  {
+    "id": 7747,
+    "md5": "b589bb6b473064edec928b331ce0f40f",
+    "sha256": "1164095637a93a94b637effe8544b7f57222293231330835df0a3cb751892787",
+    "title": "locked girl-awakening-(Extra)",
+    "artist": "sun3",
+    "url": "https://onedrive.live.com/?id=145ed47ec5c8aa45%21152&cid=145ED47EC5C8AA45&parId=145ed47ec5c8aa45%21109&o=OneUp&ls=true",
     "url_diff": "",
     "level": "6"
   },
@@ -310,6 +350,16 @@
     "level": "8"
   },
   {
+    "id": 7779,
+    "title": "Summer night Nostalgia -MANIACNIGHT-",
+    "artist": "Rafel (obj.mp)",
+    "md5": "505bf154af3a1506e6ce783967e4d21d",
+    "sha256": "248f3dca695ffaf2263bac60e4bb9fd12453ca7c9e1edb23ae41b9b2912bffac",
+    "url": "https://bmsdrive.zris.work/d/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.250501%20patch/newsongs/Summer%20night%20Nostalgia.rar?sign=08Uk7FJ1ut-XcPotdPIQxJIZRi_sjylczXlAgo1HFHk=:0",
+    "url_diff": "https://ibizatrance.nomaki.jp/sabun.html",
+    "level": "9"
+  },
+  {
     "id": 7269,
     "title": "7th Avenue [niku]",
     "artist": "Sound Souler BGA: Yaesachi",
@@ -340,6 +390,26 @@
     "level": "10"
   },
   {
+    "id": 7757,
+    "title": "Another Alien World(Ex)",
+    "artist": "ZUN Arr.sun3 Obj:UnK-nown/37X",
+    "md5": "e8b5b32e64f8c2291afecd8a8cf25531",
+    "sha256": "c360ed542a0104872e48a76742e1a76167e574411742079e1dba1a3a0621c50f",
+    "url": "https://bmsdrive.zris.work/d/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/Another%20Alien%20World.rar?sign=PLJWpHvlK3IqWzIEQNyvII97dwv3-_5odtfaQNBMfWk=:0",
+    "url_diff": "http://sagena.harisen.jp/bms/aalien.zip",
+    "level": "11"
+  },
+  {
+    "id": 7715,
+    "md5": "3a1930e076a09704969aae374f5745e7",
+    "sha256": "472344b4f37e439f6a458203dbd27da0e67784ac5ad2bd1104ad125d70bd180d",
+    "title": "Endless Dream [29Another]",
+    "artist": "SHIKI // BGA:あかくらげ & M.H / 29",
+    "url": "https://mirror.bms.ms/shiki2.sakura.ne.jp/bms.shtml",
+    "url_diff": "https://lobsak.bms.ms/bms/repair_pack.zip",
+    "level": "11"
+  },
+  {
     "id": 7405,
     "title": "フランちゃんの音楽教室 -BMS EDIT-",
     "artist": "ねこみりん feat.みゆ / むらしん/さぼてんの人",
@@ -358,5 +428,25 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=88",
     "url_diff": "https://stellabms.xyz/upload/5979",
     "level": "11"
+  },
+  {
+    "id": 7687,
+    "title": "ACE=ECA-DOLL≡HITTING-REPEATEDLY",
+    "artist": "ZUN(Arr.sun3) / 風見 幽香",
+    "md5": "fd3a8681ecb098fe9f712f47c3a21468",
+    "sha256": "7ac3e095f04c73c8cf4356056ad739db5c4efefe54ff58d6dad903b82453ff5a",
+    "url": "https://www.dropbox.com/s/wur24vgh82o69gb/ACEECADOLL.rar?dl=1",
+    "url_diff": "http://flowermaster.web.fc2.com/nanakibms/aceecadollrenda.zip",
+    "level": "12"
+  },
+  {
+    "id": 7772,
+    "title": "Stargazer[Black Hole]",
+    "artist": "Lime / AAAA",
+    "md5": "b5bba2af9cb20279210e34d4037e126b",
+    "sha256": "b7eda39f749f13fa73719a647dc76fd6c06199ac844797352c5de455d92cbf9f",
+    "url": "http://kanki2.net/bms.html",
+    "url_diff": "https://baecon1.hatenablog.com/entry/2017/06/02/230838",
+    "level": "12"
   }
 ]
