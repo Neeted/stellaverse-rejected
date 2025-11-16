@@ -730,16 +730,6 @@
     "level": "0"
   },
   {
-    "id": 6076,
-    "md5": "d9db6e695cc2057e2c85398cc6010703",
-    "sha256": "94ae38142fed504bf51499c932c717d5d921336dee9999e376fee2cd3ed317a6",
-    "title": "lale [FW-terrace1990]",
-    "artist": "Tiv",
-    "url": "https://venue.bmssearch.net/hanadayori/11",
-    "url_diff": "",
-    "level": "0"
-  },
-  {
     "id": 5907,
     "md5": "cfbd6f7db8ff475ca50cbcd5ae8d331e",
     "sha256": "1f103ebfaed1f758f2ecaad1c5b4b92b79c2519d238398556c2502e69a2c2ddb",
@@ -2897,16 +2887,6 @@
     "artist": "GYAON / obj:颯",
     "url": "http://www46.tok2.com/home2/gyaondjaho/g_T260G.rar",
     "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
-    "level": "1"
-  },
-  {
-    "id": 3221,
-    "md5": "e3c881c1c5d8e7448ea838e16b9b1ebb",
-    "sha256": "2871143477a2e9c8748c67637735a9faa4c0f7d451150d7f3f12c587cc54f5e7",
-    "title": "Last! Least! Regrets!! (虎のANOTHER)",
-    "artist": "beatMARIO / tomsfir / black train",
-    "url": "http://cool-create.cc/",
-    "url_diff": "http://f32.aaa.livedoor.jp/~absolute/",
     "level": "1"
   },
   {
@@ -8090,6 +8070,16 @@
     "level": "4"
   },
   {
+    "id": 7188,
+    "md5": "bc6b97bbc0953e7b4e004ca878c3dba4",
+    "sha256": "e92bd9397e754bab05537338cc52707fc8e22ed7ac07b2c646a6c983b1eaed5f",
+    "title": "ちょっ！めっ！たんっ！ - Nanoda -",
+    "artist": "mochimochi obj:3830",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=320&event=142",
+    "url_diff": "https://stellabms.xyz/upload/3570",
+    "level": "4"
+  },
+  {
     "id": 851,
     "md5": "36124bd30950ec0e45f6bd7540fa21a2",
     "sha256": "e88908356ef6bb5699bc13a67dba14a96d5a0a5ce3f97abd18198e06943655d3",
@@ -9527,6 +9517,16 @@
     "artist": "Futami / mov:KeiuO obj. w",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=131",
     "url_diff": "https://darksabun.github.io/event/irbattle/",
+    "level": "6"
+  },
+  {
+    "id": 7819,
+    "title": "Hailstone [3n+1]",
+    "artist": "Kazki Misora obj: Truffelschwein",
+    "md5": "49bb8caa319eae25d4c8f2f43bfd14c7",
+    "sha256": "39b4f63dc77d0a61cac4c0ba23292bf6ee64a888343022eac90db1b827e9e753",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=423&event=142",
+    "url_diff": "https://stellabms.xyz/upload/6489",
     "level": "6"
   },
   {

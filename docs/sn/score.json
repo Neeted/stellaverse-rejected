@@ -30,6 +30,26 @@
     "level": "1"
   },
   {
+    "id": 7770,
+    "title": "樟葉 (over run7)",
+    "artist": "-45 (obj : KENT)",
+    "md5": "a170a3b41c30f6dae11407bec24ecdd4",
+    "sha256": "b3fa7ebb7664ecc24b8052ef1e28d4d5610956232338622d0c4e2ac885e78608",
+    "url": "https://malie.noor.jp/archive/kusuha.rar",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up0791.zip",
+    "level": "1"
+  },
+  {
+    "id": 7761,
+    "title": "Absurd Gaff [★8]",
+    "artist": "siromaru / obj:ジャンキー",
+    "md5": "dd96b5d43c8ec1a05a970a57bf40b465",
+    "sha256": "dd99f2bfc72ab25fe5fdf0651d149e5c21a1340fbfcf94fca8716e1e94d688a3",
+    "url": "http://nekokan.dyndns.info/~lobsak/genoside/",
+    "url_diff": "https://www.dropbox.com/sh/vkq2r853sj04s95/AAD2LIk2DPlgEtwN5cvQUtDba/Absurd%20Gaff?dl=0",
+    "level": "2"
+  },
+  {
     "id": 7641,
     "title": "blue Assassin [0000FF]",
     "artist": "市 / 冥",

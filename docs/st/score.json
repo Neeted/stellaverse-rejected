@@ -1140,6 +1140,16 @@
     "level": "1"
   },
   {
+    "id": 4265,
+    "md5": "a8d8b79e38535d10a68f17a811881820",
+    "sha256": "fe48abc368857e34ca576f9fa05c5ef734b5e19d1edf9a0d2d63eaabd377b111",
+    "title": "Bloody Scarlet Nightmare [yumether]",
+    "artist": "ZUN remixed by翡乃イスカ / obj:夢瑠",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=102",
+    "url_diff": "http://flowermaster.web.fc2.com/kikaku/sabunsakusei.html",
+    "level": "1"
+  },
+  {
     "id": 6802,
     "md5": "7f288d190641205c75937165fdcdd5e0",
     "sha256": "32552f595222a519d536bb54d8dfc640cae9e48d4bf7279721bb45a6bb2f9c47",
@@ -6470,6 +6480,16 @@
     "level": "7"
   },
   {
+    "id": 7657,
+    "title": "Arrival@234 -EXTRA-",
+    "artist": "CYLTIE. / extra",
+    "md5": "a929747f0f4f0897347311ed1bedef5b",
+    "sha256": "4e6f2e48dbd9e08983e0febbcff0897a334548a4fe57fb72569c1bb6d49ca665",
+    "url": "http://k-bms.com/party_pabat/party.jsp?board_num=21&num=16&order=reg&odtype=a",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05116.zip",
+    "level": "7"
+  },
+  {
     "id": 160,
     "md5": "2c321c02771cc342914b0b936432f86a",
     "sha256": "60c4d0a3e6fa4d5919523b8041f0a53d876e64627036c3ea577772efab67d820",
@@ -7027,6 +7047,16 @@
     "artist": "うまるつふり",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=54&event=133",
     "url_diff": "",
+    "level": "8"
+  },
+  {
+    "id": 7746,
+    "title": "織姫 -ガチ姫-",
+    "artist": "DJ TAKUAN 及び 佐倉アヤキ 及び obj:Keysa",
+    "md5": "7f8720653e08321ab7acfa4667faf0ed",
+    "sha256": "9031eca767e752cf1acb1cd1a351ce288165e04b91e65afd14f6f34c02409891",
+    "url": "https://llllllllllll.sakura.ne.jp/djtakuan/",
+    "url_diff": "https://stellabms.xyz/upload/6042",
     "level": "8"
   },
   {
