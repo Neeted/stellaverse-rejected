@@ -40,6 +40,16 @@
     "level": "0"
   },
   {
+    "id": 7874,
+    "title": "Invisible FullMoon 2021",
+    "artist": "hayato87b",
+    "md5": "61b7ea4b999e2f06adee802b6237f0b4",
+    "sha256": "da9cf368b3f60d76a1563155fe5ae498201d9e94364f65dd236fc08df49ada6b",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=129",
+    "url_diff": "",
+    "level": "0"
+  },
+  {
     "id": 7648,
     "title": "OVER THE UTOPIA (DJ NORMAL)",
     "artist": "DJ Zeku Pointee / BGA : TARXO",
@@ -198,6 +208,16 @@
     "url": "http://nekokan.dyndns.info/~lobsak/bms/kappa_ogg.zip",
     "url_diff": "",
     "level": "3"
+  },
+  {
+    "id": 7872,
+    "title": "1001 reasons why I love glasses [SR]",
+    "artist": "上条春菜 obj:他人",
+    "md5": "ac02bf7671c53f0d6884e27aafbc307a",
+    "sha256": "d49047725402044bbac98697bd062f73c19d229dc5600cf49d7da6aea5018df8",
+    "url": "http://megane-club.cf/bms/bofu2015_meganeclub_1001_glasses.zip",
+    "url_diff": "http://absolute.pv.land.to/bof/src/up1265.zip",
+    "level": "4"
   },
   {
     "id": 7476,

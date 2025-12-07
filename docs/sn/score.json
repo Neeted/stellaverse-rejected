@@ -10,6 +10,16 @@
     "level": "0"
   },
   {
+    "id": 7905,
+    "title": "ネガイカナウヒカリ sun3 RMX[BLACK-ANOTHER7]",
+    "artist": "EXCALIpUR (Remixed by sun3) / BGA:Johnny",
+    "md5": "2c6a011c390631384b74503789683d1b",
+    "sha256": "1c6b33025b7176f1339290c3c918113d56e0ee6657d2c57cdbf77870d2b7b6ac",
+    "url": "https://web.archive.org/web/20190223220117/http://tribullets.info/bms/bof2011_tribullets-plus_full.rar",
+    "url_diff": "",
+    "level": "0"
+  },
+  {
     "id": 7343,
     "title": "Arcadia -★★-",
     "artist": "HaL feat. riri",
@@ -57,6 +67,16 @@
     "sha256": "aec887840c66bd8715b85b8d6c87898a9661c66ceb251511cc365495c93189c7",
     "url": "https://1drv.ms/u/s!AtNuG_YC6WZCnSvbq3IyDH000-IA?e=1gEeHu",
     "url_diff": "https://stellabms.xyz/upload/5827",
+    "level": "2"
+  },
+  {
+    "id": 7967,
+    "title": "QUESTING　[SABOTHER]",
+    "artist": "Nankumo/さ",
+    "md5": "f8f76982192110171fc352c80298e2dd",
+    "sha256": "f473e4bb97ffcd17c911f9fba469788166e3d4a6537fa0a1f14a0296e0af0393",
+    "url": "https://bmsdrive.zris.work/d/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/QUESTING.rar?sign=vJVAvR0_GYtQnH20bHhZnikwl5UKjZPkKKQnX4U1XnU=:0",
+    "url_diff": "https://web.archive.org/web/20190211032812/http://sabosabun.tank.jp/sabun/questing_sabun.zip",
     "level": "2"
   },
   {
