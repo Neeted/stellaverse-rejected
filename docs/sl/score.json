@@ -740,6 +740,16 @@
     "level": "0"
   },
   {
+    "id": 7949,
+    "title": "Kiss me, please.[京都]",
+    "artist": "Yu^ta feat. みずにんじん",
+    "md5": "fee3b32fbef09721dc33a2fe83f75f1c",
+    "sha256": "d573c186c6a3bef2656a5d72aec56b6f9e35df26412be5373882392b3c8712b7",
+    "url": "http://famousbms.web.fc2.com/",
+    "url_diff": "",
+    "level": "0"
+  },
+  {
     "id": 5907,
     "md5": "cfbd6f7db8ff475ca50cbcd5ae8d331e",
     "sha256": "1f103ebfaed1f758f2ecaad1c5b4b92b79c2519d238398556c2502e69a2c2ddb",
@@ -2550,6 +2560,16 @@
     "level": "1"
   },
   {
+    "id": 7944,
+    "title": "EOS(P.S.Edit)",
+    "artist": "ginkiha　obj:kinoko",
+    "md5": "714075dc308df43b648ef7c194930f5b",
+    "sha256": "12591624e93f0ac895ab52bd1929da1dbc6d529a03157e12ddbc2a90d4723b58",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=300&event=83",
+    "url_diff": "http://absolute.pv.land.to/bof/upload.html",
+    "level": "1"
+  },
+  {
     "id": 3811,
     "md5": "758dcee38a5931b3fb0d0a61feddb324",
     "sha256": "d755d9e99a3a21f64c359999f905248441fd025338306eba3d712ce0acd52fc3",
@@ -2716,6 +2736,16 @@
     "title": "going on R [ANOTHER]",
     "artist": "BMS:○△□ / arrange：ろっきゅ",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=77&event=96",
+    "url_diff": "",
+    "level": "1"
+  },
+  {
+    "id": 7953,
+    "title": "GREENS 2012 [Meta Knight]",
+    "artist": "Yu^ta",
+    "md5": "34dd2e9d5a42e3169fe6bebd2b4103de",
+    "sha256": "02bfbfdf028c3f4c3ea6890848c784964ec2e608b0e0ec8e91ce30d52489cfca",
+    "url": "http://yuinore.net/2017/02/smc-package/",
     "url_diff": "",
     "level": "1"
   },
@@ -5807,6 +5837,16 @@
     "artist": "fether (Remixed by Yamajet) obj:goe",
     "url": "http://www.yamajet.com/music/html/considernumbers3.html",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01762.zip",
+    "level": "3"
+  },
+  {
+    "id": 7940,
+    "title": "Crystal Blossom -SAKI-",
+    "artist": "L.Holic/Snowzero",
+    "md5": "0bc745d21f371da806d36d6d805e7c2b",
+    "sha256": "3368f27559695e9c2693a8fc8796a5ae7f29d850566c90c63307012fc6f34226",
+    "url": "https://drive.google.com/file/d/1S8Xl4r2H2Rp6UK6a_NYK9tMcrjHxZ7cf/view?usp=drive_link",
+    "url_diff": "https://drive.google.com/file/d/1MFloPYnfU52rtxGAWOFlWVMWsQODHKy3/view?usp=drive_link",
     "level": "3"
   },
   {
@@ -10097,16 +10137,6 @@
     "artist": "音樂：佐倉翔一　譜面：七海拓哉 映像：山越矜介　原画：春見琴音",
     "url": "http://leafbms.web.fc2.com/song.html",
     "url_diff": "",
-    "level": "6"
-  },
-  {
-    "id": 7095,
-    "md5": "ef2d11fd7642c5f183097809e1595b9c",
-    "sha256": "d2cc2ab6ba23aad5fbcdd2fedf0036c86f570e1a13e6fc12d07d895e1569f30a",
-    "title": "レシュノルティア [Atharther]",
-    "artist": "あとぅす feat.はらもりよしな BGI:りーふぱいザウルス  obj.Atharnal",
-    "url": "https://venue.bmssearch.net/hanadayori/21",
-    "url_diff": "https://atharnal.github.io/diff/table.html",
     "level": "6"
   },
   {

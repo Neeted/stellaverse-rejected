@@ -1940,6 +1940,16 @@
     "level": "1"
   },
   {
+    "id": 7882,
+    "title": "ネイクド・ワイルド・パラノイド [パラノイド]",
+    "artist": "kei_iwata + saaa BGA:内村徹",
+    "md5": "fc63360d02056d19635e0b66c0f3d462",
+    "sha256": "1d455aa3975c158e3faed12540243fcf289db843cc48e83e49d016ce9e7a08b9",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=140",
+    "url_diff": "",
+    "level": "1"
+  },
+  {
     "id": 3318,
     "md5": "9f8cea0540cef8cde6453868a9e71bd0",
     "sha256": "d4eafbf10f2a79de11697a4c297d2239c45daeaeddecfd39fbd0d3c2dfea1b6c",
@@ -2327,6 +2337,16 @@
     "artist": "Nikolai Kapustin",
     "url": "https://sayakaisbaka.github.io/table/sabun/toccatina_ogg.zip",
     "url_diff": "",
+    "level": "2"
+  },
+  {
+    "id": 7867,
+    "title": "crystallize silver-colder style-(lunatic7)",
+    "artist": "sun3 obj:firi.",
+    "md5": "a05d2b278ce7a58ec58456b4704dc2a2",
+    "sha256": "8a722bdd07b2f251b5ba87caeb2ae836c1fa812ce85590c03898d95b5c6bc928",
+    "url": "https://bmsdrive.zris.work/d/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/crystallize%20silver-colder%20style-.rar?sign=B2w82VO7-vWqefiKklUJhHRMtiSbPMKk7ngWKpttcas=:0",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02835.zip",
     "level": "2"
   },
   {
@@ -3237,6 +3257,16 @@
     "artist": "美月 正 / obj:夢瑠",
     "url": "http://tsubu.ath.cx/~electrogic/bms/yuunagi.rar",
     "url_diff": "http://yumerusabun.web.fc2.com/nue.html",
+    "level": "2"
+  },
+  {
+    "id": 7970,
+    "title": "深化論 [AfterFate]",
+    "artist": "ルゼ feat. えみゅう。 mov:自動車 原付 illust:石王マサト obj.TangenT",
+    "md5": "64fad29264d7362c8090b1d7ede5b3a7",
+    "sha256": "2cd486215d2b0d5b04821d0aa8a0ea8590a04a55667a190036ef16501797a6fa",
+    "url": "https://www.luzeria.net/music/111_sinkaron_ogg.zip",
+    "url_diff": "https://mega.nz/file/LJEi1R6S#fBoDEAWR1-KXx5Wq6OGM81WJaO9vvlIxpYN4yg_1Gnk",
     "level": "2"
   },
   {
