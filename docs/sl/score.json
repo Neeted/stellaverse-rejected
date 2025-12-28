@@ -1500,16 +1500,6 @@
     "level": "0"
   },
   {
-    "id": 5359,
-    "md5": "443b6682de1490599f0935586613b32e",
-    "sha256": "9a84d05ddc3f7ecd6085269439058c75d1205953715ba030d7d7d97b51efbf62",
-    "title": "Vital Sign [ICU]",
-    "artist": "Yusuke Takeuchi",
-    "url": "https://web.archive.org/web/20110906051956/http://www.commonsense.nu/songs/vital_sign.zip",
-    "url_diff": "https://bms.parksulab.xyz",
-    "level": "0"
-  },
-  {
     "id": 4377,
     "md5": "596b027f2a75e9c05dfd53798d26e232",
     "sha256": "03125a02fb68b72444d3a43bb2df2eef3077552672e5416d4ed1ce9c5d4b4258",
@@ -2267,16 +2257,6 @@
     "artist": "Mellover / Harusabin 7Key - Mellover/SmiGoon",
     "url": "https://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=9&order=reg&odtype=a",
     "url_diff": "",
-    "level": "1"
-  },
-  {
-    "id": 4140,
-    "md5": "ecaa6b72800bfa3eeaa9f36b7a463d42",
-    "sha256": "5cc84a3bc75db582a7f6f163d1c2940f28a4a51e8a0b40c1eeeb007ab4a712c5",
-    "title": "BRIGHTONE 7A",
-    "artist": "onoken obj:R1N",
-    "url": "http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/03945.zip",
     "level": "1"
   },
   {
@@ -3157,16 +3137,6 @@
     "artist": "void feat. Salita Momomi Aoyama / obj : BAECON",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=243&event=96",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/04667.zip",
-    "level": "1"
-  },
-  {
-    "id": 6106,
-    "md5": "9603236c8b558c15c0f1f3e3f9dfa40a",
-    "sha256": "90e4276c5df8ab6cb324fcafe4a7cb0dc86e1fe456bf5924ae318938265987e1",
-    "title": "real words [reasonable]",
-    "artist": "CAMEL (Original: Elwood) pattern for some reason",
-    "url": "https://mega.nz/file/jWZHDQgB#DzEgGBFY6KASHijW9hWuUNu9Xs960vgwAxo52uQYDiA",
-    "url_diff": "https://darksabun.github.io/event/1998to2024/",
     "level": "1"
   },
   {
