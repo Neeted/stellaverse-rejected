@@ -3750,6 +3750,16 @@
     "level": "1"
   },
   {
+    "id": 8003,
+    "title": "操リ人形ノ舞ニ意味ハ有ルカ [Amoris]",
+    "artist": "LYRi_WHiTE × HiHUMi bms.LYRi_WHiTE // mov.斗湖 × KuRo_Ronlo obj.TangenT -こんにちにゃむにゃむ?♪-",
+    "md5": "7a579d72353c4434ff788c1b3cf1c7c7",
+    "sha256": "1ff7e6cb3ceb6b7e8fe6aab63ba4940e0b14ae51327473e3fb54b462fde2f6a8",
+    "url": "https://docs.google.com/uc?export=download&id=1aa4XPVk32LCJw561Ew32gZEBlX8iir_g",
+    "url_diff": "https://mega.nz/file/iYMWEapZ#kyok5UFoyQwFsN-Phd8Paix9oGvus0NGFTpjkGji63k",
+    "level": "1"
+  },
+  {
     "id": 1187,
     "md5": "ddab030e51246d75bed80518ce6e9788",
     "sha256": "cd8d5e48d5613380f15e5259b530012d936cff96a9dacb483bc273b2466d88ec",
@@ -6940,6 +6950,16 @@
     "level": "3"
   },
   {
+    "id": 1081,
+    "md5": "2809912c0673309d5a3e1b5d2e5eabc8",
+    "sha256": "bb9d879d2aa0187475e9539fa837dfa871188bf1ab5e3d81b6f1c139710a9325",
+    "title": "天海原～あまみはら～ [水平線]",
+    "artist": "うまるつふり obj.rat",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=123",
+    "url_diff": "",
+    "level": "3"
+  },
+  {
     "id": 2935,
     "md5": "9a6a6985e324bad7618034170e75c895",
     "sha256": "3dc718623be048d36527823f6506468d7afbf7765e71d3ab5168a734f4543296",
@@ -10110,6 +10130,16 @@
     "level": "6"
   },
   {
+    "id": 8005,
+    "title": "ユングフラウ [SP INSANE]",
+    "artist": "Rner obj. Atharnal",
+    "md5": "ab7037b40b3be780eac46cd7970ce6df",
+    "sha256": "1e0365bb7d5d5e0657b8dc2aef25eeb9adb3e2ed1b1a1e4db85ab8fa32405566",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=136&event=149",
+    "url_diff": "",
+    "level": "6"
+  },
+  {
     "id": 4558,
     "md5": "fa091c23a08d1c74c0de7db004f0c8b5",
     "sha256": "b4ace323b191649d418190f339e4af053a311b1a7b3f6bece9d2703ee6ba20d5",
@@ -11917,6 +11947,16 @@
     "sha256": "2fbedaa42c3fea5a7a34620030402d5668ee52c50a8089cb0ab85ed2a96cfb0f",
     "url": "https://www.dropbox.com/s/fw5ig0d5459i9o2/futurity.zip?dl=1",
     "url_diff": "https://darksabun.github.io/event/bcel/sabun/A1a_LuvTek.zip",
+    "level": "9"
+  },
+  {
+    "id": 7007,
+    "md5": "de4824f6b8b740c468bb592016cc7d8e",
+    "sha256": "2c52398e01fa4ca1b0813e28d4456eefd0990bed433baf0a89c28e30fa435a6a",
+    "title": "Gale of Viridian [MONOCHROME]",
+    "artist": "白羽",
+    "url": "https://drive.google.com/file/d/1qiuatgV400Kroj6QQ_k0FJ1VkfT6PLOx/view?usp=sharing",
+    "url_diff": "",
     "level": "9"
   },
   {

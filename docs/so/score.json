@@ -120,6 +120,16 @@
     "level": "0"
   },
   {
+    "id": 8004,
+    "md5": "5b0a7c260a92ff74b3f697ea75a3c22f",
+    "sha256": "7a97dc957960a003745ca860ed8ee9aecacf23efcc5250d41642d1d32a0598b2",
+    "title": "純白世界 [SP ANOTHER]",
+    "artist": "Northad feat. Aletta Obj: Z6W2A / BGA: Qiyu",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=383&event=149",
+    "url_diff": "",
+    "level": "0"
+  },
+  {
     "id": 7475,
     "title": "Jerusalem",
     "artist": "scamp",
@@ -427,6 +437,16 @@
     "sha256": "efb9e0f3e3373e5fcfdcc18fb3c80f7f7c9865a68d152a9d770041448647c4b0",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=127",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/03483.zip",
+    "level": "10"
+  },
+  {
+    "id": 7999,
+    "title": "Ancient Memory(longEX)",
+    "artist": "ZUN (Arr.sun3) / ds",
+    "md5": "1e36f2acddb47bbe829d0580e63fddbe",
+    "sha256": "bb462881a7aa73387ce53610640ee665c1db8030f7c65668bd1a21566e7db9b4",
+    "url": "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
+    "url_diff": "http://sagena.harisen.jp/bms/amlong.zip",
     "level": "10"
   },
   {
