@@ -130,6 +130,26 @@
     "level": "0"
   },
   {
+    "id": 8118,
+    "title": "A c i - L - N 1 0 0",
+    "artist": "裏 吉 川 / o b j : D 1 1",
+    "md5": "9ad6a250253cc2b870845d623a990790",
+    "sha256": "bf096c7c90b28695591dc740bf3c770fc34d79ed26860a3c86fabe4ca80a79fa",
+    "url": "http://malie.noor.jp/archive/aci-L.rar",
+    "url_diff": "https://web.archive.org/web/20100221070853/http://asdf.bms.ms/junk/apd/d11_aciL_apd.lzh",
+    "level": "1"
+  },
+  {
+    "id": 8012,
+    "title": "Caterpillar Song -夢譜-",
+    "artist": "溥儀ゆら原子の力しきみmashana与作 /obj 窓付き-Mad2ki-",
+    "md5": "3922961b046de9d5b1b229847b3621b8",
+    "sha256": "1e0abff9dc37d2e98f00324867ed7e3bda4cd4980adb16619b45595755f89035",
+    "url": "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
+    "url_diff": "https://darksabun.club/mirror/absolute/turntable/up0137.zip",
+    "level": "1"
+  },
+  {
     "id": 7475,
     "title": "Jerusalem",
     "artist": "scamp",
@@ -190,6 +210,16 @@
     "level": "3"
   },
   {
+    "id": 8078,
+    "title": "Myosotis [Another]",
+    "artist": "椿./movie.D・ENNY/ill.のこのこ",
+    "md5": "1a1af7098162db7249c37e1bc4cc04cf",
+    "sha256": "6eed05a8464aebe24ec19b8932a40c6236301171ccd817ca0d9fff9040ef7a6d",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=200&event=142",
+    "url_diff": "",
+    "level": "3"
+  },
+  {
     "id": 7443,
     "title": "Sphere",
     "artist": "arrange:A.S-Leaf / illustration:岾兎。",
@@ -240,6 +270,16 @@
     "level": "4"
   },
   {
+    "id": 8062,
+    "title": "YUGAMINAI LOVE  [ゆがみないアナザ－]",
+    "artist": "kinohito/sanohito",
+    "md5": "9d269d1a1fefc3c6e571884a18f09761",
+    "sha256": "8f6b31e28199fcd665f3e0fad3a15402dc6194de7e5a56fbf6c70f30ced5373d",
+    "url": "https://drive.google.com/file/d/1zVGx-5yvyZOELX7yjsKdeshxSVs9M52O/view?usp=sharing",
+    "url_diff": "https://web.archive.org/web/20190211031819/http://sabosabun.tank.jp/sabun/ygmny.zip",
+    "level": "4"
+  },
+  {
     "id": 7956,
     "title": "風神少女 (astropolis bitstream mix) [Wother]",
     "artist": "Y-ItoO BGI : Marin Yamada / obj : wosderge",
@@ -287,6 +327,16 @@
     "sha256": "aab0a691ccc6ca13962c18db61b3f39dfe5c5d694d6f1c02c22f0ad24bb7517a",
     "url": "https://bmsdrive.zris.work/d/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/Quick%20Scamper%20Girl.rar",
     "url_diff": "https://nick.xxxxxxxx.jp/29-quick_scamper_girl.lzh",
+    "level": "5"
+  },
+  {
+    "id": 8061,
+    "title": "でじたるふぁじー！ -Radio Edit- [FuZZy]",
+    "artist": "ねこみりん / 小宮真央 / わんびぃ / Symphonian",
+    "md5": "3fd10bd54cbc92980722f3a48192d9af",
+    "sha256": "0245bcbf81ddb3a681c2f5788f5e482af83b11289eb5edf72ab621b6e7e72ad9",
+    "url": "http://www.nekomirin.com/bms/nekomirin_digital_fuzzy_HQogg.zip",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/bof/up0065.zip",
     "level": "5"
   },
   {
@@ -420,6 +470,16 @@
     "level": "8"
   },
   {
+    "id": 8027,
+    "md5": "d9641cd5d7d2f9fdfbb3ba52ce1e8878",
+    "sha256": "9abb7b8ae9ed75cf70752c57c5eedf9172581a80b2b39ee44a54609df909eb9c",
+    "title": "Illusory Alice(lunatic7)",
+    "artist": "sun3 /obj : yuyu3",
+    "url": "https://bmsdrive.zris.work/d/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/Illusory%20Alice.rar?sign=reoF23gC4FvDV2iwMgC5QrNobjQmSEvIts3lXYs12gk=:0",
+    "url_diff": "本体差分同梱",
+    "level": "9"
+  },
+  {
     "id": 7779,
     "title": "Summer night Nostalgia -MANIACNIGHT-",
     "artist": "Rafel (obj.mp)",
@@ -457,6 +517,16 @@
     "sha256": "8b53869151e02593dc9393d2291df75150c042eb063782ffe4d4ce8e89a87375",
     "url": "https://bmsdrive.zris.work/d/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/EXILE.rar?sign=1OI2OuLH0TX8yThet3MqitjilFDyZx-xTF3YIFRAT7c=:0",
     "url_diff": "https://drive.google.com/file/d/1l9GXiua4EciP0F1dH0-xKjP9FkvVUJ6h/view?usp=drive_link",
+    "level": "10"
+  },
+  {
+    "id": 8028,
+    "title": "The World Tree [終末]",
+    "artist": "uma / zdazwt",
+    "md5": "1b8110b07f3a307a46748fb65fbf55a7",
+    "sha256": "c2a90874f34780d3c2ff6f27f099a0ffa475bbcb613dc1d85b7f7df6a3705960",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=333&event=149",
+    "url_diff": "https://darksabun.club/event/bof21/",
     "level": "10"
   },
   {
@@ -517,6 +587,16 @@
     "sha256": "7ac3e095f04c73c8cf4356056ad739db5c4efefe54ff58d6dad903b82453ff5a",
     "url": "https://www.dropbox.com/s/wur24vgh82o69gb/ACEECADOLL.rar?dl=1",
     "url_diff": "http://flowermaster.web.fc2.com/nanakibms/aceecadollrenda.zip",
+    "level": "12"
+  },
+  {
+    "id": 8015,
+    "title": "E.V.E.R[BLACK ANOTHER]",
+    "artist": "SOMON",
+    "md5": "404649729fd06ab8fe0aa449bd93d214",
+    "sha256": "2f381e6390851c03ec0bf51927defa7e30cf938241efe60f3b2e0f2b78b55aed",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=445&event=146",
+    "url_diff": "",
     "level": "12"
   },
   {
