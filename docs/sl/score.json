@@ -3710,6 +3710,16 @@
     "level": "1"
   },
   {
+    "id": 8108,
+    "title": "ルミナスライツ [Glow]",
+    "artist": "Est feat.雪歌ユフ obj. MiyakoMeow",
+    "md5": "35706c8cc19313602db48b7818015b32",
+    "sha256": "de05472eccb7245df2dfe80b8bbc8db04cc88488e6ac0de50b673a36fb4b64d6",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=74",
+    "url_diff": "https://stellabms.xyz/upload/6771",
+    "level": "1"
+  },
+  {
     "id": 1987,
     "md5": "e5de5ecec3da46cf9beb08fe103b2e3d",
     "sha256": "e721f645cf678a6e054e3a4f964d51b8a4aaec1e5c44526b2ac79bb8a35b70a2",
@@ -10870,6 +10880,16 @@
     "level": "7"
   },
   {
+    "id": 1186,
+    "md5": "268c1dac8a7de3c540e0c434255ad4b2",
+    "sha256": "5705babfe09d04d3776cb74691d185a01eb634cc9773b76ce060f0f2fc5ea3a6",
+    "title": "エリフィと白昏の夜 [ZOI]",
+    "artist": "Se-U-Ra obj:SUZUKAZEΛ",
+    "url": "http://qstol.info/events/venue/detail?event=3&id=6",
+    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+    "level": "7"
+  },
+  {
     "id": 5136,
     "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
     "sha256": "cb12d3772adf62bd7bb0ca43e71858b89d700c5497d57e14c6b0cccde9950a0c",
@@ -11127,6 +11147,16 @@
     "artist": "朝武芳乃 vs. 常陸茉子 obj:綾地寧々",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=376&event=116",
     "url_diff": "",
+    "level": "8"
+  },
+  {
+    "id": 2456,
+    "md5": "14aeaa74a92fb73baa3687d97f7e050f",
+    "sha256": "040ad335c70d8490dcabeec5075c82a7abadef4b4ddcb8b8a8df06e46cb6c9e4",
+    "title": "Coda [ZOI]",
+    "artist": "mossari obj:SUZUKAZEΛ",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=210&event=104",
+    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
     "level": "8"
   },
   {
