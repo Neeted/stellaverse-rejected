@@ -1000,16 +1000,6 @@
     "level": "1"
   },
   {
-    "id": 6166,
-    "md5": "45a39755153cb486ba1566a2a03b3b79",
-    "sha256": "e3c292c9dc583e964a67f08de2100a8b906ff8053819b25594d408d18b027181",
-    "title": "Agilion [INSANE]",
-    "artist": "LeaF",
-    "url": "https://venue.bmssearch.net/bmstukuru2022/3",
-    "url_diff": "",
-    "level": "1"
-  },
-  {
     "id": 3085,
     "md5": "4b17f82c41c0e1ea29b4df13794e840f",
     "sha256": "f60efebf3e4c772cd03adc55315e3efb99f694e13e0d231498753f0ebb39c3a0",
@@ -5487,16 +5477,6 @@
     "artist": "REX / obj:Criyajuh",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=148&event=96",
     "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
-    "level": "5"
-  },
-  {
-    "id": 5616,
-    "md5": "b8a4c1a587fd30443ce896e426136c25",
-    "sha256": "2ba64ff126a3ee63f5797634dd21c606a132b8585dc926cd95eee9c7d7340967",
-    "title": "BATTLECRY [FINAL]",
-    "artist": "Ryan",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=133&num=34",
-    "url_diff": "",
     "level": "5"
   },
   {
