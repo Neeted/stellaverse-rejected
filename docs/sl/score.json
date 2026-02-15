@@ -6260,6 +6260,16 @@
     "level": "3"
   },
   {
+    "id": 8153,
+    "title": "PHYSALIS [XORM]",
+    "artist": "TAG bms.Spehs & Hihumi // movie.ShakeJ // obj:hecando",
+    "md5": "435ea74acf197b57e0d37c840345fb12",
+    "sha256": "91f9c9b1042abbe17fc7c209f10d6cca917caffedfca58ccda32c47b2ef9d881",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=125&event=146",
+    "url_diff": "https://stellabms.xyz/upload/6428",
+    "level": "3"
+  },
+  {
     "id": 1462,
     "md5": "5e93c6521248d7e2022aa9eaaa938e10",
     "sha256": "bbd722d8f44453a88263722370cb72234617b7cb631c3fe122ed15ad081fa0d5",
@@ -11367,16 +11377,6 @@
     "artist": "Lian",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=127",
     "url_diff": "",
-    "level": "8"
-  },
-  {
-    "id": 4493,
-    "md5": "6cd18b84ad51cef1328124ece01fdcc5",
-    "sha256": "8a81afac6e1d1648c9add4f3cd2dbb0b6e0557eaf10b2210b4ebedf98cba8110",
-    "title": "In the Cell [Maniac]",
-    "artist": "yassu / air",
-    "url": "http://sound.jp/brilliantharmony/",
-    "url_diff": "https://dl.dropboxusercontent.com/s/g3ig60n2oi3nc9g/airsabun.zip",
     "level": "8"
   },
   {
