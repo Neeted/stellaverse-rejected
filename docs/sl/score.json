@@ -9220,6 +9220,16 @@
     "level": "5"
   },
   {
+    "id": 3588,
+    "md5": "df125a0ac8d8f1759d7e72e82dc6d454",
+    "sha256": "a8a17c1d7e049da2e4f33eb31d71f923d76b3660d78a9814a7236fe59900d8f5",
+    "title": "バステット [EX]",
+    "artist": "Jehezukiel / obj. AXION",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=133",
+    "url_diff": "https://stellabms.xyz/upload/436",
+    "level": "5"
+  },
+  {
     "id": 2839,
     "md5": "933a2688d78d4dfdb3b7a0531658c61c",
     "sha256": "fcaea4cb13b8375493af1d4a6ccb2bd9bd532c7e0af6c42b25be7bac8c4f468b",
@@ -11340,6 +11350,16 @@
     "level": "8"
   },
   {
+    "id": 2341,
+    "md5": "ecbd20da05427e4fef8f3d3234f1c57b",
+    "sha256": "a1206f42f70bbced526d6bc7510de4683bd29c4c1f32072b6a14ae564cc30431",
+    "title": "introspect [KF7]",
+    "artist": "Lokan",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=211&event=127",
+    "url_diff": "https://darksabun.github.io/bceg/event/bofxv/",
+    "level": "8"
+  },
+  {
     "id": 1377,
     "md5": "6f9693c5c1e9603da677aa31f299e1c3",
     "sha256": "0d16887f4b704058cc15c4bda96a21d5e3dfa3390a7fc634a2f404fa1f448c05",
@@ -11547,6 +11567,16 @@
     "artist": "くっちー / obj:BAECON",
     "url": "http://tohotodan3.iza-yoi.net/start/hall/toho3hall1.html",
     "url_diff": "https://www.dropbox.com/s/n8v2l91qngu3xyz/%E3%82%B5%E3%83%B3%E3%83%89%E3%82%A4%E3%83%83%E3%83%81.zip?dl=%EF%BC%90",
+    "level": "8"
+  },
+  {
+    "id": 8175,
+    "title": "Unfictioniam",
+    "artist": "USOTA FUMINORI design : absorb spanish / obj.XYZ",
+    "md5": "5a7c680b4b74c1ec231348a1bcf21503",
+    "sha256": "ff2c21fd5aecb24c2a3888d8c05b42233e7c80848673175a0e64663ca6383be8",
+    "url": "https://web.archive.org/web/20160922045714/http://gmtn.sub.jp/usota_fuminori.zip",
+    "url_diff": "https://tejawha.github.io/objxyz/",
     "level": "8"
   },
   {
@@ -13770,16 +13800,6 @@
     "level": "12"
   },
   {
-    "id": 7069,
-    "md5": "3c9e3bc618aad5166d8fed46c018018d",
-    "sha256": "a7f9aae90e04fd3390e66c9b5b03d86a8b14fbec1b8cb3e10bf61de61e00ba15",
-    "title": "Acacia [Redacted]",
-    "artist": "Snowyplane",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=135",
-    "url_diff": "https://stellabms.xyz/upload/5266",
-    "level": "12"
-  },
-  {
     "id": 4984,
     "md5": "b976caab8aba1c023ba191bd1e1942d8",
     "sha256": "f4ac47d39ba577ee3ab64a7d89bf0f1ba8652cdfc6d61b874408cacaf4a14bba",
@@ -14387,6 +14407,16 @@
     "artist": "DJ Aye^2 BGI: VJ Giraffe OBJ:И",
     "url": "https://venue.bmssearch.net/bmsshuin3/42",
     "url_diff": "https://darksabun.github.io/sabun/Spherescense_reentry.zip",
+    "level": "12"
+  },
+  {
+    "id": 5095,
+    "md5": "02b121abd3f789ac0c4ef43079e891a1",
+    "sha256": "f53deea6429b17b863702f5daa0a9554ea4841721f0a760190eab00bfebf4927",
+    "title": "squartatrice",
+    "artist": "美樹さやか vs. 美樹さやか (fw. 美樹さやか) BGA ： 美樹さやか",
+    "url": "https://extrose.stoicsounds.jp/_data/bms/gmtn/%2319%20%5BHARD%20RENAISSAYAKA%5D%20squartatrice.zip",
+    "url_diff": "",
     "level": "12"
   },
   {
