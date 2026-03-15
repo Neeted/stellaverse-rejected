@@ -180,6 +180,16 @@
     "level": "1"
   },
   {
+    "id": 8245,
+    "md5": "bc56d239a7a84dbf49c94fdc3677416a",
+    "sha256": "bb6cc6296a708336ba51ee09e70cfa5a5e6e74592736c1bb85afd1d04ff6286e",
+    "title": "ピアノ連弾的「You」～ひぐらしのなく頃に～ [ANOTHER]",
+    "artist": "じぽたん MIDI : 猫姫 obj : .RED",
+    "url": "http://www.geocities.jp/red_without_right_stick/",
+    "url_diff": "",
+    "level": "1"
+  },
+  {
     "id": 7784,
     "title": "AURORA [EX]",
     "artist": "roop / obj. AXION",
@@ -287,6 +297,16 @@
     "sha256": "d49047725402044bbac98697bd062f73c19d229dc5600cf49d7da6aea5018df8",
     "url": "http://megane-club.cf/bms/bofu2015_meganeclub_1001_glasses.zip",
     "url_diff": "http://absolute.pv.land.to/bof/src/up1265.zip",
+    "level": "4"
+  },
+  {
+    "id": 8205,
+    "title": "Lightning Stinger [SP ANOTHER]",
+    "artist": "ROKINA BGA: 空読無 白眼",
+    "md5": "31e0e6f4d68d38701eb334aac70b9467",
+    "sha256": "1fc900d1ad6e077dd17db451f837261ff41c545ee5a0c6ae76ef9c9a4a8a1f86",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=149",
+    "url_diff": "",
     "level": "4"
   },
   {
