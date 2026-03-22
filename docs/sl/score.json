@@ -1540,16 +1540,6 @@
     "level": "0"
   },
   {
-    "id": 4889,
-    "md5": "09f70fef057a5ef2e3a4cae194d5388b",
-    "sha256": "4f4d4b54d5522a8a345e1caeda742a7b02d2f6568bba1c302bada9e169090b46",
-    "title": "whence [SP ANOTHER]",
-    "artist": "qfeileadh feat.kei_iwata mov:e381b5e38187e38184e38286e3818ae38186",
-    "url": "https://k-bms.com/party_pabat/party.jsp?board_num=21&num=38&order=reg&odtype=a",
-    "url_diff": "",
-    "level": "0"
-  },
-  {
     "id": 1292,
     "md5": "1723b2cca46d6486419ade2a03d33546",
     "sha256": "58fe4aa4dbe477fcf04273bba715bfa5bb7a8ce2ee841fa065098a58f58413c3",
@@ -11090,6 +11080,16 @@
     "level": "8"
   },
   {
+    "id": 8341,
+    "title": "Baby Baby Frenzy -Xe-",
+    "artist": "er obj:LindBlum",
+    "md5": "d5dde12a42c8d7cb794f3054275da599",
+    "sha256": "af980907fa04a74b44fc7fe68e5efcfe21f2c0f942fb1dfe66f9c342ab0c5faf",
+    "url": "https://dropbox.bms.ms/u/28765267/er_baby-frenzy.zip",
+    "url_diff": "https://darksabun.club/event/renewal2/",
+    "level": "8"
+  },
+  {
     "id": 3618,
     "md5": "b4163ff1e58c1277645244008a2311ce",
     "sha256": "623f7af79842aa44bc581e736a18e73fbbceac6ef7bf7d3ca31a47b6dbe1b553",
@@ -12027,16 +12027,6 @@
     "artist": "judithz / obj:Sar",
     "url": "https://bms.kyouko.moe/torrent/BMS_Library/klimt%20(by%20judithz).rar",
     "url_diff": "https://darksabun.club/mirror/absolute/uploader/up6681.zip",
-    "level": "9"
-  },
-  {
-    "id": 1940,
-    "md5": "77e8079b669f93eed152b8705f9bf812",
-    "sha256": "0ae4b13a2392c203114216c623c62663ca8d39c92db9a81368b6c96305edda55",
-    "title": "LOVE'S REBIRTH [MANIAQ]",
-    "artist": "TAROS / obj.siokaze",
-    "url": "http://web.archive.org/web/20020610220554/http://www.ag.wakwak.com/~taros/loverebirth.exe",
-    "url_diff": "http://siokazebms.web.fc2.com/",
     "level": "9"
   },
   {
@@ -13087,16 +13077,6 @@
     "artist": "ツナマヨちゃん / Snowzero",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=73&event=22",
     "url_diff": "https://snowzero.lanzoui.com/iZlL83217rmd",
-    "level": "11"
-  },
-  {
-    "id": 3807,
-    "md5": "adaa8815f5c7f2d46fc2746f270bbd1a",
-    "sha256": "0800f44fb46f5cfa6e36a2d2f76ef1690d029c7ff22ed2f25cc1667d2d75b527",
-    "title": "Blah Dha [INSANE]",
-    "artist": "saaa",
-    "url": "http://k-bms.com/party_pabat/party.jsp?board_num=21&num=9&order=reg&odtype=a",
-    "url_diff": "",
     "level": "11"
   },
   {
