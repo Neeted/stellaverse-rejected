@@ -5380,6 +5380,16 @@
     "level": "4"
   },
   {
+    "id": 6152,
+    "md5": "a55384067f440a83f01cfb0d691647f7",
+    "sha256": "735e4eb36a6a931d245c955fe36d32e9a8951d60e7a38ce387c8cabff9dedcf3",
+    "title": "恋愛シンドローム [kawaii]",
+    "artist": "佐久間まゆ / 星輝子 / obj.uio",
+    "url": "https://dropbox.bms.ms/u/59509271/BOF2013/renai_syndrome_ogg.zip",
+    "url_diff": "http://web.archive.org/web/20190201212813/http://absolute.pv.land.to/uploader/src/up6696.zip",
+    "level": "4"
+  },
+  {
     "id": 3213,
     "md5": "4724abf1ae1b9a575abc966c22cd331f",
     "sha256": "739485e781aeb5c6b5f662a3335c0bf64a9b9ede9a2ca8aaf0b8af2150d45c66",
@@ -5847,6 +5857,16 @@
     "artist": "S.C.X / LuvTek",
     "url": "https://web.archive.org/web/20040327210651/http://in-bpms.hp.infoseek.co.jp/Bmse/TU.lzh",
     "url_diff": "https://darksabun.club/event/irbattle/",
+    "level": "5"
+  },
+  {
+    "id": 8326,
+    "md5": "c3019fff31129d2db2369617c3b464fd",
+    "sha256": "86f94f11c4293cfc6f7624031f01781580b2ff544726867be9518a0db60badc0",
+    "title": "Telescope[dEELayMASTER]",
+    "artist": "tolz feat.音街ウナ Obj.tsukisaka",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=126",
+    "url_diff": "https://stellabms.xyz/upload/2836",
     "level": "5"
   },
   {
@@ -6760,6 +6780,16 @@
     "level": "7"
   },
   {
+    "id": 8272,
+    "title": "命日 [INSANE]",
+    "artist": "LeaF Movie:Melunia / obj:fuko",
+    "md5": "6247be173fdcb2c366c60e64574c64cc",
+    "sha256": "8400b1fab08bad48f699a6395d911fef6fe3a60c368c43534904b6ca4385409e",
+    "url": "https://venue.bmssearch.net/bmstukuru2023/75",
+    "url_diff": "",
+    "level": "7"
+  },
+  {
     "id": 3995,
     "md5": "de793985c3e85b2e493c26d1b6f06231",
     "sha256": "167df496081b3aafccd9f325a55afdc7db63146ed97533f4eae9ef7c34405b69",
@@ -6827,6 +6857,16 @@
     "artist": "mo_no_chrome / mikasa",
     "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ",
     "url_diff": "http://endymionsan.web.fc2.com/mikasabun.html",
+    "level": "8"
+  },
+  {
+    "id": 8280,
+    "title": "Death Waltz [HTSTERIA]",
+    "artist": "Shinji Hirako obj.Zethiwo",
+    "md5": "cbdc4124a70397f820df4622a0fafe75",
+    "sha256": "665ef8699ba5d6b6d430a9b0bb79c9bfe07c9b78ad11e7a28f852577acc4aa39",
+    "url": "http://sunaneko.iptime.org/BMS_Library/Death%20Waltz%20%28by%20Shinji%20Hirako%29.rar",
+    "url_diff": "https://stellabms.xyz/upload/7183",
     "level": "8"
   },
   {
@@ -7127,6 +7167,16 @@
     "artist": "Azel",
     "url": "https://dl.dropbox.com/u/87297315/_Astraia_BOF2012.zip",
     "url_diff": "",
+    "level": "9"
+  },
+  {
+    "id": 8288,
+    "title": "BRUTALITY [Noc]",
+    "artist": "TARO / obj.otsihpem",
+    "md5": "f3feac3ca76c2bd4913c87a5077b81c7",
+    "sha256": "2a5f0432fc1890bebfbaaf2921d7e40284825d1a5b974459ebbbfbfd9dcabf78",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=144",
+    "url_diff": "https://stellabms.xyz/upload/7016",
     "level": "9"
   },
   {
