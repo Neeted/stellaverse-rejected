@@ -1520,16 +1520,6 @@
     "level": "0"
   },
   {
-    "id": 4377,
-    "md5": "596b027f2a75e9c05dfd53798d26e232",
-    "sha256": "03125a02fb68b72444d3a43bb2df2eef3077552672e5416d4ed1ce9c5d4b4258",
-    "title": "War in the Mirrorworld [ANOTHER]",
-    "artist": "Aoi mov:SELDO / obj:Aoi",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=133",
-    "url_diff": "",
-    "level": "0"
-  },
-  {
     "id": 4378,
     "md5": "ea9ba15c5d02f0a053e2b08508df9f4b",
     "sha256": "eb544fa9a69257dd7f70cf8e845b71b064920fa1ea1d705843fb1304cfea127c",
@@ -1626,16 +1616,6 @@
     "title": "You are a liar. [Lunatic]",
     "artist": "kunzite",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=51&event=129",
-    "url_diff": "",
-    "level": "0"
-  },
-  {
-    "id": 3126,
-    "md5": "311177dd7bad3b57b02fb379d5cd2fbe",
-    "sha256": "95d2058d952c8e5a046ce57bffed9c89340a064e89cdd384b50d534807df1b9f",
-    "title": "ZENITHALIZE [SP ANOTHER]",
-    "artist": "姉ヶ崎 寧々 BGA : photonskyto",
-    "url": "http://electro-planet.net/loveplus/zenithalize.html",
     "url_diff": "",
     "level": "0"
   },
@@ -3587,16 +3567,6 @@
     "artist": "dawn-system Vo: もちこまめ / BGA: うまるつふり＆わっふゑ",
     "url": "https://web.archive.org/web/20160929181432/http://raymaykikou.com/bms/ds2016_barboomy_ogg.zip",
     "url_diff": "",
-    "level": "1"
-  },
-  {
-    "id": 2242,
-    "md5": "c8a8027f25c1fafad0e48c62f83a1a5f",
-    "sha256": "bb9e62c951f00a6970949005aec3f8d60e16673d48b0c886c07b2748599bf19e",
-    "title": "とっとこハム",
-    "artist": "すぎ",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=122",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02744.zip",
     "level": "1"
   },
   {
@@ -7330,16 +7300,6 @@
     "level": "4"
   },
   {
-    "id": 6899,
-    "md5": "f4b92daac0ae7c21878c3545077a164d",
-    "sha256": "c040e84925aee68c1f3bcdd810f7c3b33ed55a92efa44a087043ecc244b687e0",
-    "title": "Colorful Polytope [Cuboctahedron]",
-    "artist": "あさり obj. MAY.AM",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=146",
-    "url_diff": "https://stellabms.xyz/upload/4908",
-    "level": "4"
-  },
-  {
     "id": 3884,
     "md5": "b8bf6163d5c4454ada801c972e95a414",
     "sha256": "81ec4cf6132dcf129bf8292e547456185fa5c815958996d5329f837592616e23",
@@ -9577,16 +9537,6 @@
     "artist": "rider / obj:夢瑠",
     "url": "http://flowermaster.web.fc2.com/riderbms/index.html",
     "url_diff": "http://flowermaster.web.fc2.com/",
-    "level": "6"
-  },
-  {
-    "id": 6567,
-    "md5": "38ea80028ff4fe4d1551df697795a6de",
-    "sha256": "fa7932a2f0f3511e9ba88037e6ceb284c8012fa6fd7589d2bdb682380aae915e",
-    "title": "Frostwitch [SP ANOTHER]",
-    "artist": "Abel & Kamisys with. ESPITZ (feat.重音テトSV) mov. marierie & VARD & Nima",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=419&event=142",
-    "url_diff": "",
     "level": "6"
   },
   {
@@ -13797,16 +13747,6 @@
     "artist": "xi / 制限",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=60",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02056.zip",
-    "level": "12"
-  },
-  {
-    "id": 6799,
-    "md5": "56fe2634686381fe80c87bf57ca5bb34",
-    "sha256": "43f122fcfafd20f6597541e1d5359bbbcdba668a8b374b8a56606fc079162f56",
-    "title": "AzureFall [SP INSANE]",
-    "artist": "RNY",
-    "url": "https://venue.bmssearch.net/bmscoycc/5",
-    "url_diff": "",
     "level": "12"
   },
   {
