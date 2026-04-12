@@ -1860,16 +1860,6 @@
     "level": "1"
   },
   {
-    "id": 485,
-    "md5": "28f5c378b3a11c9742822fa08e6ba99f",
-    "sha256": "6bfd77559618299a7c0e4058310526a311f88db86b10b44c9437771da55d07f3",
-    "title": "エストポリス伝記II ～バトル#2～ (SP ほぼALL KEY)",
-    "artist": "mattaku",
-    "url": "http://oldgamebms.blog33.fc2.com/blog-entry-7.html",
-    "url_diff": "https://darksabun.club/mirror/absolute/uploader/up2708.zip",
-    "level": "1"
-  },
-  {
     "id": 832,
     "md5": "f09e9464ff30610c02a258e2230aa998",
     "sha256": "ac8053c825e9bdf9a0d6dde2394ae3627045f95f1bef5978643be2508ced3767",
@@ -3750,16 +3740,6 @@
     "level": "3"
   },
   {
-    "id": 435,
-    "md5": "fe16ff467c9572543fa6cf96d4fd489b",
-    "sha256": "d5314923a439a827ba906da96453510b936aa52cc1d982bf363949dcfff16a98",
-    "title": "Happico Happico [HiHiHiTHER]",
-    "artist": "Music:しらいし / obj:秘密",
-    "url": "http://www1.axfc.net/uploader/Li/so/128884",
-    "url_diff": "https://www.dropbox.com/s/evlwqddjbobbwt1/_happico_hihihi.bms?dl=1",
-    "level": "3"
-  },
-  {
     "id": 4819,
     "md5": "c4680ec35305a5532606ed27c4dace69",
     "sha256": "190ca631dcea73b188eebd68bb51dac1cb0cc18b79666984716f286e67b99ca5",
@@ -3977,16 +3957,6 @@
     "artist": "sak BGA:猫太郎 obj:BAECON",
     "url": "http://colosseo.nekokan.dyndns.info/c04_shuffle3/detail/view/12/",
     "url_diff": "",
-    "level": "3"
-  },
-  {
-    "id": 6795,
-    "md5": "4cb179dca7fe23c011396005d1647f75",
-    "sha256": "02a3136c7adbf8b9e7242a882356dd49760765afa1e77c560f626e1c02e1ced8",
-    "title": "on the sequence #2 [VQB]",
-    "artist": "6yen / obj:sarada",
-    "url": "http://web.archive.org/web/20060621033701/http://www.commonsense.nu/songs/onthesequence2.zip",
-    "url_diff": "https://srdbms.otodo.net/sabun/sabun.html",
     "level": "3"
   },
   {
@@ -6927,6 +6897,16 @@
     "artist": "Arctures / obj : Mary_Sue + Alpha-Gorila",
     "url": "http://web.archive.org/web/20200606055040/http://sunaneko.iptime.org/BMS_Library/mnemogeny%20%28by%20Arctures%29.rar",
     "url_diff": "https://marysue.darksabun.club/",
+    "level": "8"
+  },
+  {
+    "id": 836,
+    "md5": "641e70eb12f9e0f1a3a3f1b4361c5ee9",
+    "sha256": "9f333ce8df4530b6e9e4f2c9c602923320c8f5addfac317d6f6f8eda2bb51e90",
+    "title": "Name of oath [SP HiHiHiTHER]",
+    "artist": "void feat. コツキミヤ , Gt. えば / obj:秘密 BGA : Photonskyto",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=231&event=65",
+    "url_diff": "http://hiiiii.web.fc2.com/sabun/",
     "level": "8"
   },
   {

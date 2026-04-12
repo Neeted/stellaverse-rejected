@@ -400,16 +400,6 @@
     "level": "0"
   },
   {
-    "id": 2859,
-    "md5": "a89ac1090bceeca352bccfc0801bc5c4",
-    "sha256": "6621bacab90434132d06e4553beae42240135f84397ef222f4a51bd5faed04d0",
-    "title": "Egypt [EZ]",
-    "artist": "judithz / И",
-    "url": "http://onedrive.live.com/?cid=F881BCC298BA2E47&id=F881BCC298BA2E47!104",
-    "url_diff": "https://parksu.darksabun.club/",
-    "level": "0"
-  },
-  {
     "id": 3650,
     "md5": "39cb7b3a1ded3e853875380000c229d9",
     "sha256": "3178bc092fd302fdccc5b32ebad195292fc2c593e5350472636d461d8a74ccba",
@@ -1620,6 +1610,16 @@
     "level": "0"
   },
   {
+    "id": 3126,
+    "md5": "311177dd7bad3b57b02fb379d5cd2fbe",
+    "sha256": "95d2058d952c8e5a046ce57bffed9c89340a064e89cdd384b50d534807df1b9f",
+    "title": "ZENITHALIZE [SP ANOTHER]",
+    "artist": "姉ヶ崎 寧々 BGA : photonskyto",
+    "url": "http://electro-planet.net/loveplus/zenithalize.html",
+    "url_diff": "",
+    "level": "0"
+  },
+  {
     "id": 5951,
     "md5": "44261df9372d7775b637e7b0cc48d322",
     "sha256": "41b8c11e398d80099852794b845b614a58d6d5a08b77a4c2dd25cc7ee9dc65d5",
@@ -2657,6 +2657,16 @@
     "artist": "take-a-nobu SubAtrist",
     "url": "https://isocosa.neocities.org/bms_other.html",
     "url_diff": "https://fsrs.darksabun.club/table.html",
+    "level": "1"
+  },
+  {
+    "id": 8318,
+    "md5": "70421b6bb525b34ba0674f30c0b33735",
+    "sha256": "7c686458db948d1f4a646ab8b83cc774aaf2a6784afdee0d7c83904fd3a7e516",
+    "title": "frost flower",
+    "artist": "Centain",
+    "url": "https://venue.bmssearch.net/irregutime/4",
+    "url_diff": "",
     "level": "1"
   },
   {
@@ -4770,6 +4780,16 @@
     "level": "2"
   },
   {
+    "id": 8366,
+    "title": "rabbies-rabbies [DRUNK FESTIVAL!!]",
+    "artist": "Tiv feat.ハルガスミ / Illust:アカツキユウ",
+    "md5": "b30e4d08328df564b741c1c585af9c5a",
+    "sha256": "3081d50d6f5bb3f9504442f46eee7967390bec35c0202e958628aa5303a764cb",
+    "url": "https://venue.bmssearch.net/bmstukuru2026/2",
+    "url_diff": "",
+    "level": "2"
+  },
+  {
     "id": 1285,
     "md5": "17a602c719ef0f1612fc5afba37953f5",
     "sha256": "0c54e6f64afc5790d8b10bb3e0db2240849ace0ada6e6a81df088d9894cfca32",
@@ -5987,16 +6007,6 @@
     "artist": "kanone",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=327&event=127",
     "url_diff": "",
-    "level": "3"
-  },
-  {
-    "id": 3839,
-    "md5": "6e8f0fdeebd9e2bd83039afd3f7036cc",
-    "sha256": "a7a5fb8ffd00383232e1ee05f1ed76a0c145feb5f81e63b36d86b41a4b6f3205",
-    "title": "Gynandromorph -Hopeless-",
-    "artist": "tarolabo obj:七海",
-    "url": "https://www.mediafire.com/file/44680p3uf7dab41/Gynandromorph.zip/file",
-    "url_diff": "https://dl.dropboxusercontent.com/s/207eu2o05ex5sxp/gynan_nanami.zip",
     "level": "3"
   },
   {
@@ -7617,6 +7627,16 @@
     "artist": "HEXAHEDRA obj.Mallow♪",
     "url": "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21390&ithint=file,zip&authkey=!AGPAXusmRMWjV8s",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/03373.zip",
+    "level": "4"
+  },
+  {
+    "id": 8361,
+    "title": "Lapis [Sineva]",
+    "artist": "SHIKI obj:TangenT-Алексей Петров-",
+    "md5": "a2237d7dc1fa4e8c7214d0738a2723b5",
+    "sha256": "b56dd35fccb0a51929813cebae34182102afa0a43c509b435a50b63bd98c37de",
+    "url": "https://archive.org/download/shiki_bms_202405/SHIKI_bms_collection.rar/SHIKI_bms_collection%2FLapis_HQ_rr6.rar",
+    "url_diff": "https://mega.nz/file/Lct2EBaA#ZvXFv5WnxFg5wfkJx-olZlK3BG6kHj6fuHeX1PvTLUQ",
     "level": "4"
   },
   {
@@ -10060,6 +10080,16 @@
     "level": "6"
   },
   {
+    "id": 6792,
+    "md5": "715b40104c8bd843460ddba18600d95e",
+    "sha256": "fe86147f81085a92a0e233cf533efb7d14b5fe316c049b7e0e9fb3628d4806d3",
+    "title": "ニルヴの心臓 [Seeds of Rebellion]",
+    "artist": "TJ.hangneil+Atomic Sphere feat.Annabel Illust:MON / Movie:MiyazawaEsora / Object:nozomi",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=440&event=146",
+    "url_diff": "https://stellabms.xyz/upload/4630",
+    "level": "6"
+  },
+  {
     "id": 3758,
     "md5": "c3f50a6725578661190659021b3e90cc",
     "sha256": "e837a51127b56e981a4d301c5cb6f10b66b68612e1c7a419ba30dfeacf0542be",
@@ -10467,6 +10497,16 @@
     "artist": "Remixed by BACO feat.えみゅう (Original : xi) OBJ: (^ω^)/",
     "url": "https://drive.google.com/open?id=1zrLndEChstF2ga51v_Dm55q-ULfWS3c2",
     "url_diff": "http://www.dropbox.com/s/vfee0sc8qetygg2/_12_halcyon_rb_7omega.bme",
+    "level": "7"
+  },
+  {
+    "id": 8320,
+    "title": "happy century -Hope-",
+    "artist": "recognize m. / BGA retu / obj:七海",
+    "md5": "afbe949aaea768963eb71d56cacf78b1",
+    "sha256": "346cb08837aaf347f708f10f8fee01451f49ab7388c09e5c313d0c7d6a12ba96",
+    "url": "https://onedrive.live.com/?cid=26D9698EC1CEC044&id=26D9698EC1CEC044%21260&parId=26D9698EC1CEC044%21212&o=OneUp",
+    "url_diff": "https://www.dropbox.com/s/r32eb0ie2qw59li/happycentury_nanami.zip?dl=1",
     "level": "7"
   },
   {
@@ -12030,6 +12070,16 @@
     "level": "9"
   },
   {
+    "id": 6703,
+    "md5": "ba69393c518e3af8e00a26bafb4b4f65",
+    "sha256": "916409dba96356f6d0d766ba833d7235de3d912ba9b2c8493312e630b9409719",
+    "title": "Mugikamagika [Teddy Bear]",
+    "artist": "otoshi.b BGA:ShakeJ / obj : Atharnal",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=146",
+    "url_diff": "https://stellabms.xyz/upload/4511",
+    "level": "9"
+  },
+  {
     "id": 6269,
     "md5": "fb305cbff33b3b5331c6a25b7cad8f07",
     "sha256": "8a0432af1f9420dda24e34f5db27abd02e3e4bd067153680fa538650d8dcdb97",
@@ -12667,16 +12717,6 @@
     "artist": "吟世かいな obj: 8posai edit by qtp13",
     "url": "https://venue.bmssearch.net/ippaitukuru2019/39",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/02721.zip",
-    "level": "10"
-  },
-  {
-    "id": 3119,
-    "md5": "a7c645ec4136c4eb25f10a7556770153",
-    "sha256": "ce95d7670b3ba2abcd0d0928dc6956e9b17ad4d523e38c623e06d92f9778cdcc",
-    "title": "Redestruct (secret)",
-    "artist": "穴楽 / obj:Rian",
-    "url": "https://web.archive.org/web/20120410154435/http://kurenaissance.web6.jp/bms/redestruct.rar",
-    "url_diff": "https://stellabms.xyz/upload/263",
     "level": "10"
   },
   {
@@ -13570,16 +13610,6 @@
     "level": "11"
   },
   {
-    "id": 6932,
-    "md5": "84c3d7ee51e3dcd4fa1577e233e81bc7",
-    "sha256": "0f919efbbf9f4908d550eb1bb4d639d148dd7ba3250cb1acb3e7aa5799ab2092",
-    "title": "巫女 [13another]",
-    "artist": "tarolabo obj: qtp13",
-    "url": "https://www.mediafire.com/download/by2b0ylqnkeu2p9/%E5%B7%AB%E5%A5%B3.zip",
-    "url_diff": "https://venue.bmssearch.net/ssss_free/5",
-    "level": "11"
-  },
-  {
     "id": 6262,
     "md5": "e7ee9ae27da20e84fff1da9b958fff43",
     "sha256": "48c06b4c32608de1043c4b3ac261455c28fc8f655b7fd67dbf1cddc427b21ae6",
@@ -14087,6 +14117,16 @@
     "artist": "nmk / obj:ひめささ",
     "url": "https://docs.google.com/uc?authuser=0&id=0B97xj9Ow1Tu8c01uVWlQQURxV00&export=download",
     "url_diff": "http://drive.google.com/file/d/0B6gzvhYqRdovWi1iYUEwRkRlRHM/view?usp=sharing",
+    "level": "12"
+  },
+  {
+    "id": 4250,
+    "md5": "24b3d27b614f51a0e317027f7eca93b6",
+    "sha256": "fef3f55507188cd7da941b3efcacfc41770e5e39368b238a9ee13743ee863426",
+    "title": "Metropolis [7key,BITTER]",
+    "artist": "mommy / obj:lime",
+    "url": "http://mommy16807.seesaa.net/article/130886480.html",
+    "url_diff": "http://absolute.pv.land.to/uploader/upload.html",
     "level": "12"
   },
   {
