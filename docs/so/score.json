@@ -410,6 +410,16 @@
     "level": "6"
   },
   {
+    "id": 8403,
+    "title": "K.K.B.B.K.B.B.",
+    "artist": "nora2r / 出前",
+    "md5": "111f943a758e678f30efc264a3d12a8c",
+    "sha256": "76c348c48f79788516eec96ac0ca54580ed809264ee3c18226d37f114f526986",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=88",
+    "url_diff": "https://stellabms.xyz/upload/2790",
+    "level": "6"
+  },
+  {
     "id": 7306,
     "title": "Largest Mighty Power [EX]",
     "artist": "scytheleg obj:o.c.",
@@ -508,16 +518,6 @@
     "url": "https://onedrive.live.com/?authkey=%21AM4qWW6_OzqxnJY&id=344D670279808113%21131&cid=344D670279808113",
     "url_diff": "",
     "level": "7"
-  },
-  {
-    "id": 8341,
-    "md5": "d5dde12a42c8d7cb794f3054275da599",
-    "sha256": "af980907fa04a74b44fc7fe68e5efcfe21f2c0f942fb1dfe66f9c342ab0c5faf",
-    "title": "Baby Baby Frenzy -Xe-",
-    "artist": "er obj:LindBlum",
-    "url": "https://dropbox.bms.ms/u/28765267/er_baby-frenzy.zip",
-    "url_diff": "https://darksabun.club/event/renewal2/",
-    "level": "8"
   },
   {
     "id": 7709,

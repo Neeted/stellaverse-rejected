@@ -370,16 +370,6 @@
     "level": "0"
   },
   {
-    "id": 479,
-    "md5": "d0e4a22b55e1aadb8f7180d84e4ca400",
-    "sha256": "97a7d940b487f8b3b6c0fd19d50e40649027deec96f1b3a9e734daaa45b30365",
-    "title": "l'amour d'triste",
-    "artist": "orangentle / obj: Tristan97",
-    "url": "http://1drv.ms/1AIDzi6",
-    "url_diff": "https://drive.google.com/open?id=0B7YPM4581YbMWkVJRV9PVFhHZW8",
-    "level": "0"
-  },
-  {
     "id": 563,
     "md5": "b270135eae9627731c2b014ccf2885b0",
     "sha256": "4a52e4daf79aab01bb1c11d08e09977b232aa0d17e083950cc36ff27a8f94a5e",
@@ -2727,6 +2717,16 @@
     "artist": "Queen P.A.L. VJ KINTA / Lyntevia",
     "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/oNEAVCTB",
     "url_diff": "https://venue.bmssearch.net/sd_sand/5",
+    "level": "2"
+  },
+  {
+    "id": 479,
+    "md5": "d0e4a22b55e1aadb8f7180d84e4ca400",
+    "sha256": "97a7d940b487f8b3b6c0fd19d50e40649027deec96f1b3a9e734daaa45b30365",
+    "title": "l'amour d'triste",
+    "artist": "orangentle / obj: Tristan97",
+    "url": "http://1drv.ms/1AIDzi6",
+    "url_diff": "https://drive.google.com/open?id=0B7YPM4581YbMWkVJRV9PVFhHZW8",
     "level": "2"
   },
   {
@@ -7677,6 +7677,16 @@
     "artist": "kireji / obj:ｨｨｨｨｵｵｳﾞｨｨｲｲｵｳﾞｨｲｲｲｲ",
     "url": "http://bounge.sakura.ne.jp/kireji_enka.rar",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01838.zip",
+    "level": "11"
+  },
+  {
+    "id": 8387,
+    "title": "焼きまんじゅう to you [ひよこまんじゅう]",
+    "artist": "oo-kani feat.東北きりたん obj:東北きりたん",
+    "md5": "f3879759042dd4020ae3e92ecd3df7b0",
+    "sha256": "f9982684942d40a65fe53fd928d0ff347975c16cc4c5540de37ea678fd40bba1",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=147",
+    "url_diff": "https://stellabms.xyz/upload/5622",
     "level": "11"
   },
   {
