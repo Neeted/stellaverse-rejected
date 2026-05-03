@@ -820,16 +820,6 @@
     "level": "0"
   },
   {
-    "id": 2562,
-    "md5": "fbb939d7ccc229063ef3c081837c726d",
-    "sha256": "5f60d8568df7d434db591eadec88d80ed1f7754ff5ce1f88a3e1178c26c715f1",
-    "title": "Mario Paint (Time Regression Mix for BMS) [D-NORMAL]",
-    "artist": "ueotan obj:Fender",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=66&event=84",
-    "url_diff": "",
-    "level": "0"
-  },
-  {
     "id": 5741,
     "md5": "f716461cf5239a9a39a047fd2384b808",
     "sha256": "298a5460f9bd16485658ab856ed4e696bbe44f148f346b03b8844bf51faf6d0c",
@@ -4010,26 +4000,6 @@
     "level": "2"
   },
   {
-    "id": 3567,
-    "md5": "bfa13fbf23ebf30414ee35854de518e1",
-    "sha256": "6d9b419079b03ad3a2a5cbb37a5639af8f80d5d615c17ac93d507f923e1ad081",
-    "title": "Baby Baby Frenzy [Maniac]",
-    "artist": "er /obj.siokaze",
-    "url": "https://dropbox.bms.ms/u/28765267/er_baby-frenzy.zip",
-    "url_diff": "http://siokazebms.web.fc2.com/",
-    "level": "2"
-  },
-  {
-    "id": 6590,
-    "md5": "c96ab7a6c16d05db5ac7f5cb310cfb1d",
-    "sha256": "b3a2115ff0ac4786f3e2d0b3cd746ce3bdf7b615068b926ca8c479ea5e84aaca",
-    "title": "Beautiful Life -Good Morning.-",
-    "artist": "HIPHOP MASTER 金 -KIM- obj.Lapis",
-    "url": "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=1",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/00585.zip",
-    "level": "2"
-  },
-  {
     "id": 6343,
     "md5": "3470dd587c577f6df3422e3000b175bb",
     "sha256": "51592c297100482ee6f177b7216ae7d35cc757946dd2556f324ee8ce21d4e420",
@@ -5950,16 +5920,6 @@
     "level": "3"
   },
   {
-    "id": 5820,
-    "md5": "d62399fc8cdeca39dc24a07368a77c88",
-    "sha256": "923a03e76dfcefec77d13383b30507a40be664f727ec239dd46de12383c9719a",
-    "title": "Flashdance [ZOI]",
-    "artist": "music:litmus* / bms: :Poin7less movie:directed by litmus* / obj:SUZUKAZEΛ",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=123",
-    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-    "level": "3"
-  },
-  {
     "id": 5478,
     "md5": "69d4030cd2a5bf01dbf82cb59e56222a",
     "sha256": "483775a52cc634ef56b96717285ff583c374e054126ec34a3b284d16981c7f52",
@@ -6337,16 +6297,6 @@
     "artist": "ぷらすちっくと理恵の人 obj:monaka",
     "url": "http://tm2.toymusical.net/download.html",
     "url_diff": "http://monaka1374.game-ss.com/bms/convert7",
-    "level": "3"
-  },
-  {
-    "id": 5819,
-    "md5": "d877c16fe6be071e6ad29aa9232ab565",
-    "sha256": "c440e36aa30e4b08aca3c0a589e0c83437f2504a5f938bb3c97ef1aac81a428e",
-    "title": "Rush-More [ZOI]",
-    "artist": "litmus* obj:SUZUKAZEΛ",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=127",
-    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
     "level": "3"
   },
   {
@@ -9127,16 +9077,6 @@
     "artist": "Kuwagata obj : dfsty",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=190&event=116",
     "url_diff": "https://stellabms.xyz/upload/1860",
-    "level": "5"
-  },
-  {
-    "id": 3164,
-    "md5": "2605e918a740a411a9ba71c8c085bb39",
-    "sha256": "4f4810099e0ec52b6f8558fee94b496023ca4dd4264492d7ebcf75c4c2d5bc70",
-    "title": "タタカイノトキ [Dark Another]",
-    "artist": "Arranged by KA-KU original:\"Rude Buster\" from \"DELTARUNE\"",
-    "url": "https://sites.google.com/view/yuruyurubms/phase-6",
-    "url_diff": "",
     "level": "5"
   },
   {
@@ -12050,16 +11990,6 @@
     "level": "9"
   },
   {
-    "id": 6703,
-    "md5": "ba69393c518e3af8e00a26bafb4b4f65",
-    "sha256": "916409dba96356f6d0d766ba833d7235de3d912ba9b2c8493312e630b9409719",
-    "title": "Mugikamagika [Teddy Bear]",
-    "artist": "otoshi.b BGA:ShakeJ / obj : Atharnal",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=146",
-    "url_diff": "https://stellabms.xyz/upload/4511",
-    "level": "9"
-  },
-  {
     "id": 6269,
     "md5": "fb305cbff33b3b5331c6a25b7cad8f07",
     "sha256": "8a0432af1f9420dda24e34f5db27abd02e3e4bd067153680fa538650d8dcdb97",
@@ -13797,16 +13727,6 @@
     "artist": "aym / obj:qfeileadh",
     "url": "http://aym.pekori.to/",
     "url_diff": "https://stellabms.xyz/upload/333",
-    "level": "12"
-  },
-  {
-    "id": 6844,
-    "md5": "37fae69c6776957bd11cf964875988dc",
-    "sha256": "2386e593b829918e75e9955cdbafd81383282b38365738f754fa6b41603da3de",
-    "title": "Catz maze [Exit]",
-    "artist": "Nima",
-    "url": "https://venue.bmssearch.net/bmstukuru2025/9",
-    "url_diff": "",
     "level": "12"
   },
   {
