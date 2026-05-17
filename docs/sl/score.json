@@ -330,16 +330,6 @@
     "level": "0"
   },
   {
-    "id": 7029,
-    "md5": "e0df51d8c6d17a5bedcfa71feeef0fde",
-    "sha256": "bb4775f86c26b63601033f1e568981ad4568805215f904f5b493cd7fd2fd4d9d",
-    "title": "Deifixa [SP ANOTHER]",
-    "artist": "Reku Mochizuki",
-    "url": "https://k-bms.com/party_pabat/party.jsp?board_num=25&num=1",
-    "url_diff": "",
-    "level": "0"
-  },
-  {
     "id": 4221,
     "md5": "4b24f76a59fd2f89838e1ecb985a662c",
     "sha256": "caf83e15b54718ff95cfeba89012e0c873fc2cb9256fa6896a357d3e64a5a6b1",
@@ -507,16 +497,6 @@
     "artist": "tcheb / mov : inukoro",
     "url": "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=35&order=reg&odtype=a",
     "url_diff": "",
-    "level": "0"
-  },
-  {
-    "id": 5465,
-    "md5": "bba05724f5d47a826a3302563ce89e18",
-    "sha256": "2d98bae02290e3a5ee4b65dba5c3e90be331424ce5b49813205ade8f454009fc",
-    "title": "feelin' my new world [Maniac]",
-    "artist": "HIRO obj.うに",
-    "url": "http://web.archive.org/web/20040813081159/http://www.hiro777.com/music/bms/feeling.zip",
-    "url_diff": "https://stellabms.xyz/upload/2521",
     "level": "0"
   },
   {
@@ -3950,6 +3930,16 @@
     "level": "2"
   },
   {
+    "id": 2664,
+    "md5": "98da8541159bc70883dffa8d882722fc",
+    "sha256": "06f9bd61520e041d74c9e99eed6e6430d3ce62a010d406b979fdcaeb8b957bf7",
+    "title": "A D D i c T i O N 4 5 0 0 0 0 0 (A)",
+    "artist": "- 4 5",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=121&event=116",
+    "url_diff": "",
+    "level": "2"
+  },
+  {
     "id": 955,
     "md5": "391ddb759b5625b456ef9eb8da4a24c2",
     "sha256": "8d701f5592da02fab0437cb6113fe2318628282402e0e2dd6caf290d9efae641",
@@ -5040,6 +5030,16 @@
     "level": "2"
   },
   {
+    "id": 8506,
+    "title": "the sorrow of the islands (7keys:maniac)",
+    "artist": "narve BGA:tes (obj.mp)",
+    "md5": "76258c845d93987cdf7ba48f204271d6",
+    "sha256": "428ff44e25a6ea672c4f3203fe36fb97b59ffd5c5df45d7df5032e6d114889c1",
+    "url": "http://web.archive.org/web/20050218225015/http://pureweb.jp/~nav/music/islands.html",
+    "url_diff": "http://ibizatrance.nomaki.jp/index.html",
+    "level": "2"
+  },
+  {
     "id": 4026,
     "md5": "206cc498625067b7d78b076f6d6698a3",
     "sha256": "ed8a94664f440419022f48f488f9ea1de5972e2ad2d6fb282f1360fddb7116d8",
@@ -5957,6 +5957,16 @@
     "artist": "ProjectG obj:Scely",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=406&event=133",
     "url_diff": "https://drive.google.com/file/d/1gJ9e_kSft7Qd9bI5BMlWACySd74Aoema/view",
+    "level": "3"
+  },
+  {
+    "id": 5820,
+    "md5": "d62399fc8cdeca39dc24a07368a77c88",
+    "sha256": "923a03e76dfcefec77d13383b30507a40be664f727ec239dd46de12383c9719a",
+    "title": "Flashdance [ZOI]",
+    "artist": "music:litmus* / bms: :Poin7less movie:directed by litmus* / obj:SUZUKAZEΛ",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=123",
+    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
     "level": "3"
   },
   {
@@ -12017,16 +12027,6 @@
     "artist": "LV.4 obj.Restia",
     "url": "https://1drv.ms/u/s!ApwaJAUHJdpyjx31NpN0wGy-yO9V",
     "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpylzdetL3mbvjyhr-U?e=h2U868",
-    "level": "9"
-  },
-  {
-    "id": 2584,
-    "md5": "2e0b721babb8fb62ce977c23c9f364f9",
-    "sha256": "fdab57e33bc50e9a9fad8dbe5d8f00ec409d79a76ba23595ae311cba16c1b05d",
-    "title": "MOBILYS [Endymion (fixed)]",
-    "artist": "Dachs / Movie : わっふゑ obj.Mallow♪",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=127",
-    "url_diff": "https://darksabun.club/bceg/event/bofxv/",
     "level": "9"
   },
   {
