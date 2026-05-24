@@ -990,6 +990,16 @@
     "level": "1"
   },
   {
+    "id": 9122,
+    "title": "Aerolic Absorption [Atharther -]",
+    "artist": "RepLyknt(Rep x sto_Lu x usb_nk) obj.Atharnal",
+    "md5": "9a659764f585397f2790ea97dd4af04b",
+    "sha256": "b44d293b820b45ed26ba1fdf8fdd4085228d0121bda1c7c9d59e741ee2fb8c14",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=426&event=142",
+    "url_diff": "https://stellabms.xyz/upload/7566",
+    "level": "1"
+  },
+  {
     "id": 3085,
     "md5": "4b17f82c41c0e1ea29b4df13794e840f",
     "sha256": "f60efebf3e4c772cd03adc55315e3efb99f694e13e0d231498753f0ebb39c3a0",
@@ -6857,6 +6867,16 @@
     "artist": "Playerβ obj:st",
     "url": "http://sound.jp/ptf/bms/",
     "url_diff": "http://absolute.pv.land.to/",
+    "level": "8"
+  },
+  {
+    "id": 8543,
+    "title": "Icicle Stinger [FATALITY]",
+    "artist": "ROKINA / obj:O BGA:出前",
+    "md5": "bc05e00c4d3a80574f152d3aa3a1cbb6",
+    "sha256": "982ad3898ae722f2d6b3913560509726c54d81cc3524fb9ade7a8af42ea38f55",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=100",
+    "url_diff": "https://gnqg.rosx.net/upload/upload.cgi?get=948",
     "level": "8"
   },
   {
