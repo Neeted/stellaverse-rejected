@@ -3710,16 +3710,6 @@
     "level": "1"
   },
   {
-    "id": 8108,
-    "title": "ルミナスライツ [Glow]",
-    "artist": "Est feat.雪歌ユフ obj. MiyakoMeow",
-    "md5": "35706c8cc19313602db48b7818015b32",
-    "sha256": "de05472eccb7245df2dfe80b8bbc8db04cc88488e6ac0de50b673a36fb4b64d6",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=74",
-    "url_diff": "https://stellabms.xyz/upload/6771",
-    "level": "1"
-  },
-  {
     "id": 1987,
     "md5": "e5de5ecec3da46cf9beb08fe103b2e3d",
     "sha256": "e721f645cf678a6e054e3a4f964d51b8a4aaec1e5c44526b2ac79bb8a35b70a2",
@@ -10287,16 +10277,6 @@
     "artist": "eicateve movie:龍花 / obj:七海",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=405&event=133",
     "url_diff": "https://www.dropbox.com/s/9y6n8guj2pc1rdz/d3c3mb3r_nanami.zip?dl=1",
-    "level": "7"
-  },
-  {
-    "id": 5928,
-    "md5": "314774abaf1bfec4e1651c692e54f210",
-    "sha256": "1c39d15fa53ce70bfd6d8abb5d890a2972b669d9804b6888595fcad43b5941b9",
-    "title": "DainSleif [Pain]",
-    "artist": "TiS feat. きゃと (Cineraria Studio) / U",
-    "url": "https://web.archive.org/web/20140111131009/http://cineraria-studio.com/bms/[cineraria_studio]dainsleif.zip",
-    "url_diff": "https://obju.web.fc2.com/sabun.html",
     "level": "7"
   },
   {
