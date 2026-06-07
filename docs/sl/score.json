@@ -1150,16 +1150,6 @@
     "level": "0"
   },
   {
-    "id": 8464,
-    "title": "Seed [SP Hard]",
-    "artist": "Ujico* obj:オワタリア",
-    "md5": "977d9c9f6f0c704b8b8418fe45c57e2d",
-    "sha256": "1fc4b710dea4ead6ac7ce2e1d1d0290b8231db13581251b06bc1d7c1428c5d98",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=86",
-    "url_diff": "",
-    "level": "0"
-  },
-  {
     "id": 3066,
     "md5": "b88ac5e2895f32206b2f4f20095361a4",
     "sha256": "61acd1cbaba7a3902f16bfef67376cda8b9327a593fc2b97c9fd4b60f3b923ae",
@@ -4420,6 +4410,16 @@
     "level": "2"
   },
   {
+    "id": 8571,
+    "title": "fragments J-CoreRemix[HeavyRain]",
+    "artist": "Cosmos remix by polysha",
+    "md5": "5cbaf8e1f88b4371ec1e3bae52d7eb95",
+    "sha256": "b320769d095a2999a3ce8440de65730319ef914693b9f5eb642a2f60ae5b3cbd",
+    "url": "http://cerebralmuddystream.nekokan.dyndns.info/betoo/?mode=datail&no=125",
+    "url_diff": "http://absolute.pv.land.to/uploader/src/up3833.rar",
+    "level": "2"
+  },
+  {
     "id": 3633,
     "md5": "17a6ceb271b925c80eceee9523ed1bc6",
     "sha256": "b11504fc665e442b69ef99b8cfae853257574545bf63d2e36d722be3c6128a83",
@@ -6190,6 +6190,16 @@
     "level": "3"
   },
   {
+    "id": 3146,
+    "md5": "07d54adcc75f2b9274938428738cb209",
+    "sha256": "3897e790a3e77c6db0528411e2ff6521ea90dad1539fae76529d9cf0985eee49",
+    "title": "Overcast -Luna-",
+    "artist": "isocosa / selene.",
+    "url": "http://k-bms.com/party_pabat/party2018.jsp?board_num=18&num=3&order=reg&odtype=a",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01530.zip",
+    "level": "3"
+  },
+  {
     "id": 4631,
     "md5": "4623f7121ee721e27094d211d161ecac",
     "sha256": "50b60a9d204e5d0a166bf1c1ad3679487b247ec1099e2d4c8ae4f153f6d1b4ca",
@@ -6537,6 +6547,16 @@
     "artist": "Chicala Lpis (mov:Spring Sky)",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=115",
     "url_diff": "",
+    "level": "3"
+  },
+  {
+    "id": 4874,
+    "md5": "35fefef102b09edac139551e33568b11",
+    "sha256": "e5f3264e8707bb712ea988ad8199b8b13aa111887cce71f8c0011681ca3304b3",
+    "title": "twinkle notes [yumether]",
+    "artist": "ume / obj:夢瑠",
+    "url": "https://web.archive.org/web/20160312114552/http://www.geocities.jp/umesamurai2k/bmss.html",
+    "url_diff": "http://yumerusabun.web.fc2.com/nue.html",
     "level": "3"
   },
   {
@@ -7310,16 +7330,6 @@
     "level": "4"
   },
   {
-    "id": 2429,
-    "md5": "01e785472e36fc2ad4d70d3e7f610f36",
-    "sha256": "9f16822aedefce8573d19e8ddb84b127eee3ce59ec2dcda34777d7c4f1f6f8fe",
-    "title": "Creamy Sky [sagANOTHER]",
-    "artist": "BTB Mov : mzet :-p & OLB / obj:sagoo",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=96",
-    "url_diff": "http://absolute.pv.land.to/uploader/src/up5113.zip",
-    "level": "4"
-  },
-  {
     "id": 6010,
     "md5": "395eaa128a7a66d0d19aa8dd59ba7514",
     "sha256": "900855129bec0ba40d7505c4fb53a2ca7069512eb9915dd3940151e14de7e205",
@@ -7777,6 +7787,16 @@
     "artist": "287 a.k.a. EXAM.S feat. 東北きりたん",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=131",
     "url_diff": "",
+    "level": "4"
+  },
+  {
+    "id": 8531,
+    "title": "Orbital Period [LAPITHER]",
+    "artist": "8284 / BGA: FleetingLovely obj:LAPIS",
+    "md5": "69842492b848b769821032db08ef5184",
+    "sha256": "506fc066ac328d2477785049813d5adb06cdc415df65e2faf027a34ee3f383f7",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=78",
+    "url_diff": "https://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/Orbital%20Period.rar?from=search",
     "level": "4"
   },
   {
@@ -8517,6 +8537,16 @@
     "artist": "adumac / dp131 / obj:morio",
     "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ",
     "url_diff": "http://moriosabun.zouri.jp/",
+    "level": "5"
+  },
+  {
+    "id": 2429,
+    "md5": "01e785472e36fc2ad4d70d3e7f610f36",
+    "sha256": "9f16822aedefce8573d19e8ddb84b127eee3ce59ec2dcda34777d7c4f1f6f8fe",
+    "title": "Creamy Sky [sagANOTHER]",
+    "artist": "BTB Mov : mzet :-p & OLB / obj:sagoo",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=96",
+    "url_diff": "http://absolute.pv.land.to/uploader/src/up5113.zip",
     "level": "5"
   },
   {
@@ -10217,6 +10247,16 @@
     "artist": "First Class Flight",
     "url": "http://k-bms.com/party_pabat/party.jsp?board_num=21&num=5",
     "url_diff": "https://stellabms.xyz/upload/762",
+    "level": "7"
+  },
+  {
+    "id": 8533,
+    "title": "BOBO [BO-BO BO-] BOBO ～ボボ [ボーボ・ボー] ボボ～ [ハジけ祭り]",
+    "artist": "Joseph De'yeah VIDEO: Joseph De'yeah / obj : ところ天の助",
+    "md5": "4b25435acebf12adad748b0a8cd69a65",
+    "sha256": "57f611347e66c34e482090cdda994f48a6fb42ab6f8507285909d810adefcd3d",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=274&event=133",
+    "url_diff": "https://stellabms.xyz/upload/7567",
     "level": "7"
   },
   {

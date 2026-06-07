@@ -320,6 +320,16 @@
     "level": "4"
   },
   {
+    "id": 8575,
+    "title": "Masquerade Wars",
+    "artist": "ルゼ VS dawn-system BGA:A-ZERO Project",
+    "md5": "8af1a7e834a4216dbd4d5c2b8b668182",
+    "sha256": "0f5cf3c35af692b06857b07f5f3c1a669f85e3e5ae9c53548254cce050db3ce6",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=464&event=116",
+    "url_diff": "",
+    "level": "4"
+  },
+  {
     "id": 7476,
     "md5": "633086994d0510bfa0dffe266f65fd28",
     "sha256": "8787f6f22b5ad6b3502a59d6e2cb9248a1d7691f5d6fa25dbb6c9ee2269e2df1",
@@ -540,16 +550,6 @@
     "level": "7"
   },
   {
-    "id": 8546,
-    "title": "花嵐、空に溶けて [深淵アナザー思い出、花びら、風]",
-    "artist": "DJ Raisei vs. Setca. feat. 咲良ゆの Movie:蒼",
-    "md5": "08f51cb439ddc50eddb8f64e7048ecec",
-    "sha256": "74c23a6a92bf3027c90f32b61aca1fe3f923fc99d1244bdde767c52ecc05d882",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=142",
-    "url_diff": "https://stellabms.xyz/upload/7581",
-    "level": "7"
-  },
-  {
     "id": 7709,
     "title": "PARANOiA EViL -ZENiTH-",
     "artist": "DJ Sapphire / obj : kaguya",
@@ -600,6 +600,16 @@
     "level": "9"
   },
   {
+    "id": 8546,
+    "md5": "08f51cb439ddc50eddb8f64e7048ecec",
+    "sha256": "74c23a6a92bf3027c90f32b61aca1fe3f923fc99d1244bdde767c52ecc05d882",
+    "title": "花嵐、空に溶けて [深淵アナザー思い出、花びら、風]",
+    "artist": "DJ Raisei vs. Setca. feat. 咲良ゆの Movie:蒼",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=142",
+    "url_diff": "https://stellabms.xyz/upload/7581",
+    "level": "9"
+  },
+  {
     "id": 7269,
     "title": "7th Avenue [niku]",
     "artist": "Sound Souler BGA: Yaesachi",
@@ -627,6 +637,16 @@
     "sha256": "8b53869151e02593dc9393d2291df75150c042eb063782ffe4d4ce8e89a87375",
     "url": "https://bmsdrive.zris.work/d/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/EXILE.rar?sign=1OI2OuLH0TX8yThet3MqitjilFDyZx-xTF3YIFRAT7c=:0",
     "url_diff": "https://drive.google.com/file/d/1l9GXiua4EciP0F1dH0-xKjP9FkvVUJ6h/view?usp=drive_link",
+    "level": "10"
+  },
+  {
+    "id": 7649,
+    "md5": "eaeada4a37648dc898c9b284fe7af9de",
+    "sha256": "33924edeb3763dc6b4d43b9cf48fb88f9824a3278a66c337154edfde457ba58d",
+    "title": "LEVEL-DOWN [SP ANOTHER]",
+    "artist": "II-L",
+    "url": "https://dropbox.com/s/lzauu5xvpqm4i32/[II-L]%20LEVEL-DOWN.zip?dl=1",
+    "url_diff": "",
     "level": "10"
   },
   {
@@ -667,6 +687,16 @@
     "artist": "SHIKI // BGA:あかくらげ & M.H / 29",
     "url": "https://mirror.bms.ms/shiki2.sakura.ne.jp/bms.shtml",
     "url_diff": "https://lobsak.bms.ms/bms/repair_pack.zip",
+    "level": "11"
+  },
+  {
+    "id": 9149,
+    "md5": "572a6ddf237229239d411d43b769cff2",
+    "sha256": "e7ca39372d3fb1ed553228c615320fb5d976d65ce050162a0eabf12c8f273ccc",
+    "title": "G e n g a o z o [29Another]",
+    "artist": "455-38B / 29",
+    "url": "http://malie.noor.jp/archive/gengaozo_.rar",
+    "url_diff": "http://nick.xxxxxxxx.jp/",
     "level": "11"
   },
   {
