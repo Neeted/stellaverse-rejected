@@ -5180,16 +5180,6 @@
     "level": "4"
   },
   {
-    "id": 707,
-    "md5": "a453ecdda9bf2161f38aa69dd5493ed9",
-    "sha256": "9c4edac94d440cd7ee8cf64f0bf82e086ac1ea8d47fa4ac493efb7d8bbabb0c9",
-    "title": "ZENITHALIZE [Monsther]",
-    "artist": "姉ヶ崎 寧々 BGA : photonskyto/obj:Monsta",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=128&event=60",
-    "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
-    "level": "4"
-  },
-  {
     "id": 6286,
     "md5": "94b8fd7b3569cbfcec8c32da6264f36b",
     "sha256": "e5abe33a5dd475a543380512bd607e540c671ecfd2936a330cb816e0bf6ae0e0",
@@ -7587,6 +7577,16 @@
     "artist": "Is-m/obj:??? BGA:sta",
     "url": "http://www.is-m.jp/bms/song/em39.html",
     "url_diff": "http://gnqg.rosx.net/upload/",
+    "level": "11"
+  },
+  {
+    "id": 8567,
+    "title": "Dynasty of Extinction [E.T.]",
+    "artist": "utzbo VS paraneumann BGA:paraneumann / obj:...",
+    "md5": "f60140d09328027427cce8a5fe2ef4e4",
+    "sha256": "9da057556800ca121a4579edd5ab2a7ba30fb6aac1a362bfc4987c41686d174e",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=142",
+    "url_diff": "https://stellabms.xyz/upload/6339",
     "level": "11"
   },
   {

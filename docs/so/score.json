@@ -30,6 +30,16 @@
     "level": "0"
   },
   {
+    "id": 8579,
+    "md5": "4c6705b7ffcc7822bebf004361d1083c",
+    "sha256": "29771940cfe9f02cdead61e8a9cd3a7f95bc8f984b0880b3974fb21d6b55f886",
+    "title": "Dissonance[ANOTHER]",
+    "artist": "ピンクだま",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=434&event=137",
+    "url_diff": "",
+    "level": "0"
+  },
+  {
     "id": 7270,
     "title": "Engine [EXPLODE]",
     "artist": "Music : eFeL / BGA : 鑓田(Alpha complex)",
@@ -180,6 +190,16 @@
     "level": "1"
   },
   {
+    "id": 6020,
+    "md5": "bbeef24b697ef58a50006502674b8ded",
+    "sha256": "bb30c0700a7c35156d28a0ef793cf8ed6a9b9428029a7a0e09a663a389e31ad2",
+    "title": "〇、 [IC]",
+    "artist": "Kolaa & 熊子 (movie: 毛腿猪兔子 & Kolaa) obj:Scely",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=296&event=142",
+    "url_diff": "https://stellabms.xyz/upload/3375",
+    "level": "1"
+  },
+  {
     "id": 8245,
     "md5": "bc56d239a7a84dbf49c94fdc3677416a",
     "sha256": "bb6cc6296a708336ba51ee09e70cfa5a5e6e74592736c1bb85afd1d04ff6286e",
@@ -320,16 +340,6 @@
     "level": "4"
   },
   {
-    "id": 8575,
-    "title": "Masquerade Wars",
-    "artist": "ルゼ VS dawn-system BGA:A-ZERO Project",
-    "md5": "8af1a7e834a4216dbd4d5c2b8b668182",
-    "sha256": "0f5cf3c35af692b06857b07f5f3c1a669f85e3e5ae9c53548254cce050db3ce6",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=464&event=116",
-    "url_diff": "",
-    "level": "4"
-  },
-  {
     "id": 7476,
     "md5": "633086994d0510bfa0dffe266f65fd28",
     "sha256": "8787f6f22b5ad6b3502a59d6e2cb9248a1d7691f5d6fa25dbb6c9ee2269e2df1",
@@ -397,6 +407,16 @@
     "sha256": "9332af4c4ee1e903d5de397d13318e13edc3a40cb72360f2de76e15075fa2317",
     "url": "https://onedrive.live.com/?authkey=%21AIr4v9MWBYrS9h8&cid=FC95A680740CA8C9&id=FC95A680740CA8C9%2117830&parId=FC95A680740CA8C9%21111&o=OneUp",
     "url_diff": "https://stellabms.xyz/upload/1806",
+    "level": "5"
+  },
+  {
+    "id": 8575,
+    "md5": "8af1a7e834a4216dbd4d5c2b8b668182",
+    "sha256": "0f5cf3c35af692b06857b07f5f3c1a669f85e3e5ae9c53548254cce050db3ce6",
+    "title": "Masquerade Wars",
+    "artist": "ルゼ VS dawn-system BGA:A-ZERO Project",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=464&event=116",
+    "url_diff": "",
     "level": "5"
   },
   {
@@ -550,6 +570,16 @@
     "level": "7"
   },
   {
+    "id": 9163,
+    "title": "Angelic Snow (DENIM)",
+    "artist": "Est",
+    "md5": "138ec76716fbfe9365d9fe769318f326",
+    "sha256": "59ad12bc6fd565e4b990fd170922ffa47cd5f9653682a53909235693d1e2a298",
+    "url": "http://estish.nobody.jp/",
+    "url_diff": "http://hg2.ifdef.jp/bms/",
+    "level": "8"
+  },
+  {
     "id": 7709,
     "title": "PARANOiA EViL -ZENiTH-",
     "artist": "DJ Sapphire / obj : kaguya",
@@ -597,6 +627,16 @@
     "sha256": "248f3dca695ffaf2263bac60e4bb9fd12453ca7c9e1edb23ae41b9b2912bffac",
     "url": "https://bmsdrive.zris.work/d/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.250501%20patch/newsongs/Summer%20night%20Nostalgia.rar?sign=08Uk7FJ1ut-XcPotdPIQxJIZRi_sjylczXlAgo1HFHk=:0",
     "url_diff": "https://ibizatrance.nomaki.jp/sabun.html",
+    "level": "9"
+  },
+  {
+    "id": 8537,
+    "md5": "c08d859c479fdd5442b7a5ea9036d6d2",
+    "sha256": "5822f1f096c54c7e8311272f8eccf959ef3c342e53eb34d719979712e46f53f2",
+    "title": "巫女みこナース　愛のテーマ　-オブジェドーピング+-",
+    "artist": "copy_HaL vocal_うさみうみ",
+    "url": "https://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20APPEND/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20APPEND%20ver.201225/%E5%B7%AB%E5%A5%B3%E3%81%BF%E3%81%93%E3%83%8A%E3%83%BC%E3%82%B9%20%E6%84%9B%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E.rar?from=search",
+    "url_diff": "",
     "level": "9"
   },
   {
@@ -667,6 +707,16 @@
     "artist": "ridis / obj:(i)",
     "url": "http://web.archive.org/web/20060305103446/http://bof.nothing.sh:8080/file/catnap_ridis_x_aria_hq.rar",
     "url_diff": "https://web.archive.org/web/20240813144107/http://absolute.pv.land.to/uploader/src/up1108.zip",
+    "level": "10"
+  },
+  {
+    "id": 9126,
+    "md5": "40bae55c28f6c7a694a0e536b8c9f508",
+    "sha256": "217bfac76bc8585dd98618805162ea0f2a1bffc54a0e5c03e00255fddbd4d483",
+    "title": "遠野幻想物語 (NORMAL)",
+    "artist": "G-Y/さ",
+    "url": "https://onedrive.live.com/?authkey=%21AP6U9OvbXniz0G4&id=A972E7D14DCFAF93%21727&cid=A972E7D14DCFAF93",
+    "url_diff": "https://web.archive.org/web/20190909204224/http://sabosabun.tank.jp/sabun/tono%20sabun.zip",
     "level": "10"
   },
   {
