@@ -210,6 +210,16 @@
     "level": "1"
   },
   {
+    "id": 6059,
+    "md5": "2e4fdb9de7b39c3b0d5c3c905fc452a5",
+    "sha256": "801b9c478ddbf27c6f82a169c998a51bbb3fba89d87bb1355db9c95dc0a62965",
+    "title": "ARGENTINE BACKBREAKER [UPPER]",
+    "artist": "MA$AKI",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=433&event=142",
+    "url_diff": "",
+    "level": "2"
+  },
+  {
     "id": 7784,
     "title": "AURORA [EX]",
     "artist": "roop / obj. AXION",
@@ -727,6 +737,16 @@
     "sha256": "c360ed542a0104872e48a76742e1a76167e574411742079e1dba1a3a0621c50f",
     "url": "https://bmsdrive.zris.work/d/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/Another%20Alien%20World.rar?sign=PLJWpHvlK3IqWzIEQNyvII97dwv3-_5odtfaQNBMfWk=:0",
     "url_diff": "http://sagena.harisen.jp/bms/aalien.zip",
+    "level": "11"
+  },
+  {
+    "id": 6367,
+    "md5": "28a7f8c74e62783541baaa4b64274b86",
+    "sha256": "4a719f80ee7f9aead83f0a1fc1716df243ee257d828c8c03f71e207f55f3e39b",
+    "title": "Bendashtainer! [KUSO]",
+    "artist": "kireji",
+    "url": "https://venue.bmssearch.net/genreshuffle4/21",
+    "url_diff": "",
     "level": "11"
   },
   {

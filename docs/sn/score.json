@@ -10,6 +10,16 @@
     "level": "0"
   },
   {
+    "id": 2829,
+    "md5": "b4f78730b27aa95164fae41a331afe63",
+    "sha256": "0184c026329cdba0c5da982c40aa8184cd73a78288b5ff0d3e3f187c14de56e6",
+    "title": "Physical damage -Past Scars- [Intense]",
+    "artist": "鈎兎(KagiUsagi) obj.fhyu",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=88&event=127",
+    "url_diff": "https://darksabun.club/bceg/event/ondan9/",
+    "level": "0"
+  },
+  {
     "id": 7905,
     "title": "ネガイカナウヒカリ sun3 RMX[BLACK-ANOTHER7]",
     "artist": "EXCALIpUR (Remixed by sun3) / BGA:Johnny",
@@ -100,6 +110,16 @@
     "level": "3"
   },
   {
+    "id": 5085,
+    "md5": "f27f4cc58a880baae7acbc1b96de0717",
+    "sha256": "7cc7c06bd47e01fc425be1130545d80451c6482629432faf3d25d57a0d69f7e4",
+    "title": "Needy Samples Overdose [INSANE]",
+    "artist": "CYLTIE.",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=139",
+    "url_diff": "",
+    "level": "4"
+  },
+  {
     "id": 7995,
     "title": "You are a liar. [Phantasm]",
     "artist": "kunzite",
@@ -137,6 +157,16 @@
     "sha256": "7a23f157e107938d68304db57cd0ff0621e89896f54f3ba78414b970c688a477",
     "url": "https://drive.google.com/file/d/1Qn5Dh_GPXwSc5IEEd7jjII0TqWTU1Gnm/view?usp=drive_link",
     "url_diff": "http://kanki2.net/bme/luminance_bitter.zip",
+    "level": "5"
+  },
+  {
+    "id": 2728,
+    "md5": "64ae6106e03d736b9ecd23a5358465fc",
+    "sha256": "f7808c09713c94fa204d986818d0752e75d173a9d3aab403a51cb4304f52f7f6",
+    "title": "XVOTO [ステラの法則は決まった]",
+    "artist": "ETIA. feat. Jenga MV: わっふゑ OBJ: Restia",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=127",
+    "url_diff": "https://darksabun.club/bceg/event/ondan9/",
     "level": "5"
   },
   {
