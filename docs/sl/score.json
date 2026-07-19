@@ -1010,16 +1010,6 @@
     "level": "0"
   },
   {
-    "id": 3412,
-    "md5": "26b0372d6ac91b08453b66b1929e8b07",
-    "sha256": "35456fafa9adc0ad5b273c678225a7a3e79d58cd65ea7665001633ea7d7f09d7",
-    "title": "Plasma Disconnection [SPA]",
-    "artist": "Tada vs Woof / mov: HIMA",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=116",
-    "url_diff": "",
-    "level": "0"
-  },
-  {
     "id": 2899,
     "md5": "ca74209526f35eaefeb97a8a43cf117a",
     "sha256": "f0b50aa39ae4ead5961326e1d02f847521bda0acb619aa1f235623826aecb6e6",
@@ -3560,6 +3550,16 @@
     "level": "1"
   },
   {
+    "id": 9313,
+    "title": "You'll be my Star [Celestial]",
+    "artist": "DG-P vs. taqumi feat. めらみぽっぷ BGA:kkkfff2 / Lyrics:cittan* / Notes:薄杏",
+    "md5": "73eb0cada3a36dc49c99d96ff89ff907",
+    "sha256": "fe1997412d5af5d2131a1aae63ae142b9ae41bfef841f5d9d28d7e36de77324e",
+    "url": "https://web.archive.org/web/20180218060418/https://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=88",
+    "url_diff": "http://lalha.web.fc2.com/sabun.html",
+    "level": "1"
+  },
+  {
     "id": 4670,
     "md5": "d0117fc351c635188674225ca3ae00b3",
     "sha256": "741e60e5b69400ff767c446a641044507bb52b65ed19a54e71e6b699854ae0de",
@@ -5196,6 +5196,16 @@
     "title": "わるいコ [7keys ANOTHER]",
     "artist": "nekomimi_STRaw",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=311&event=137",
+    "url_diff": "",
+    "level": "2"
+  },
+  {
+    "id": 9269,
+    "md5": "f6a52140be29af6cab642ae47dbc394d",
+    "sha256": "8ea5213c45905ee30c61a353f7696c2aff3c077bd2116df928b327bc2f424579",
+    "title": "アンタイムカプセル [SP ANOTHER]",
+    "artist": "Mono.",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=54&event=140▼",
     "url_diff": "",
     "level": "2"
   },
@@ -8070,6 +8080,16 @@
     "level": "4"
   },
   {
+    "id": 9349,
+    "title": "Whiteout -613-",
+    "artist": "Re:gats& / BGA:5argon /obj:6_13",
+    "md5": "6c763e2b8211475f3756b843be103eb6",
+    "sha256": "2d91e46c0c8a05740ddb7ace9c6b2c1c23adc6c2a2b775529d3bccdb2d7ec359",
+    "url": "https://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/Whiteout.rar?from=search",
+    "url_diff": "差分リンクが消えちゃったので、同梱ファイルと一緒に貼っておきます。",
+    "level": "4"
+  },
+  {
     "id": 2846,
     "md5": "25254b610f84c2d602b5fc73202a27dc",
     "sha256": "904230c13f87c0d90f5f692fce604d43d28bedfdbbbb91bd9a9b55e0dec12907",
@@ -9300,6 +9320,16 @@
     "level": "5"
   },
   {
+    "id": 6879,
+    "md5": "ee450efbfa802df2b37e6db5f0126103",
+    "sha256": "3143793d69a507804cd1c6dad309200df3f64ba17bb32fdb3c11f8739da28373",
+    "title": "雨月籠歌",
+    "artist": "黒雛",
+    "url": "http://tm2.toymusical.net/download.html",
+    "url_diff": "https://web.archive.org/web/20160912074452/http://www.geocities.jp/dsks5456/bms/toymusicals.zip",
+    "level": "5"
+  },
+  {
     "id": 1258,
     "md5": "2d943bbdca8aa618e76dee2ef9a6ccb1",
     "sha256": "babcca82b3dd25c7ba885c175b78498fc4bf519e83897aee5bc5ff59ac4e2ef6",
@@ -9817,6 +9847,16 @@
     "artist": "KaKi / И BGA:kokodoko",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=127",
     "url_diff": "https://darksabun.club/bceg/event/bofxv/",
+    "level": "6"
+  },
+  {
+    "id": 9272,
+    "md5": "177183ff5ece853d6641dc9e82460fd0",
+    "sha256": "d51583a3403f2e11d4da64e626702a99929a87cbbbd9193e20ba33b9da77b465",
+    "title": "Ray of Moonlight [SP AMETHER-A]",
+    "artist": "-RYO- / obj:AMERIA Movie : Limit_cancel",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=354&event=83",
+    "url_diff": "http://ameria3141.web.fc2.com/bmssabun/rayofmoonlightspamethera.html",
     "level": "6"
   },
   {
