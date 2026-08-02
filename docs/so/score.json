@@ -410,6 +410,16 @@
     "level": "5"
   },
   {
+    "id": 9360,
+    "md5": "ded18a90c6ff74e465c689e337c79945",
+    "sha256": "95d719fef7a79dc979fbcb9bdc6d6bc58381c0b92d556608ae243eee44072eb5",
+    "title": "Hifumi Daisuki - ahaha remix [Trill Daisuki]",
+    "artist": "桐藤ナギサ / obj:百合園ソイヤ",
+    "url": "https://drive.google.com/uc?id=124_NkGBaSJQ1EAUWA6A89XmILhVrsRdr&export=download",
+    "url_diff": "https://stellabms.xyz/upload/6350",
+    "level": "5"
+  },
+  {
     "id": 8453,
     "title": "I believe [Vertical7]",
     "artist": "HaL vocal 美里 obj.うに",
@@ -640,6 +650,16 @@
     "level": "9"
   },
   {
+    "id": 9358,
+    "title": "Willed -Get busy living or get busy dying.-",
+    "artist": "Iridiumol mov:Baiicat / obj:tsukisaka",
+    "md5": "f79e3c5081207b7cb52b7c64d29c1dda",
+    "sha256": "1a2aaed1873a151a3e095e712243c8cfbc16b945c3e079abf93891f91e693799",
+    "url": "https://venue.bmssearch.net/bmstukuru2025/38",
+    "url_diff": "https://stellabms.xyz/upload/5084",
+    "level": "9"
+  },
+  {
     "id": 8537,
     "md5": "c08d859c479fdd5442b7a5ea9036d6d2",
     "sha256": "5822f1f096c54c7e8311272f8eccf959ef3c342e53eb34d719979712e46f53f2",
@@ -797,6 +817,16 @@
     "sha256": "b7eda39f749f13fa73719a647dc76fd6c06199ac844797352c5de455d92cbf9f",
     "url": "http://kanki2.net/bms.html",
     "url_diff": "https://baecon1.hatenablog.com/entry/2017/06/02/230838",
+    "level": "12"
+  },
+  {
+    "id": 4302,
+    "md5": "5fe5c91caa2d20cdf89acd0311a99468",
+    "sha256": "99f81b6f2a01f59f80ee6c9a5fbeb089023082db261d9bbec9ffc033413557d0",
+    "title": "炎花 - flameflower - [SP FLOWER+]",
+    "artist": "P4koo obj:be5moti",
+    "url": "https://onedrive.live.com/?cid=C9FE89A646FB0230&id=C9FE89A646FB0230%21115",
+    "url_diff": "https://www.dropbox.com/s/a83w6ldfgkfhy1d/ff7F%2Bfix.bms",
     "level": "12"
   }
 ]
