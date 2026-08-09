@@ -200,6 +200,16 @@
     "level": "0"
   },
   {
+    "id": 9469,
+    "title": "Brave My Soul [百合少女]",
+    "artist": "uma feat. ましろ obj.紳",
+    "md5": "c29052acf3ea7382d4595c49ca0328dd",
+    "sha256": "ed863f81ad9ca42dc57f4ad43c172dd4c5fa76439c2afa83ddd65944929534f3",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=93&event=116",
+    "url_diff": "https://stellabms.xyz/upload/8085",
+    "level": "0"
+  },
+  {
     "id": 3705,
     "md5": "ce4714b8e17d22523d943ed4a23a37e1",
     "sha256": "d78fbacea873ea041a9f9418bcf0138b81e71cac19142969d7571da48282f978",
@@ -3757,16 +3767,6 @@
     "artist": "remix:HaL Vocal:美里 / black train",
     "url": "http://web.archive.org/web/20060621124137/http://www.remarkablesense.org/~hal/waveceptor/bms/bms_natsukusa.rar",
     "url_diff": "http://absolute.pv.land.to/",
-    "level": "1"
-  },
-  {
-    "id": 4264,
-    "md5": "89946b9f88681ee56ba63caeded24ec2",
-    "sha256": "313945bd2614ada0a9edc0acd8ea6fa5bd2aad68ea7ceb63cf7192ad1da7cc75",
-    "title": "夢人形-marionette dreamer- [sagANOTHER]",
-    "artist": "-45 / obj:sagoo",
-    "url": "http://malie.noor.jp/",
-    "url_diff": "http://onedrive.live.com/redir?resid=A972E7D14DCFAF93!110&authkey=!ADuXxYDZsf_L-I8&ithint=folder%2czip",
     "level": "1"
   },
   {
