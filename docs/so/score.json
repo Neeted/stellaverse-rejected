@@ -120,6 +120,16 @@
     "level": "0"
   },
   {
+    "id": 9367,
+    "title": "Vibrafonn",
+    "artist": "マキナ / Kz",
+    "md5": "fc6f1030a00c25614c3c37bd7e0bef19",
+    "sha256": "f3fe32e3fd88b033c80b7c928d6612e8a210aeffd328cb4b8c3be6c774624cfe",
+    "url": "https://web.archive.org/web/20120909174031/http://www.geocities.jp/makina772001/Vibration.zip",
+    "url_diff": "\thttp://web.archive.org/web/20090224103049/http://kusofumenanafumen.hp.infoseek.co.jp/",
+    "level": "0"
+  },
+  {
     "id": 7677,
     "title": "ガバキックの音が鳴る時だけニッコリするゴールデン・レトリバー",
     "artist": "Kanata.S feat.ゴールデンレトリバー",
@@ -210,6 +220,16 @@
     "level": "1"
   },
   {
+    "id": 9366,
+    "title": "桜戦線 -雪月花style-",
+    "artist": "Tokky / beatMARIO / NORE☆",
+    "md5": "1638e38d8226966b9861d66cd0bd7ace",
+    "sha256": "45d19009f60136c39d8ec6aad845f785cf8ce48f80f0b7612b7db7b3e807f977",
+    "url": "https://cool-create.cc/bms/index.html",
+    "url_diff": "https://web.archive.org/web/20060117003657/http://zrk.bms.ms/turedure/n-sp/sakura_sabun.zip",
+    "level": "1"
+  },
+  {
     "id": 6059,
     "md5": "2e4fdb9de7b39c3b0d5c3c905fc452a5",
     "sha256": "801b9c478ddbf27c6f82a169c998a51bbb3fba89d87bb1355db9c95dc0a62965",
@@ -257,6 +277,16 @@
     "artist": "こけ。",
     "url": "http://www.nicovideo.jp/watch/sm11190322",
     "url_diff": "",
+    "level": "2"
+  },
+  {
+    "id": 9476,
+    "title": "Lostlove -BMS ver. another-",
+    "artist": "maklow",
+    "md5": "0b773c3f90cbec8230f533705215e83a",
+    "sha256": "7b7ca3a88e33ed802ee2cf4e9d4981f8e11a20373d185951415f41fe892952b4",
+    "url": "http://skydrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21111",
+    "url_diff": "http://nekokan.dyndns.info/~lobsak/hokan/hokan1.html",
     "level": "2"
   },
   {
@@ -460,6 +490,16 @@
     "level": "5"
   },
   {
+    "id": 9402,
+    "md5": "f8c4be3e95a1d016cefcc18eec5933cd",
+    "sha256": "67a055b09705f8614d1a533ed3085fb83ca38fb49c4367cced0cc38e9cef9342",
+    "title": "零ファイター [Flight]",
+    "artist": "CELLON. BGA by 出前 / OBJ by LAPIS",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=155&event=96",
+    "url_diff": "https://web.archive.org/web/20230610112849mp_/http://lapisbms.xyz/Sabun/zerofighter_7fli.rar",
+    "level": "5"
+  },
+  {
     "id": 7768,
     "title": "Bicolor spirit [★ CHAOS special]",
     "artist": "urimu / obj:OK@GE Movie:RAIDEN",
@@ -650,16 +690,6 @@
     "level": "9"
   },
   {
-    "id": 9358,
-    "title": "Willed -Get busy living or get busy dying.-",
-    "artist": "Iridiumol mov:Baiicat / obj:tsukisaka",
-    "md5": "f79e3c5081207b7cb52b7c64d29c1dda",
-    "sha256": "1a2aaed1873a151a3e095e712243c8cfbc16b945c3e079abf93891f91e693799",
-    "url": "https://venue.bmssearch.net/bmstukuru2025/38",
-    "url_diff": "https://stellabms.xyz/upload/5084",
-    "level": "9"
-  },
-  {
     "id": 8537,
     "md5": "c08d859c479fdd5442b7a5ea9036d6d2",
     "sha256": "5822f1f096c54c7e8311272f8eccf959ef3c342e53eb34d719979712e46f53f2",
@@ -777,6 +807,16 @@
     "artist": "455-38B / 29",
     "url": "http://malie.noor.jp/archive/gengaozo_.rar",
     "url_diff": "http://nick.xxxxxxxx.jp/",
+    "level": "11"
+  },
+  {
+    "id": 9358,
+    "md5": "f79e3c5081207b7cb52b7c64d29c1dda",
+    "sha256": "1a2aaed1873a151a3e095e712243c8cfbc16b945c3e079abf93891f91e693799",
+    "title": "Willed -Get busy living or get busy dying.-",
+    "artist": "Iridiumol mov:Baiicat / obj:tsukisaka",
+    "url": "https://venue.bmssearch.net/bmstukuru2025/38",
+    "url_diff": "https://stellabms.xyz/upload/5084",
     "level": "11"
   },
   {

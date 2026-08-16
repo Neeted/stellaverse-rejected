@@ -1020,16 +1020,6 @@
     "level": "0"
   },
   {
-    "id": 3412,
-    "md5": "26b0372d6ac91b08453b66b1929e8b07",
-    "sha256": "35456fafa9adc0ad5b273c678225a7a3e79d58cd65ea7665001633ea7d7f09d7",
-    "title": "Plasma Disconnection [SPA]",
-    "artist": "Tada vs Woof / mov: HIMA",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=116",
-    "url_diff": "",
-    "level": "0"
-  },
-  {
     "id": 2899,
     "md5": "ca74209526f35eaefeb97a8a43cf117a",
     "sha256": "f0b50aa39ae4ead5961326e1d02f847521bda0acb619aa1f235623826aecb6e6",
@@ -2960,6 +2950,16 @@
     "level": "1"
   },
   {
+    "id": 9449,
+    "md5": "ab3b6f889ffd1651783365a0c6c5a66d",
+    "sha256": "a6189f247330841231be4659388d0b35ae38fef831714bfce71ebd57cd46326f",
+    "title": "Magical Love Words(FESTIVAL7)",
+    "artist": "源屋feat.ユスラ  /  obj：JLS",
+    "url": "https://pixeldrain.net/api/filesystem/fPLFWrNv/Magical%20Love%20Words.7z",
+    "url_diff": "http://gooeybms.web.fc2.com/Magical_Love_Words_fes.rar",
+    "level": "1"
+  },
+  {
     "id": 3901,
     "md5": "e6989cd8b24af03d12c3b9b37d65d87c",
     "sha256": "1a9be24da93a7f194e5e462248b3e760be1b11b0bd1c6c0c242fdce91ec303fa",
@@ -3466,6 +3466,16 @@
     "title": "To the restored sunflower garden [Another]",
     "artist": "shimizushi illust:a.a",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=116",
+    "url_diff": "",
+    "level": "1"
+  },
+  {
+    "id": 9426,
+    "title": "TRANICE JOURNEY [SP CHILLNESS]",
+    "artist": "My_PC Obj: Z6W2A / BGA: Z6W2A / Illust: 逆時針",
+    "md5": "36d848e68e956b6345efe812d8276426",
+    "sha256": "e389010b49cb25290650a45dbd8238721cdaabeb2cdc30d8b90f168e23a75118",
+    "url": "https://drive.google.com/file/d/1gn7hxHuIHXzWVfvpcbqiqwvT0ihBje5h/view?usp=sharing",
     "url_diff": "",
     "level": "1"
   },
@@ -4057,6 +4067,16 @@
     "artist": "ADVANCE EVOLVE BGI: morph obj: watering+",
     "url": "https://morph-pack.netlify.app/",
     "url_diff": "",
+    "level": "2"
+  },
+  {
+    "id": 9464,
+    "md5": "c1e8f841a290a7f1336e13aac3e39696",
+    "sha256": "96106a95a2154c8c90f5bed6c9c6b40bab1ee5b6d86cb9d69c1d3c6b3ca33e87",
+    "title": "Bird Sprite -Awakening of Light- [HiHiHiTHER]",
+    "artist": "syatten remixed celas / reku / obj:HiHiHi",
+    "url": "https://dump.shinonome.ca/BMS/Bird%20Sprite%20-Awakening%20of%20Light-.7z",
+    "url_diff": "https://www.dropbox.com/s/8n9kn2w5rxxh9c9/_birdsprite_r_7hihihi.bme?dl=1",
     "level": "2"
   },
   {
@@ -5970,16 +5990,6 @@
     "level": "3"
   },
   {
-    "id": 3565,
-    "md5": "db73e0de15bb1c96d4dd4791ff2950d0",
-    "sha256": "9e86ecdd4f3b714cdcba8248dea1c8f0591d864e84ff793324f8d8d15f21c260",
-    "title": "FAKE LIFE [Kill]",
-    "artist": "ProjectG obj:Scely",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=406&event=133",
-    "url_diff": "https://drive.google.com/file/d/1gJ9e_kSft7Qd9bI5BMlWACySd74Aoema/view",
-    "level": "3"
-  },
-  {
     "id": 5478,
     "md5": "69d4030cd2a5bf01dbf82cb59e56222a",
     "sha256": "483775a52cc634ef56b96717285ff583c374e054126ec34a3b284d16981c7f52",
@@ -7690,6 +7700,16 @@
     "level": "4"
   },
   {
+    "id": 9423,
+    "md5": "50436219bf8d27d3c416ce6c01db78bf",
+    "sha256": "ae3a3bcede3a4e3e071a31846baa427ab55f85fa918c40b4ab353d87049d3dec",
+    "title": "MagicCity [そして、都市は音楽に満ちた。]",
+    "artist": "Ujico* / To7 さすらい譜面商人B_K",
+    "url": "https://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/MagicCity.rar?from=search",
+    "url_diff": "https://darksabun.club/mirror/beatkim/sabun/_magic_BK.zip",
+    "level": "4"
+  },
+  {
     "id": 1917,
     "md5": "cc22b7da464862871a2260c4877517b4",
     "sha256": "d1f739a8d051062b9c40c73eccc9af551f71c6581c485c44620dbb4a6dacbc13",
@@ -9100,6 +9120,16 @@
     "level": "5"
   },
   {
+    "id": 9418,
+    "md5": "5b2c29a4b97a4e390fc9dce932d09898",
+    "sha256": "a6dde9719c9abdbee73108df84071a616618f9fbdf38ed9bbb3619e6de05ad2e",
+    "title": "suffruti [Death by Satellite]",
+    "artist": "Black Lotus obj.Restia Assault X",
+    "url": "https://www.dropbox.com/s/8uo9qsz5acwfuxb/suffruti_BMS_ogg.zip?dl=0",
+    "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpyl0hOC_N2QDEli790?e=gUVlFy",
+    "level": "5"
+  },
+  {
     "id": 2830,
     "md5": "790817a7a4305d03e64dcba4413407d1",
     "sha256": "64d0e47a893cf06093b4486d0fb5f1143bfc15f24eaee1b7774020a8d1d08184",
@@ -9270,6 +9300,16 @@
     "level": "5"
   },
   {
+    "id": 9378,
+    "title": "ヴォヤージュ1970 [sagDELAY]",
+    "artist": "由蘭 / obj:sagoo",
+    "md5": "ee17ad454da2b405a7b801b643be9a8b",
+    "sha256": "1b553625aa19bbefdfaa009f09ce4425749e33b951eeb5aeb8ca825e6e1d6e6d",
+    "url": "https://web.archive.org/web/20041022044238/http://danth.hp.infoseek.co.jp/bms.html",
+    "url_diff": "https://1drv.ms/u/c/A972E7D14DCFAF93/AZOvz03R53IggKlvCAAAAAA?e=Odq5O1",
+    "level": "5"
+  },
+  {
     "id": 3388,
     "md5": "0bea960554e93e1892ce6a27e255068a",
     "sha256": "baab9cb14ae8b4a878efcee7af22e9af4cda466b50f4021d9695a4d474ed003f",
@@ -9347,16 +9387,6 @@
     "artist": "黒雛",
     "url": "https://drive.google.com/file/d/11cWFqlbOLfbKEjrU0DH9tGjCjgEfcXgh/view?usp=drive_link",
     "url_diff": "https://web.archive.org/web/20160912074452/http://www.geocities.jp/dsks5456/bms/toymusicals.zip",
-    "level": "5"
-  },
-  {
-    "id": 9402,
-    "title": "零ファイター [Flight]",
-    "artist": "CELLON. BGA by 出前 / OBJ by LAPIS",
-    "md5": "f8c4be3e95a1d016cefcc18eec5933cd",
-    "sha256": "67a055b09705f8614d1a533ed3085fb83ca38fb49c4367cced0cc38e9cef9342",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=155&event=96",
-    "url_diff": "https://web.archive.org/web/20230610112849mp_/http://lapisbms.xyz/Sabun/zerofighter_7fli.rar",
     "level": "5"
   },
   {
@@ -10145,7 +10175,7 @@
     "sha256": "c5ee2162be4e791e35c07210e2ba5a302d4c9ef1921d70841546f2bc175d5bab",
     "title": "ザ・レアー [RAMPAGE]",
     "artist": "しらいし obj: misty.ls04",
-    "url": "https://shiraishi2007.exblog.jp/27968989/",
+    "url": "https://web.archive.org/web/20190515165758/https://doc-0s-08-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/hvhfs5mfvge9o1r5casu3p0ir90sd4ds/1557936000000/05036799216512679438/*/17J_MmrB0MvnMA3rm_-C1FvEjzeVmM_8d",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/03035.zip",
     "level": "6"
   },
@@ -10770,6 +10800,16 @@
     "level": "7"
   },
   {
+    "id": 9392,
+    "md5": "21bcf08b2f2318b6fc0c88cdd6ebabf3",
+    "sha256": "641f66ef24cd83dfed44acaf626db0cfe1b9e2f188f63cc6a116d547ebd82cd4",
+    "title": "PASERI　-SABOTHER-",
+    "artist": "Nankumo/さ",
+    "url": "http://nekokan.dyndns.info/~anonymous/nan/paser.rar",
+    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/sabun/paseri.zip",
+    "level": "7"
+  },
+  {
     "id": 6040,
     "md5": "aa81b12dda5549ef60fd4d7e267eb705",
     "sha256": "53b8f279950d2bd5e94a8a99da55e138859c3b0f9b5625c4e76f0f2a24c0f4f6",
@@ -11267,16 +11307,6 @@
     "artist": "nmk feat.橘花音 BGA:わっふゑ",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=181&event=123",
     "url_diff": "",
-    "level": "8"
-  },
-  {
-    "id": 3307,
-    "md5": "92c48ee11e5c2393b7349812fdb4b132",
-    "sha256": "2244987fd6f1b02cb8937ce1cb26a0e08d1874bc2d3a40fd854880142d82323d",
-    "title": "Emit [Emotional]",
-    "artist": "Re-Te obj.Mallow♪",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=131&event=88",
-    "url_diff": "https://drive.google.com/drive/u/0/folders/1NwG1RAKMGw_47NPdAM4GLnAKQPP_oPXe",
     "level": "8"
   },
   {
@@ -12427,26 +12457,6 @@
     "artist": "BMS migikacha/BGA よるなぎ+鍋+餅/OBJ ctc",
     "url": "https://bms.kyouko.moe/torrent/BMS_Library/%E6%BF%80%E2%98%86%E7%A9%BA%E9%96%93%E3%83%97%E3%83%AD%E3%83%9D%E3%83%BC%E3%82%BA%20(by%20migikacha).rar",
     "url_diff": "https://www.dropbox.com/s/n6y6e63jdnwdkel/Super%E2%98%86Area%20Propose.zip?dl=1",
-    "level": "9"
-  },
-  {
-    "id": 4238,
-    "md5": "4c9ead215ef1d29265a83e0e90e64a45",
-    "sha256": "7ec1e56015e6dc17b7e6f9388c8138b962708a1d42f2a5e792a58da374249cd3",
-    "title": "王位継承 [Snother]",
-    "artist": "しらいし / obj:スノート",
-    "url": "https://drive.google.com/uc?id=1iQaCu_ouEO7tYnIdeoyyW84BtaQscofz",
-    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/03752.zip",
-    "level": "9"
-  },
-  {
-    "id": 5758,
-    "md5": "40d928713e59470daf86534878198dc9",
-    "sha256": "b0f85d6a773967b3b6be224066215aa96b0e6e6f3067955392c5d49279bffe60",
-    "title": "糸引く夏のエデンにて。 [Insane]",
-    "artist": "Setca. obj:BAECON",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=140",
-    "url_diff": "",
     "level": "9"
   },
   {
@@ -13907,6 +13917,16 @@
     "artist": "-45 / obj.Restia",
     "url": "https://1drv.ms/u/s!ApwaJAUHJdpyjigMFQcMGgleIAhl?e=5k0RQv",
     "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpylzwirLRxJWVZMoRf?e=iGv0Zo",
+    "level": "12"
+  },
+  {
+    "id": 9495,
+    "title": "BlythE:ExtenD [yumether]",
+    "artist": "remixed celas feat.ARU / obj:夢瑠",
+    "md5": "299281337d7cd287d08e1af5782a2fef",
+    "sha256": "cfbf4a943443eab1e6266a2841f6ad786f680b65abfe6fe7204ee687ff0b1d7d",
+    "url": "https://web.archive.org/web/20170227053727/http://creation-records.info/bms/blythe_r_ogg.rar",
+    "url_diff": "https://yumerusabun.web.fc2.com/nue.html",
     "level": "12"
   },
   {

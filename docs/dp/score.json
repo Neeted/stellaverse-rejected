@@ -110,6 +110,16 @@
     "level": "1"
   },
   {
+    "id": 9441,
+    "title": "Amber Lamp",
+    "artist": "あさり",
+    "md5": "df7ca48e82b030ee6102718077fc2501",
+    "sha256": "db8e2e2061d90470d55fabd3ebd10d9b30ff6163044c6a8daccb9e92c79ce906",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=182&event=149",
+    "url_diff": "",
+    "level": "1"
+  },
+  {
     "id": 2576,
     "md5": "ddc18f1ec07ebf12a7f124f3486b0c2c",
     "sha256": "193fbfce780ae00ef999c8450716b587bf2da3ece5f76786aea33ce72108e86c",
