@@ -3858,3 +3858,233 @@ Traceback (most recent call last):
     raise HTTPError(req.full_url, code, msg, hdrs, fp)
 urllib.error.HTTPError: HTTP Error 403: Forbidden
 2026-08-30 16:36:52,706 [INFO] 全テーブル処理が終了しました
+2026-09-06 15:23:58,366 [INFO] 全テーブル処理を開始します
+2026-09-06 15:23:58,366 [INFO] --- 処理開始: table=st ---
+2026-09-06 15:23:58,366 [INFO] ダウンロード: https://stellabms.xyz/st/score_sub.json (試行 1/3)
+2026-09-06 15:23:58,432 [WARNING] 取得失敗: https://stellabms.xyz/st/score_sub.json (HTTP Error 403: Forbidden)
+2026-09-06 15:23:58,432 [INFO] 1.5s 待機してリトライします...
+2026-09-06 15:23:59,932 [INFO] ダウンロード: https://stellabms.xyz/st/score_sub.json (試行 2/3)
+2026-09-06 15:23:59,978 [WARNING] 取得失敗: https://stellabms.xyz/st/score_sub.json (HTTP Error 403: Forbidden)
+2026-09-06 15:23:59,978 [INFO] 2.2s 待機してリトライします...
+2026-09-06 15:24:02,228 [INFO] ダウンロード: https://stellabms.xyz/st/score_sub.json (試行 3/3)
+2026-09-06 15:24:02,282 [WARNING] 取得失敗: https://stellabms.xyz/st/score_sub.json (HTTP Error 403: Forbidden)
+2026-09-06 15:24:02,283 [ERROR] 最終的に取得できませんでした: https://stellabms.xyz/st/score_sub.json
+2026-09-06 15:24:02,283 [ERROR] st: score_sub の取得に失敗したためスキップします。
+Traceback (most recent call last):
+  File "/home/runner/work/stellaverse-rejected/stellaverse-rejected/./stellaverse_rejected_filter.py", line 153, in process_table
+    sub = fetch_json(sub_url)
+          ^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/stellaverse-rejected/stellaverse-rejected/./stellaverse_rejected_filter.py", line 98, in fetch_json
+    raise last_err
+  File "/home/runner/work/stellaverse-rejected/stellaverse-rejected/./stellaverse_rejected_filter.py", line 80, in fetch_json
+    with urllib.request.urlopen(url, timeout=timeout) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 525, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 634, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 563, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 643, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+2026-09-06 15:24:02,314 [INFO] --- 処理開始: table=sl ---
+2026-09-06 15:24:02,314 [INFO] ダウンロード: https://stellabms.xyz/sl/score_sub.json (試行 1/3)
+2026-09-06 15:24:02,358 [WARNING] 取得失敗: https://stellabms.xyz/sl/score_sub.json (HTTP Error 403: Forbidden)
+2026-09-06 15:24:02,358 [INFO] 1.5s 待機してリトライします...
+2026-09-06 15:24:03,858 [INFO] ダウンロード: https://stellabms.xyz/sl/score_sub.json (試行 2/3)
+2026-09-06 15:24:03,902 [WARNING] 取得失敗: https://stellabms.xyz/sl/score_sub.json (HTTP Error 403: Forbidden)
+2026-09-06 15:24:03,903 [INFO] 2.2s 待機してリトライします...
+2026-09-06 15:24:06,153 [INFO] ダウンロード: https://stellabms.xyz/sl/score_sub.json (試行 3/3)
+2026-09-06 15:24:06,194 [WARNING] 取得失敗: https://stellabms.xyz/sl/score_sub.json (HTTP Error 403: Forbidden)
+2026-09-06 15:24:06,195 [ERROR] 最終的に取得できませんでした: https://stellabms.xyz/sl/score_sub.json
+2026-09-06 15:24:06,195 [ERROR] sl: score_sub の取得に失敗したためスキップします。
+Traceback (most recent call last):
+  File "/home/runner/work/stellaverse-rejected/stellaverse-rejected/./stellaverse_rejected_filter.py", line 153, in process_table
+    sub = fetch_json(sub_url)
+          ^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/stellaverse-rejected/stellaverse-rejected/./stellaverse_rejected_filter.py", line 98, in fetch_json
+    raise last_err
+  File "/home/runner/work/stellaverse-rejected/stellaverse-rejected/./stellaverse_rejected_filter.py", line 80, in fetch_json
+    with urllib.request.urlopen(url, timeout=timeout) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 525, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 634, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 563, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 643, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+2026-09-06 15:24:06,195 [INFO] --- 処理開始: table=sn ---
+2026-09-06 15:24:06,196 [INFO] ダウンロード: https://stellabms.xyz/sn/score_sub.json (試行 1/3)
+2026-09-06 15:24:06,243 [WARNING] 取得失敗: https://stellabms.xyz/sn/score_sub.json (HTTP Error 403: Forbidden)
+2026-09-06 15:24:06,243 [INFO] 1.5s 待機してリトライします...
+2026-09-06 15:24:07,743 [INFO] ダウンロード: https://stellabms.xyz/sn/score_sub.json (試行 2/3)
+2026-09-06 15:24:07,787 [WARNING] 取得失敗: https://stellabms.xyz/sn/score_sub.json (HTTP Error 403: Forbidden)
+2026-09-06 15:24:07,787 [INFO] 2.2s 待機してリトライします...
+2026-09-06 15:24:10,038 [INFO] ダウンロード: https://stellabms.xyz/sn/score_sub.json (試行 3/3)
+2026-09-06 15:24:10,079 [WARNING] 取得失敗: https://stellabms.xyz/sn/score_sub.json (HTTP Error 403: Forbidden)
+2026-09-06 15:24:10,079 [ERROR] 最終的に取得できませんでした: https://stellabms.xyz/sn/score_sub.json
+2026-09-06 15:24:10,079 [ERROR] sn: score_sub の取得に失敗したためスキップします。
+Traceback (most recent call last):
+  File "/home/runner/work/stellaverse-rejected/stellaverse-rejected/./stellaverse_rejected_filter.py", line 153, in process_table
+    sub = fetch_json(sub_url)
+          ^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/stellaverse-rejected/stellaverse-rejected/./stellaverse_rejected_filter.py", line 98, in fetch_json
+    raise last_err
+  File "/home/runner/work/stellaverse-rejected/stellaverse-rejected/./stellaverse_rejected_filter.py", line 80, in fetch_json
+    with urllib.request.urlopen(url, timeout=timeout) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 525, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 634, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 563, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 643, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+2026-09-06 15:24:10,080 [INFO] --- 処理開始: table=so ---
+2026-09-06 15:24:10,080 [INFO] ダウンロード: https://stellabms.xyz/so/score_sub.json (試行 1/3)
+2026-09-06 15:24:10,124 [WARNING] 取得失敗: https://stellabms.xyz/so/score_sub.json (HTTP Error 403: Forbidden)
+2026-09-06 15:24:10,125 [INFO] 1.5s 待機してリトライします...
+2026-09-06 15:24:11,625 [INFO] ダウンロード: https://stellabms.xyz/so/score_sub.json (試行 2/3)
+2026-09-06 15:24:11,667 [WARNING] 取得失敗: https://stellabms.xyz/so/score_sub.json (HTTP Error 403: Forbidden)
+2026-09-06 15:24:11,668 [INFO] 2.2s 待機してリトライします...
+2026-09-06 15:24:13,918 [INFO] ダウンロード: https://stellabms.xyz/so/score_sub.json (試行 3/3)
+2026-09-06 15:24:13,972 [WARNING] 取得失敗: https://stellabms.xyz/so/score_sub.json (HTTP Error 403: Forbidden)
+2026-09-06 15:24:13,972 [ERROR] 最終的に取得できませんでした: https://stellabms.xyz/so/score_sub.json
+2026-09-06 15:24:13,972 [ERROR] so: score_sub の取得に失敗したためスキップします。
+Traceback (most recent call last):
+  File "/home/runner/work/stellaverse-rejected/stellaverse-rejected/./stellaverse_rejected_filter.py", line 153, in process_table
+    sub = fetch_json(sub_url)
+          ^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/stellaverse-rejected/stellaverse-rejected/./stellaverse_rejected_filter.py", line 98, in fetch_json
+    raise last_err
+  File "/home/runner/work/stellaverse-rejected/stellaverse-rejected/./stellaverse_rejected_filter.py", line 80, in fetch_json
+    with urllib.request.urlopen(url, timeout=timeout) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 525, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 634, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 563, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 643, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+2026-09-06 15:24:13,973 [INFO] --- 処理開始: table=dp ---
+2026-09-06 15:24:13,973 [INFO] ダウンロード: https://stellabms.xyz/dp/score_sub.json (試行 1/3)
+2026-09-06 15:24:14,023 [WARNING] 取得失敗: https://stellabms.xyz/dp/score_sub.json (HTTP Error 403: Forbidden)
+2026-09-06 15:24:14,023 [INFO] 1.5s 待機してリトライします...
+2026-09-06 15:24:15,524 [INFO] ダウンロード: https://stellabms.xyz/dp/score_sub.json (試行 2/3)
+2026-09-06 15:24:15,567 [WARNING] 取得失敗: https://stellabms.xyz/dp/score_sub.json (HTTP Error 403: Forbidden)
+2026-09-06 15:24:15,568 [INFO] 2.2s 待機してリトライします...
+2026-09-06 15:24:17,818 [INFO] ダウンロード: https://stellabms.xyz/dp/score_sub.json (試行 3/3)
+2026-09-06 15:24:17,859 [WARNING] 取得失敗: https://stellabms.xyz/dp/score_sub.json (HTTP Error 403: Forbidden)
+2026-09-06 15:24:17,860 [ERROR] 最終的に取得できませんでした: https://stellabms.xyz/dp/score_sub.json
+2026-09-06 15:24:17,860 [ERROR] dp: score_sub の取得に失敗したためスキップします。
+Traceback (most recent call last):
+  File "/home/runner/work/stellaverse-rejected/stellaverse-rejected/./stellaverse_rejected_filter.py", line 153, in process_table
+    sub = fetch_json(sub_url)
+          ^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/stellaverse-rejected/stellaverse-rejected/./stellaverse_rejected_filter.py", line 98, in fetch_json
+    raise last_err
+  File "/home/runner/work/stellaverse-rejected/stellaverse-rejected/./stellaverse_rejected_filter.py", line 80, in fetch_json
+    with urllib.request.urlopen(url, timeout=timeout) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 525, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 634, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 563, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 643, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+2026-09-06 15:24:17,860 [INFO] --- 処理開始: table=dpst ---
+2026-09-06 15:24:17,860 [INFO] ダウンロード: https://stellabms.xyz/dpst/score_sub.json (試行 1/3)
+2026-09-06 15:24:17,903 [WARNING] 取得失敗: https://stellabms.xyz/dpst/score_sub.json (HTTP Error 403: Forbidden)
+2026-09-06 15:24:17,903 [INFO] 1.5s 待機してリトライします...
+2026-09-06 15:24:19,403 [INFO] ダウンロード: https://stellabms.xyz/dpst/score_sub.json (試行 2/3)
+2026-09-06 15:24:19,446 [WARNING] 取得失敗: https://stellabms.xyz/dpst/score_sub.json (HTTP Error 403: Forbidden)
+2026-09-06 15:24:19,446 [INFO] 2.2s 待機してリトライします...
+2026-09-06 15:24:21,697 [INFO] ダウンロード: https://stellabms.xyz/dpst/score_sub.json (試行 3/3)
+2026-09-06 15:24:21,738 [WARNING] 取得失敗: https://stellabms.xyz/dpst/score_sub.json (HTTP Error 403: Forbidden)
+2026-09-06 15:24:21,739 [ERROR] 最終的に取得できませんでした: https://stellabms.xyz/dpst/score_sub.json
+2026-09-06 15:24:21,739 [ERROR] dpst: score_sub の取得に失敗したためスキップします。
+Traceback (most recent call last):
+  File "/home/runner/work/stellaverse-rejected/stellaverse-rejected/./stellaverse_rejected_filter.py", line 153, in process_table
+    sub = fetch_json(sub_url)
+          ^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/stellaverse-rejected/stellaverse-rejected/./stellaverse_rejected_filter.py", line 98, in fetch_json
+    raise last_err
+  File "/home/runner/work/stellaverse-rejected/stellaverse-rejected/./stellaverse_rejected_filter.py", line 80, in fetch_json
+    with urllib.request.urlopen(url, timeout=timeout) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 525, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 634, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 563, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 643, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+2026-09-06 15:24:21,740 [INFO] 全テーブル処理が終了しました
