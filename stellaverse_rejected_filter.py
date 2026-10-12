@@ -2,7 +2,7 @@
 """
 stellaverse_rejected_filter.py
 
-複数のテーブル (st, sl, sn, so, fr, dp, dpst 等) に対して
+複数のテーブル (st, sl, sr, sn, so, dp, dpst) に対して
  - <table>/score_sub.json を取得し
  - 同じ <table> の score.json と score_vote.json に含まれる md5 を除外し
  - 加工後の JSON を <OUTPUT_DIR>/<table>/score.json に保存します
@@ -24,12 +24,12 @@ import logging
 import os
 import sys
 import time
-import urllib.request
 import urllib.error
+import urllib.request
 from typing import Any, Dict, List, Set, Iterable
 
 # テンプレートとテーブル一覧
-TABLES = ("st", "sl", "sn", "so", "dp", "dpst")
+TABLES = ("st", "sl", "sr", "sn", "so", "dp", "dpst")
 SUB_URL_TEMPLATE = "https://stellabms.xyz/{table}/score_sub.json"
 OFFICIAL_TEMPLATE = "https://stellabms.xyz/{table}/score.json"
 VOTE_TEMPLATE = "https://stellabms.xyz/{table}/score_vote.json"
@@ -45,6 +45,7 @@ LOG_FILENAME = "stellaverse_rejected_filter.log"
 FETCH_TIMEOUT = 20  # sec
 RETRY_COUNT = 3
 RETRY_BACKOFF = 1.5
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
 
 
 def setup_logging(output_dir: str) -> None:
@@ -71,47 +72,41 @@ def setup_logging(output_dir: str) -> None:
     logger.addHandler(fh)
 
 
-def fetch_json(url: str, timeout: int = FETCH_TIMEOUT, retries: int = RETRY_COUNT) -> Any:
-    """URLからJSONを取得してパースして返す。例外は呼び出し元へ伝播する。"""
-    last_err = None
+def fetch_json(url: str, timeout: int = FETCH_TIMEOUT, retries: int = RETRY_COUNT) -> List[Dict[str, Any]]:
+    """譜面配列を取得・検証する。リトライ後も失敗した場合は例外を伝播する。"""
+    if retries < 1:
+        raise ValueError("取得回数は1以上で指定してください")
+    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     for attempt in range(1, retries + 1):
         try:
             logging.info(f"ダウンロード: {url} (試行 {attempt}/{retries})")
-            with urllib.request.urlopen(url, timeout=timeout) as resp:
-                raw = resp.read()
-                try:
-                    text = raw.decode("utf-8")
-                except UnicodeDecodeError:
-                    text = raw.decode("latin-1")
-                data = json.loads(text)
-                length = getattr(data, '__len__', lambda: '?')()
-                logging.info(f"取得成功: {url} -> {length} 要素")
-                return data
-        except (urllib.error.HTTPError, urllib.error.URLError, ValueError, TimeoutError) as e:
-            last_err = e
-            logging.warning(f"取得失敗: {url} ({e})")
-            if attempt < retries:
-                backoff = RETRY_BACKOFF ** attempt
-                logging.info(f"{backoff:.1f}s 待機してリトライします...")
-                time.sleep(backoff)
-    logging.error(f"最終的に取得できませんでした: {url}")
-    raise last_err
+            with urllib.request.urlopen(request, timeout=timeout) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+
+            if not isinstance(data, list):
+                raise ValueError(f"{url}: JSONが配列ではありません")
+            for i, item in enumerate(data):
+                if (
+                    not isinstance(item, dict)
+                    or not isinstance(item.get("md5"), str)
+                    or not item["md5"].strip()
+                ):
+                    raise ValueError(f"{url}: 要素 {i} に有効なmd5文字列がありません")
+
+            logging.info(f"取得成功: {url} -> {len(data)} 要素")
+            return data
+        except (urllib.error.URLError, ValueError, TimeoutError) as error:
+            logging.warning(f"取得失敗: {url} ({error})")
+            if attempt == retries:
+                raise
+            backoff = RETRY_BACKOFF ** attempt
+            logging.info(f"{backoff:.1f}s 待機してリトライします...")
+            time.sleep(backoff)
 
 
-def extract_md5s(data: Any) -> Set[str]:
+def extract_md5s(data: List[Dict[str, Any]]) -> Set[str]:
     """データ配列から md5 値の集合を抽出する。小文字正規化して返す。"""
-    md5s: Set[str] = set()
-    if not isinstance(data, list):
-        logging.warning("期待した形式ではありません: list ではありません")
-        return md5s
-    for i, item in enumerate(data):
-        if not isinstance(item, dict):
-            continue
-        md5 = item.get("md5")
-        if not md5:
-            continue
-        md5s.add(md5.lower())
-    return md5s
+    return {item["md5"].lower() for item in data}
 
 
 def filter_sub(sub_data: List[Dict[str, Any]], exclude_md5s: Set[str]) -> List[Dict[str, Any]]:
@@ -119,13 +114,7 @@ def filter_sub(sub_data: List[Dict[str, Any]], exclude_md5s: Set[str]) -> List[D
     filtered: List[Dict[str, Any]] = []
     excluded_count = 0
     for item in sub_data:
-        if not isinstance(item, dict):
-            filtered.append(item)
-            continue
-        md5 = item.get("md5")
-        if not md5:
-            filtered.append(item)
-            continue
+        md5 = item["md5"]
         if md5.lower() in exclude_md5s:
             excluded_count += 1
             continue
@@ -142,41 +131,23 @@ def save_json(data: Any, path: str) -> None:
 
 
 def process_table(table: str, output_dir: str) -> None:
-    """1つの table を処理する。失敗しても他の table の処理を続ける。"""
+    """必要な全データを検証してから保存する。取得・検証失敗時は既存の表を更新しない。"""
     logging.info(f"--- 処理開始: table={table} ---")
     sub_url = SUB_URL_TEMPLATE.format(table=table)
     official_url = OFFICIAL_TEMPLATE.format(table=table)
     vote_url = VOTE_TEMPLATE.format(table=table)
 
-    # sub は必須。取得失敗ならこの table はスキップ
-    try:
-        sub = fetch_json(sub_url)
-    except Exception:
-        logging.exception(f"{table}: score_sub の取得に失敗したためスキップします。")
-        return
-
-    # official / vote は存在しないことがあり得るので、失敗しても空リスト扱いして続行
-    try:
-        official = fetch_json(official_url)
-    except Exception:
-        logging.warning(f"{table}: official (score.json) の取得に失敗しました。除外リストは空として処理します。")
-        official = []
-
-    try:
-        vote = fetch_json(vote_url)
-    except Exception:
-        logging.warning(f"{table}: vote (score_vote.json) の取得に失敗しました。除外リストは空として処理します。")
-        vote = []
+    sub = fetch_json(sub_url)
+    official = fetch_json(official_url)
+    if not official:
+        raise ValueError(f"{table}: 正式表 (score.json) が0件のため更新できません")
+    vote = fetch_json(vote_url)
 
     md5s_official = extract_md5s(official)
     md5s_vote = extract_md5s(vote)
     exclude_md5s = md5s_official.union(md5s_vote)
 
     logging.info(f"{table}: 除外対象 md5 数 = {len(exclude_md5s)}")
-
-    if not isinstance(sub, list):
-        logging.error(f"{table}: score_sub の形式が配列ではありません。スキップします。")
-        return
 
     filtered = filter_sub(sub, exclude_md5s)
 
@@ -188,19 +159,24 @@ def process_table(table: str, output_dir: str) -> None:
 
 def main(argv: Iterable[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="stellabms の JSON をテーブル単位でフィルタして保存します")
-    parser.add_argument("--output", "-o", default=DEFAULT_OUTPUT_DIR, help="出力ディレクトリ (デフォルト: スクリプトディレクトリ/output)")
+    parser.add_argument("--output", "-o", default=DEFAULT_OUTPUT_DIR, help="出力ディレクトリ (デフォルト: スクリプトディレクトリ/docs)")
     args = parser.parse_args(list(argv) if argv is not None else None)
 
     output_dir = args.output
     setup_logging(SCRIPT_DIR)
 
     logging.info("全テーブル処理を開始します")
+    failed_tables = []
     for table in TABLES:
         try:
             process_table(table, output_dir)
         except Exception:
-            logging.exception(f"例外により {table} の処理が中断されましたが、他のテーブルの処理は継続します。")
+            failed_tables.append(table)
+            logging.exception(f"{table} の更新に失敗したためスキップします。他のテーブルの処理は継続します。")
 
+    if failed_tables:
+        logging.error(f"更新に失敗したテーブル: {', '.join(failed_tables)}")
+        return 1
     logging.info("全テーブル処理が終了しました")
     return 0
 
