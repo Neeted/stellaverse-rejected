@@ -30,6 +30,16 @@
     "level": "0"
   },
   {
+    "id": 9969,
+    "title": "Falling Cxte [Another14]",
+    "artist": "Qga obj:name94",
+    "md5": "16a0c1a85cd114442b60724ceb50a548",
+    "sha256": "f2e39eafebe9c260b92b890bba55d6d65f5baf5ca7ec2355f7f6b5d8aec0a721",
+    "url": "https://venue.bmssearch.net/bmsshuin3/103",
+    "url_diff": "https://drive.google.com/file/d/1SWKfRxU4Rw7DBd63H4m-iY0TB9Um7y_s/view",
+    "level": "0"
+  },
+  {
     "id": 4338,
     "md5": "0a5033e3081589ffd65a6293f6421b14",
     "sha256": "c88ac7f891600d4f089a79fcab560a5bc6f001e74f7bcc89201b16f86b4e5e53",
@@ -377,6 +387,16 @@
     "artist": "EBIMAYO obj : 71066",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=83&event=104",
     "url_diff": "https://stellabms.xyz/upload/523",
+    "level": "2"
+  },
+  {
+    "id": 9970,
+    "title": "HAELEQUIN [Wings of Piano]",
+    "artist": "orangentle / deadblue238 / obj : JGh",
+    "md5": "9bc76d1ea78582cc2610a77204061e1a",
+    "sha256": "59896af94d4cbeff91158e54d824ea74fcd4b959afa9b24b07a78bb778fe25c5",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=83",
+    "url_diff": "https://end2end.tech/9bc76aaafe28",
     "level": "2"
   },
   {
@@ -860,6 +880,16 @@
     "level": "4"
   },
   {
+    "id": 9492,
+    "title": "drumfxxk [DRUM & BASS]",
+    "artist": "spine obj.quad",
+    "md5": "dbcc5930039af6c9f2baf3f06a2aa810",
+    "sha256": "1e1d13db5042e88ef808696d02991fdca848ad420908abdd87cce9ea43cb05e1",
+    "url": "https://drive.google.com/file/d/1yFLmWY6yx4eXtVxjMlJV9yYD_CxvU4gi/view?usp=drive_link",
+    "url_diff": "https://stellabms.xyz/upload/4026",
+    "level": "4"
+  },
+  {
     "id": 7498,
     "title": "Echoes of You [DP INSANE]",
     "artist": "anco / Illust: かいネコ Obj: sagoo",
@@ -1038,6 +1068,16 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=142",
     "url_diff": "https://stellabms.xyz/upload/3235",
     "level": "4"
+  },
+  {
+    "id": 9971,
+    "title": "* Crow Solace * [DPH]",
+    "artist": "m108 BGA : 砂糖天麩羅 / シキイチル",
+    "md5": "dcdf90c6be3e616e9728ed876eeae406",
+    "sha256": "e83a51aeda08e98de530c184a2205f3af85359d97034d4c19970bf28f677daf7",
+    "url": "https://drive.google.com/file/d/15hbI6ygX4H9Cc8L-zNji4UVjS6ZwBpUD/view?usp=drive_link",
+    "url_diff": "https://w.atwiki.jp/14key/pages/23.html",
+    "level": "5"
   },
   {
     "id": 4146,
@@ -1627,6 +1667,16 @@
     "artist": "裏 吉 川 / obj:ED",
     "url": "http://malie.noor.jp/",
     "url_diff": "https://ux.getuploader.com/dpbms/download/5",
+    "level": "7"
+  },
+  {
+    "id": 9493,
+    "title": "Absolute Angel [DP INNOCENT]",
+    "artist": "きこにゃん BGI:らりる obj:しらす",
+    "md5": "139dd0d62bdb2e16263d155ecdd91dd5",
+    "sha256": "28725bffb71ee7571275588bb40a3f4dd414d34d12a13aa45b050a38f5fa421a",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=144",
+    "url_diff": "https://stellabms.xyz/upload/3934",
     "level": "7"
   },
   {

@@ -20,22 +20,22 @@
     "level": "0"
   },
   {
+    "id": 9846,
+    "md5": "4b2ef6fdb08c645bf82e5ee1c78737ae",
+    "sha256": "571a7cc094fa77b80a476bce266b24378398fcab0737e19d05797742ac63112e",
+    "title": "Canon (blazing summer mix) [EXTRA]",
+    "artist": "上杉うた with 星明 / 薄杏 (Object)",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=54",
+    "url_diff": "http://lalha.web.fc2.com/",
+    "level": "0"
+  },
+  {
     "id": 8174,
     "title": "determination",
     "artist": "taqumi",
     "md5": "ae5239afa2277fd152e4fa775bb6badf",
     "sha256": "8ec26a1f5fd99c42922b5d7fb53a6d16b70d59a7ca9d6aa937a5c0baa5ab0693",
     "url": "https://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/determination.rar?from=search",
-    "url_diff": "",
-    "level": "0"
-  },
-  {
-    "id": 8579,
-    "md5": "4c6705b7ffcc7822bebf004361d1083c",
-    "sha256": "29771940cfe9f02cdead61e8a9cd3a7f95bc8f984b0880b3974fb21d6b55f886",
-    "title": "Dissonance[ANOTHER]",
-    "artist": "ピンクだま",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=434&event=137",
     "url_diff": "",
     "level": "0"
   },
@@ -340,6 +340,26 @@
     "level": "3"
   },
   {
+    "id": 9470,
+    "md5": "f4b991d888ef57b5d8041e45b808601b",
+    "sha256": "b4f69febdd743dc060d176bca2786edc59dee0a2448acbcc96a8cfd2193628e7",
+    "title": "Virgin Lost [No horny]",
+    "artist": "琥珀●た obj.不可以色色 柴犬",
+    "url": "https://drive.google.com/file/d/1vZO92i_tOd_L_8tYaWPYzTCjH44HDUzi/view?usp=sharing",
+    "url_diff": "https://stellabms.xyz/upload/8095",
+    "level": "3"
+  },
+  {
+    "id": 9511,
+    "title": "★SweeT DiscoverY★ (虎のANOTHER)",
+    "artist": "chocolate max / black train",
+    "md5": "a1552410ea80470cf77732bdcb8ab232",
+    "sha256": "de5fd93bc87d995cd3a6e3ffbff9a506d5157dd5e3cbbc0229015c389a2a7654",
+    "url": "http://web.archive.org/web/20070727155719fw_/http://sasakure.bms.ms/music/sweet.htm",
+    "url_diff": "https://darksabun.club/mirror/absolute/bms/sweetdiscovery(bt1tora7).bme",
+    "level": "3"
+  },
+  {
     "id": 7458,
     "title": "うどんげ⇒ (HYPER Lv1.5)",
     "artist": "sun3+Mik",
@@ -380,6 +400,16 @@
     "level": "4"
   },
   {
+    "id": 1655,
+    "md5": "a843271577a598745e0749a7d3db6939",
+    "sha256": "a8587e1f1478803be08e4c7dfa5f43dcea7a2000124c0cd20ad3adbecdd1453d",
+    "title": "Point Graphy [Ex]",
+    "artist": "syzfonics / obj:Azel",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=85",
+    "url_diff": "",
+    "level": "4"
+  },
+  {
     "id": 7476,
     "md5": "633086994d0510bfa0dffe266f65fd28",
     "sha256": "8787f6f22b5ad6b3502a59d6e2cb9248a1d7691f5d6fa25dbb6c9ee2269e2df1",
@@ -397,6 +427,26 @@
     "sha256": "8f6b31e28199fcd665f3e0fad3a15402dc6194de7e5a56fbf6c70f30ced5373d",
     "url": "https://drive.google.com/file/d/1zVGx-5yvyZOELX7yjsKdeshxSVs9M52O/view?usp=sharing",
     "url_diff": "https://web.archive.org/web/20190211031819/http://sabosabun.tank.jp/sabun/ygmny.zip",
+    "level": "4"
+  },
+  {
+    "id": 9766,
+    "md5": "761fc836f4cfffc2b8254d353971493f",
+    "sha256": "a63dbdaa7b3f0309cab459332743945d380b37a00c44014c6c2d0f4adcf767f9",
+    "title": "決戦！サルーイン -Final Battle with Saruin- [destiny×1]",
+    "artist": "金ラメタキシード:obj:Minion",
+    "url": "http://lucifer.pussycat.jp/",
+    "url_diff": "https://darksabun.club/mirror/absolute/uploader/up2812.zip",
+    "level": "4"
+  },
+  {
+    "id": 3689,
+    "md5": "5b0c274fb2d42d0fe339a856b07940f5",
+    "sha256": "80f547308542f369e160d92eb35fb0ec8e08a5fda08df64a071ca74c08593c5f",
+    "title": "純子先輩 (VOVOVO.MIX) -ANOTHER7-",
+    "artist": "CRUNCH + A.I. Junko / arranged by sumomo VS Johnny",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=133",
+    "url_diff": "",
     "level": "4"
   },
   {
@@ -620,6 +670,16 @@
     "level": "7"
   },
   {
+    "id": 9765,
+    "title": "真・千年女王 [ANOTHER]",
+    "artist": "Shiraishi",
+    "md5": "f3b3067979fea33c9dec6857ea645429",
+    "sha256": "c6b35f4af28bfec37ae4114f380936e593f66938a1c6dfe0011a4d840de7565f",
+    "url": "https://drive.google.com/uc?id=1yLbXVvvikpH_9miAqMUhXL2e75juLqEE",
+    "url_diff": "",
+    "level": "7"
+  },
+  {
     "id": 7316,
     "md5": "6175b7cd7704877ce022672b68fa1531",
     "sha256": "33282eeab6e5819891a32593d8f53dcbb574ec0328b9af8ed04e95b4098de21c",
@@ -628,6 +688,16 @@
     "url": "https://onedrive.live.com/?authkey=%21AM4qWW6_OzqxnJY&id=344D670279808113%21131&cid=344D670279808113",
     "url_diff": "",
     "level": "7"
+  },
+  {
+    "id": 9759,
+    "md5": "023fde65af9e65aebfa20b2885de1743",
+    "sha256": "e00650a707d615bae69a077cc508736ceea8891c6a1b0a555a354e2d1524f293",
+    "title": "A c i - L - A F O",
+    "artist": "裏 吉 川 / obj: black train",
+    "url": "http://malie.noor.jp/",
+    "url_diff": "https://darksabun.club/mirror/absolute/Anotherbms.html",
+    "level": "8"
   },
   {
     "id": 9163,
@@ -668,6 +738,16 @@
     "url": "https://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.210901%20patch/newsongs/(%C2%B4%D0%94%EF%BD%80;).rar?from=search",
     "url_diff": "https://nick.xxxxxxxx.jp/f2_29.lzh",
     "level": "8"
+  },
+  {
+    "id": 9906,
+    "title": "Black Lair [Sword]",
+    "artist": "削除 feat. void / 浪漫映像制作倶楽部 / obj:秘密",
+    "md5": "0cb23c83e8900f106b8cb9679b890a84",
+    "sha256": "6d6949fa7d3a3789b6c5de4edb8a0621fe15115eb79cf90c286f87291935e5c8",
+    "url": "https://drive.google.com/file/d/1izylfsm1FX5OFRA8FnlCyVvTfgdsEIgv/view?usp=drive_link",
+    "url_diff": "http://hiiiii.web.fc2.com/sabun/insane.html",
+    "level": "9"
   },
   {
     "id": 8027,
@@ -770,6 +850,16 @@
     "level": "10"
   },
   {
+    "id": 9805,
+    "title": "感情の摩天楼 ～ Cosmic Mind (LUNATIC)",
+    "artist": "zun (obj:yuyuko)",
+    "md5": "51a43ff64aea9cdc925e686135e52646",
+    "sha256": "785969c8ddcc536c835e5307d08525834505c9bbe95668ce8800fdeadc7bfec9",
+    "url": "http://nekokan.dyndns.info/~lobsak/genocide/archive.html",
+    "url_diff": "",
+    "level": "10"
+  },
+  {
     "id": 9126,
     "md5": "40bae55c28f6c7a694a0e536b8c9f508",
     "sha256": "217bfac76bc8585dd98618805162ea0f2a1bffc54a0e5c03e00255fddbd4d483",
@@ -817,6 +907,16 @@
     "artist": "Iridiumol mov:Baiicat / obj:tsukisaka",
     "url": "https://venue.bmssearch.net/bmstukuru2025/38",
     "url_diff": "https://stellabms.xyz/upload/5084",
+    "level": "11"
+  },
+  {
+    "id": 9690,
+    "title": "ちんこ音頭2022 [LEGGENDARIA]",
+    "artist": "くっちー obj:BAECON",
+    "md5": "53ff0eed966e8798e3037e328b0238b1",
+    "sha256": "b314ce00607c6b4568bc5e1cf6cf52e36b3e501f60b68656b0140023c1bf75bb",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=213&event=140",
+    "url_diff": "",
     "level": "11"
   },
   {

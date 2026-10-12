@@ -50,6 +50,16 @@
     "level": "1"
   },
   {
+    "id": 4620,
+    "md5": "40128ff819e524e01b5f06d56bbed2ca",
+    "sha256": "3d5896b5d2a7954449a2695f21836dde257c4b11af589eb8149d131012169633",
+    "title": "Crystal Snow [Hexagon]",
+    "artist": "HaL feat. riri obj.hex",
+    "url": "http://web.archive.org/web/20060621123759/http://www.remarkablesense.org:80/~hal/waveceptor/bms/bms_crystal.zip",
+    "url_diff": "https://bms.hexlataia.xyz/",
+    "level": "1"
+  },
+  {
     "id": 7607,
     "title": "crystallize silver-colder style-(---)",
     "artist": "sun3",
@@ -90,6 +100,16 @@
     "level": "2"
   },
   {
+    "id": 9811,
+    "title": "ピアノ協奏曲第１番\"蠍火\"（なんでも吸い込むピンク色のための）",
+    "artist": "fether / 85",
+    "md5": "4af0c134fc6b52baa374a53bee0cfb93",
+    "sha256": "5b58a255c873c187ec2917d309b4bddbd449b65bba8b75cb466c8f0f18b9023d",
+    "url": "http://dl.dropbox.com/s/yboez1yj4lrw350/fz.html",
+    "url_diff": "",
+    "level": "2"
+  },
+  {
     "id": 7825,
     "title": "Plastic Mindddddddd",
     "artist": "ZUN/arr.みょん / iimode-do / かげきち / obj:SKRN",
@@ -97,6 +117,16 @@
     "sha256": "700d9e486c3211d0ab47ea44b9b0532d5947b72abe1baa8fe57de72792d71dc6",
     "url": "http://iimode-do.jp/?p=65",
     "url_diff": "https://darksabun.club/mirror/absolute/uploader/up5362.zip",
+    "level": "3"
+  },
+  {
+    "id": 9764,
+    "title": "四十五年ノ雪桜 [trrrrr]",
+    "artist": "kozato / BAECON",
+    "md5": "1034dc54984708183f79e87469cd7383",
+    "sha256": "eaa48b1e8ca0cde42649078ead010da9d6f47216f28a492675fcf96d5c1ea542",
+    "url": "http://16thnotes.ebb.jp/bms.html",
+    "url_diff": "http://akred.web.fc2.com/baecon/7_anotheraspp.bme",
     "level": "3"
   },
   {
@@ -160,6 +190,16 @@
     "level": "5"
   },
   {
+    "id": 5442,
+    "md5": "f0052cbf695f207b1133197d8ef58247",
+    "sha256": "fae6e0949b09ebd1d9fe4c9a5be7a1d11487bfc2d19a0e526db1672931a1a245",
+    "title": "Rush-Hour [Rush-Minute]",
+    "artist": "litmus* / extra",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=140",
+    "url_diff": "https://darksabun.club/event/bofet/",
+    "level": "6"
+  },
+  {
     "id": 8372,
     "title": "U.N.O.495 [lunatic]",
     "artist": "tor / obj:firi.",
@@ -210,6 +250,16 @@
     "level": "9"
   },
   {
+    "id": 9776,
+    "title": "Delay of Maia",
+    "artist": "ねこみみ魔法使い / obj:UnK-now/37X",
+    "md5": "f8b554f8cd438dc417c04d363831bf21",
+    "sha256": "3e95a3951938d3d62bae2a48227cdf81230c171ad97ea573a6942d1ecdffb30a",
+    "url": "http://necoco.2-d.jp/",
+    "url_diff": "https://sagena.harisen.jp/bms.html",
+    "level": "10"
+  },
+  {
     "id": 8530,
     "title": "Preta -Despair-",
     "artist": "Arctures obj:七海千秋",
@@ -227,6 +277,16 @@
     "artist": "paraneumann / obj.dj kasou",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=131",
     "url_diff": "https://drive.usercontent.google.com/u/0/uc?id=1EConQ97n3ob2WEUmorrbWqUfbZaYV08x&export=download",
+    "level": "10"
+  },
+  {
+    "id": 9796,
+    "title": "愛歌「ネグラドルナ」",
+    "artist": "ルゼ mov:KeiuO illust:うまるつふり",
+    "md5": "dbf6e48bff14c8ee4507ed611d01312b",
+    "sha256": "578add0520a20b6ec15ca5fe7eb8757b78da49410f1b74cead899b91bf0042f2",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=137",
+    "url_diff": "",
     "level": "10"
   },
   {
