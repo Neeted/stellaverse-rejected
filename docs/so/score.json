@@ -20,16 +20,6 @@
     "level": "0"
   },
   {
-    "id": 9846,
-    "md5": "4b2ef6fdb08c645bf82e5ee1c78737ae",
-    "sha256": "571a7cc094fa77b80a476bce266b24378398fcab0737e19d05797742ac63112e",
-    "title": "Canon (blazing summer mix) [EXTRA]",
-    "artist": "上杉うた with 星明 / 薄杏 (Object)",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=54",
-    "url_diff": "http://lalha.web.fc2.com/",
-    "level": "0"
-  },
-  {
     "id": 8174,
     "title": "determination",
     "artist": "taqumi",
@@ -217,6 +207,16 @@
     "artist": "じぽたん MIDI : 猫姫 obj : .RED",
     "url": "http://www.geocities.jp/red_without_right_stick/",
     "url_diff": "",
+    "level": "1"
+  },
+  {
+    "id": 1187,
+    "md5": "ddab030e51246d75bed80518ce6e9788",
+    "sha256": "cd8d5e48d5613380f15e5259b530012d936cff96a9dacb483bc273b2466d88ec",
+    "title": "日溜りの街－あ！－ (乱打MAX)",
+    "artist": "猫蟹丸 / obj: black train",
+    "url": "https://web.archive.org/web/20120807025157/http://knm.sakura.ne.jp/pms/index.html",
+    "url_diff": "http://absolute.pv.land.to/Anotherbms.html",
     "level": "1"
   },
   {
@@ -790,6 +790,16 @@
     "level": "9"
   },
   {
+    "id": 9908,
+    "title": "英雄 ～氷の妖精のお話～ [HARDEST]",
+    "artist": "Yu^ta /差分　赤い人",
+    "md5": "5958bba1a0acbac3b137337cbd983cad",
+    "sha256": "f5b1c3d95feb72292c3547970f22c1e18a2c6c9a15c93d8de55938e7e39a3bb0",
+    "url": "https://yutabms.net/bms",
+    "url_diff": "https://darksabun.club/mirror/akred/ak-red-new.html",
+    "level": "9"
+  },
+  {
     "id": 7269,
     "title": "7th Avenue [niku]",
     "artist": "Sound Souler BGA: Yaesachi",
@@ -847,6 +857,16 @@
     "artist": "ridis / obj:(i)",
     "url": "http://web.archive.org/web/20060305103446/http://bof.nothing.sh:8080/file/catnap_ridis_x_aria_hq.rar",
     "url_diff": "https://web.archive.org/web/20240813144107/http://absolute.pv.land.to/uploader/src/up1108.zip",
+    "level": "10"
+  },
+  {
+    "id": 9887,
+    "title": "Yakumo >>JOINT STRUGGLE [SP ANOTHER+]",
+    "artist": "くっちー vs あっきー",
+    "md5": "aecc5d08237b7b77a4a63db2df14766d",
+    "sha256": "ea63a410667eab99d1093cb7672f8afc1e0e7a4e8bdee61a6f25c6cbefed5f9e",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=60",
+    "url_diff": "",
     "level": "10"
   },
   {
@@ -927,6 +947,16 @@
     "sha256": "c6a47e83d8056953eb278b97001665531f4a4303db39fde7c522722a6faa6323",
     "url": "http://www.nekomirin.com/bms/nekomirin_franchanmusic_HQogg.zip",
     "url_diff": "https://web.archive.org/web/20120918210013/http://sabosabun.tank.jp/",
+    "level": "11"
+  },
+  {
+    "id": 9903,
+    "title": "堕楽の園 [ANOTHER]",
+    "artist": "witch's slave Graphic by Est",
+    "md5": "dfad94b0280fd8b9ba672801dfadbe86",
+    "sha256": "f95e92183ab6262bbb775f855adf932c535ecd8962dfb6f64785acd047f8315b",
+    "url": "https://gmtn.stoicsounds.jp/",
+    "url_diff": "",
     "level": "11"
   },
   {

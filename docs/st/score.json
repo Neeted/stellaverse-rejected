@@ -2870,16 +2870,6 @@
     "level": "2"
   },
   {
-    "id": 4993,
-    "md5": "db1dbdd70e6b36e2e6be22e89a6be883",
-    "sha256": "c2bbdd8de82593255619639386049df2aac3ec5913b420d9a7984f5f23fd0255",
-    "title": "LOVE'S REBIRTH \"Truth Mix\" [WHALE'S  REBIRTH]",
-    "artist": "TAROS / obj. hplaner",
-    "url": "https://web.archive.org/web/20010816060121/http://www.jan.sakura.ne.jp:80/~taros/lovesrebirth_truthmix.exe",
-    "url_diff": "https://web.archive.org/web/20190322230138/https://www.hyper-laner.com/sabun/all201807_laner.rar",
-    "level": "2"
-  },
-  {
     "id": 554,
     "md5": "eb104830697f9e6622c352403a67e486",
     "sha256": "c75649bcdb68210e262cc0e0cb28a97f6ca592daa959cc11d9c40deda67ea5e7",
@@ -5510,6 +5500,16 @@
     "level": "4"
   },
   {
+    "id": 10036,
+    "title": "フラッフィー・フォアキャスト [ふわふわ注意報]",
+    "artist": "よーすくかいな obj : みあ",
+    "md5": "8b8de762a4ee9dfe80f3ba00bf8fcbdb",
+    "sha256": "c528ecd08fd0e300ae08693cd9bd8e4212159a7c0f0d7d79eb99f548c562b185",
+    "url": "https://drive.google.com/file/d/1Jz2BfAnpkequvv8a7jbVs2kisxtrZq9k",
+    "url_diff": "",
+    "level": "4"
+  },
+  {
     "id": 2970,
     "md5": "0080eadf956738164b20a1cd8cffafc1",
     "sha256": "f355f367dbf26280d9a27d844e5ed538f81415c15835278d92623ce58682c64c",
@@ -5730,6 +5730,16 @@
     "level": "5"
   },
   {
+    "id": 9914,
+    "title": "Astraia [X]",
+    "artist": "Azel",
+    "md5": "f77f9662e9586416f6d3392a700d840d",
+    "sha256": "5dc32f56c2a6579b3b968a7f8bf02d80bee85ae7671f97ec74a0967bdf9c4856",
+    "url": "https://dropbox.bms.ms/u/87297315/_Astraia_BOF2012.zip",
+    "url_diff": "http://onmacodayo.web.fc2.com/bms0910/__Astraia_X.bms",
+    "level": "5"
+  },
+  {
     "id": 6153,
     "md5": "15356f09c216a4e5c6f4c82e320fcee5",
     "sha256": "77cf16895d8f056aae8cb042ae4c5765380ca0bc601f853920d3faac09292d78",
@@ -5797,6 +5807,16 @@
     "artist": "rider obj:42",
     "url": "http://kamineko.sakura.ne.jp/music.html ",
     "url_diff": "http://obj42.web.fc2.com/",
+    "level": "5"
+  },
+  {
+    "id": 10039,
+    "title": "CROSS†SOUL [7key Challenger]",
+    "artist": "HyuN feat. Syepias / extra",
+    "md5": "85533d3572edf715c119deebf160c078",
+    "sha256": "6ef3321bee25ad97f749bfc3cd3b8fe9f7ca50f66d9426e568fffe785f4d93f3",
+    "url": "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=44&order=reg&odtype=a",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05502.zip",
     "level": "5"
   },
   {
@@ -5920,6 +5940,16 @@
     "level": "5"
   },
   {
+    "id": 9937,
+    "title": "GaRaKuTic Dream (garbage+)",
+    "artist": "NEKI←T / Clodsire",
+    "md5": "2a778b49fad2b950e86da0d128097d13",
+    "sha256": "9e35b24546a26b5810561c79a2dc1bb72ace14dc2b981549e31eb351f4f5c285",
+    "url": "http://nekokan.dyndns.info/~anonymous/bms/est/",
+    "url_diff": "https://stellabms.xyz/upload/2947",
+    "level": "5"
+  },
+  {
     "id": 9784,
     "title": "Get the Pride [INFERNO]",
     "artist": "Neun_jack /差分 赤い人",
@@ -5927,6 +5957,16 @@
     "sha256": "f9e06cb6b981c09222f84a5ec0b55c9bac104c9888dc755602243ed80636cfe6",
     "url": "https://dropbox.bms.ms/u/60346274/Neunjack/neun_jack_GtP_ogg.rar",
     "url_diff": "http://akred.web.fc2.com/bmsfile/GtP-INFERNO.bms",
+    "level": "5"
+  },
+  {
+    "id": 10129,
+    "title": "Her Majesty -Dictatorship-",
+    "artist": "naotyu- obj.Infinite Melodia (OXYGEN)",
+    "md5": "f53019135c09f7ccb917bdb3341026a5",
+    "sha256": "eaac625993e821f3c91e32aa9c0048a59444bdab545d5ada83bdd12727373b44",
+    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/VAszBAQT",
+    "url_diff": "https://drive.google.com/drive/folders/0B4chFHpe-ae4UG9zMDlwcGZiM0U?resourcekey=0-7W-FeShnvXMNkvr53rV1IQ",
     "level": "5"
   },
   {
@@ -6380,6 +6420,16 @@
     "level": "6"
   },
   {
+    "id": 10128,
+    "title": "Apollo - DELAY -",
+    "artist": "xelloscope あ",
+    "md5": "c48fa99a723ca73118f4b9101de76fe5",
+    "sha256": "514d8856cad3b256a1b6335c45066c03ebf21eb34a89ec120a7a9f588ac32050",
+    "url": "https://www.luzeria.net/?p=387",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01534.zip",
+    "level": "6"
+  },
+  {
     "id": 6036,
     "md5": "28b2ab49f4c0f8d6f2dbe3d1b55f12f6",
     "sha256": "0e57bb037f981f5c883a103207f691371b255eec38686692b22c879a8157a8d1",
@@ -6590,6 +6640,16 @@
     "level": "6"
   },
   {
+    "id": 9916,
+    "title": "Plastic Mind　　Sensitive 7",
+    "artist": "ZUN / arr.みょん / iimode-do / かげきち / SHOT-U",
+    "md5": "c42fe77547a72b6f10e33c6f499abc97",
+    "sha256": "f555ee0331a95908979c1776f3fee657ca22c76815f94aea30bc7dbd0cca7988",
+    "url": "https://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21201",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up1550.lzh",
+    "level": "6"
+  },
+  {
     "id": 3430,
     "md5": "3621b880f9ae696f6ba5e711d9489165",
     "sha256": "d5b0f05bab45a167af5a593ad237611f5d2fdffd1d8b280b618a8e2434b75afe",
@@ -6597,6 +6657,26 @@
     "artist": "shio obj:chen",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=42&event=92",
     "url_diff": "",
+    "level": "6"
+  },
+  {
+    "id": 9925,
+    "title": "Rosario -Genocide-",
+    "artist": "SB YUNE / selene.",
+    "md5": "81abbef01356dc1d508604d46478acc4",
+    "sha256": "62ae2f75e5afa396344b9f740f1600075ab5c0f39f6c03c9b5537f9f90dc4bfb",
+    "url": "http://web.archive.org/web/20130508191238/http://homepage3.nifty.com/karihamo/ys_Rosario.zip",
+    "url_diff": "https://stellabms.xyz/upload/2416",
+    "level": "6"
+  },
+  {
+    "id": 9942,
+    "title": "Sacred Scarlet ～ 真紅の魔奏 [CRIMSON]",
+    "artist": "カノン・ソルフェージュ/obj:cinq",
+    "md5": "f7ee1947ea4b7c0ce0438bc8bd0a3c01",
+    "sha256": "f532b6c24aadf0692272482c4483bd0134bd0c161487d3cdd4f18a78fdfd32aa",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=142&event=127",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/04412.zip",
     "level": "6"
   },
   {
@@ -6837,6 +6917,16 @@
     "artist": "taqumi obj:垢伴次郎",
     "url": "https://ux.getuploader.com/bmshokan/download/1",
     "url_diff": "https://stellabms.xyz/upload/1514",
+    "level": "7"
+  },
+  {
+    "id": 9927,
+    "title": "CLOUDY PARK [Raker]",
+    "artist": "Yu^ta / obj.fuko",
+    "md5": "73bf3c93823cd99d6ec44fd77cb90c7d",
+    "sha256": "6c115cc182e457b080539548c34aeb8cbe886282a4f4ffb6cbc6b8aa4afa907d",
+    "url": "https://yuinore.net/2017/02/smc-package/",
+    "url_diff": "https://drive.google.com/file/d/1kbPfsVeCXxtpaToJf3zlq7wXSgdSo2ss/view?usp=share_link",
     "level": "7"
   },
   {
@@ -7170,6 +7260,26 @@
     "level": "8"
   },
   {
+    "id": 9922,
+    "title": "Air -Genocide-",
+    "artist": "SHIKI / selene.",
+    "md5": "a1b0aeee7e62d89315c4c38284897123",
+    "sha256": "3f774a26ca294bdfd8f56d7aa73805fe0b0cebe8a66425a7898cfa2babfe24f5",
+    "url": "https://mirror.bms.ms/shiki2.sakura.ne.jp/bms.shtml",
+    "url_diff": "https://stellabms.xyz/upload/797",
+    "level": "8"
+  },
+  {
+    "id": 9926,
+    "title": "Alastor [crazy density]",
+    "artist": "鳩 / obj:Monsta",
+    "md5": "831375f1d6e0cb6c273675b9eec94e61",
+    "sha256": "2f234f56b14b05b6878699714cf030ebb4116ed11102548a82d3bd5d6266a135",
+    "url": "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up3321.zip",
+    "level": "8"
+  },
+  {
     "id": 689,
     "md5": "007e51658938d0552388a5cc3facdd94",
     "sha256": "3a5fcbfa460e5308fd4b211e8e2849ef47c7f322a4a50596c3a32d182291c5c5",
@@ -7217,6 +7327,16 @@
     "artist": "moti / obj:stella",
     "url": "https://onedrive.live.com/?id=863934608D908CD0%21105&cid=863934608D908CD0",
     "url_diff": "http://absolute.pv.land.to/uploader/upload.html",
+    "level": "8"
+  },
+  {
+    "id": 9921,
+    "title": "Finixe [Akasha]",
+    "artist": "Silentroom × iimo / O",
+    "md5": "5c5674c128fd28d059e8de2bc8a6135b",
+    "sha256": "085b9eb83fdc535b6c56cbde8fdf93f161bf8c520b95274b2d6bc9862e2b1851",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=349&event=116",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/01048.zip",
     "level": "8"
   },
   {
@@ -7540,6 +7660,16 @@
     "level": "9"
   },
   {
+    "id": 10136,
+    "title": "Delaybreak",
+    "artist": "DusK / UnK-now/37X",
+    "md5": "a611307980fce80a81fd3da3080f4a31",
+    "sha256": "0faf79604a8cf71662bd68be2e61a39a3a7a5b3a364f4738a5e87d739226b441",
+    "url": "https://drive.google.com/u/0/uc?id=0B5sLPIyox3GENUhiUFFBSmZSbzg&export=download&resourcekey=0-YVbIj6LLHkeF7NfsRqhC8Q",
+    "url_diff": "https://sagena.harisen.jp/",
+    "level": "9"
+  },
+  {
     "id": 406,
     "md5": "45f8b6ffed5fa7bd74cd0f76a4c6922b",
     "sha256": "b3b82b1c59193ce5e1cdb181f05ae59e5ec0359de91dafe63afd32ff3b540653",
@@ -7607,6 +7737,16 @@
     "artist": "フロン / ラズベリル / obj: black train :Ds",
     "url": "http://boxism8500.sakura.ne.jp/",
     "url_diff": "http://sagena.harisen.jp/hyou.html",
+    "level": "9"
+  },
+  {
+    "id": 9919,
+    "title": "Milly Barll",
+    "artist": "㍊ゼ / obj:Monsta",
+    "md5": "ecda1167cb4abe99debc88f955b10c1d",
+    "sha256": "45be2ec467d269995727f2d209960d061bee7a435c55528a7793a112d4e62365",
+    "url": "https://www.luzeria.net/?p=387",
+    "url_diff": "https://web.archive.org/web/20170519142148/http://3228monsta.web.fc2.com/",
     "level": "9"
   },
   {
