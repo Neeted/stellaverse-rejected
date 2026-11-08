@@ -380,6 +380,16 @@
     "level": "3"
   },
   {
+    "id": 10235,
+    "title": "葡萄茶の寫眞機 [SP ANOTHER]",
+    "artist": "魔界都市ニイガタ （dawn-system/黄泉路テヂーモ/かゆき/自動車 原付）",
+    "md5": "16a5e6b5b3de5efd9930fb1051b4968c",
+    "sha256": "9b543b805e3f647be2ecc219464ea459373e136b10500b980eaaa6fa50653a9b",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=423&event=137",
+    "url_diff": "",
+    "level": "3"
+  },
+  {
     "id": 7872,
     "title": "1001 reasons why I love glasses [SR]",
     "artist": "上条春菜 obj:他人",
@@ -387,6 +397,16 @@
     "sha256": "d49047725402044bbac98697bd062f73c19d229dc5600cf49d7da6aea5018df8",
     "url": "https://bms.wrigglebug.xyz/download/1001%20reasons%20why%20I%20love%20glasses.7z",
     "url_diff": "http://absolute.pv.land.to/bof/src/up1265.zip",
+    "level": "4"
+  },
+  {
+    "id": 10025,
+    "title": "[line-epsilon] [TOASTED]",
+    "artist": "nitro obj:Toaster",
+    "md5": "d50876283601de90af094d68aa6907cc",
+    "sha256": "0622b490bed9e8741b2b71d3214bce1cfe65553e3712109771f07508aa8e98b9",
+    "url": "https://drive.google.com/open?id=0B9IgQ_GDHQNdaUhVX3FXYWg2S1U",
+    "url_diff": "",
     "level": "4"
   },
   {
@@ -738,6 +758,16 @@
     "url": "https://bmsdrive.zris.work/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.210901%20patch/newsongs/(%C2%B4%D0%94%EF%BD%80;).rar?from=search",
     "url_diff": "https://nick.xxxxxxxx.jp/f2_29.lzh",
     "level": "8"
+  },
+  {
+    "id": 10026,
+    "title": "Auburn Halo",
+    "artist": "Arctures BGA: 鑓田(alpha complex)",
+    "md5": "ec7a60f7473d6db48f5213d41063c219",
+    "sha256": "996108ac75e99720313531c497fa27030546c75e36aaaa085156e0cdb6b4d549",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=322&event=116",
+    "url_diff": "",
+    "level": "9"
   },
   {
     "id": 9906,

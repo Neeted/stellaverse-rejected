@@ -1225,7 +1225,7 @@
     "sha256": "eca4692622abf6168b982e4944a16c3e90c1e2429df4ffb19f2048ba4302c94f",
     "title": "Snowfairy [Fairy]",
     "artist": "Lime feat. Salita / deadblue238",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=379&event=83",
+    "url": "https://drive.google.com/file/d/1FjmhvcSjSk9nKnjksNLiljnXygl3smDK/view?usp=drive_link",
     "url_diff": "",
     "level": "0"
   },
@@ -2107,6 +2107,16 @@
     "artist": "dwarf obj: Haze*",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=130",
     "url_diff": "https://stellabms.xyz/upload/477",
+    "level": "1"
+  },
+  {
+    "id": 10076,
+    "title": "ABYSSAL // COSMOS [SP Another]",
+    "artist": "C.miler vs Juka_Box obj: Juka_Box",
+    "md5": "5e68897352f2c254e334cae1b069cfc7",
+    "sha256": "2fade6b32519625065541cec2060a911883f70039ae6e6ccaaa3f7936fe50161",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=146",
+    "url_diff": "",
     "level": "1"
   },
   {
@@ -4566,6 +4576,16 @@
     "title": "Inside Out [SP INSANE]",
     "artist": "tcheb mov:nacodon",
     "url": "https://k-bms.com/party_pabat/party.jsp?board_num=21&num=24&order=reg&odtype=a",
+    "url_diff": "",
+    "level": "2"
+  },
+  {
+    "id": 10184,
+    "title": "IOR [SP AIR RACE]",
+    "artist": "ariiol BG by 陸忻遊 / obj AZVW_2",
+    "md5": "0ecf44384761786bc4dd84da94a4ab7e",
+    "sha256": "5155d287959ca12cd2a331e3df829dd2150c67d9aacffce2b5daf1c89e1a7e57",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=261&event=146",
     "url_diff": "",
     "level": "2"
   },
@@ -8900,6 +8920,16 @@
     "level": "5"
   },
   {
+    "id": 10146,
+    "title": "LIFE [SP INSANE]",
+    "artist": "大前 司 × Reku Mochizuki feat. レゾナンスもえこ movie: Mido / illustration:linglvz",
+    "md5": "d149e61a83499e7293adb989b61a88c6",
+    "sha256": "e069e4ef20e27a1607f459d0a2e9aa5a8f0567c1f2ecf96098ae44be0666b62f",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=142",
+    "url_diff": "",
+    "level": "5"
+  },
+  {
     "id": 2350,
     "md5": "4955417296bf67e6eab92cb047de5f7d",
     "sha256": "9964ec73e46d56b54f12c697b5ea18d1602cde80adf40e0a3c1acd7291918cc7",
@@ -11910,16 +11940,6 @@
     "level": "8"
   },
   {
-    "id": 3304,
-    "md5": "dfa3d661a39566f0abc6502ca03a37ce",
-    "sha256": "f0b46f3fa50707c3af756bd4f3f0fa170e5a0f26eb7d695580fab9ddc251ec36",
-    "title": "キボウノヒカリ (SC.Kanata Redecorate) [Lollipop]",
-    "artist": "SC.Kanata/Original:KRD8(composed:Tomohiro Murakami) / obj. Tristan97",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=131",
-    "url_diff": "https://drive.google.com/file/d/10HIpt1bN-oI2z_Zp0rtuAcrcIH4s3E5K/view?usp=sharing",
-    "level": "8"
-  },
-  {
     "id": 960,
     "md5": "011e9d21d0abc62b37d396c721433e45",
     "sha256": "5a1e311b25d0a6b774a64c19e98a83b6b7dde42b673f4b23d58c20f0c6e4a992",
@@ -13230,6 +13250,16 @@
     "level": "10"
   },
   {
+    "id": 3304,
+    "md5": "dfa3d661a39566f0abc6502ca03a37ce",
+    "sha256": "f0b46f3fa50707c3af756bd4f3f0fa170e5a0f26eb7d695580fab9ddc251ec36",
+    "title": "キボウノヒカリ (SC.Kanata Redecorate) [Lollipop]",
+    "artist": "SC.Kanata/Original:KRD8(composed:Tomohiro Murakami) / obj. Tristan97",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=131",
+    "url_diff": "https://drive.google.com/file/d/10HIpt1bN-oI2z_Zp0rtuAcrcIH4s3E5K/view?usp=sharing",
+    "level": "10"
+  },
+  {
     "id": 9778,
     "md5": "9cd5f3185b1be4609832d2c61af1bbc5",
     "sha256": "133e7fce02167c14c6950f543f029349006a860aef3f86bd756eccf07853b69c",
@@ -13317,6 +13347,16 @@
     "artist": "カラフル・サウンズ・ポート/mov:むらしん/obj:赤い人",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=515&event=110",
     "url_diff": "http://akred.web.fc2.com/bmsfile/seisen_DELAY.bms",
+    "level": "10"
+  },
+  {
+    "id": 10043,
+    "title": "薄雲 [nerither]",
+    "artist": "薄荷堂 龍 obj noren",
+    "md5": "305d16f40488f0eb84f0a899c0548f07",
+    "sha256": "185b2a27ec2a1c6faa17f517bcc562ac2f9f7784bd940704e8f171fc668cf944",
+    "url": "https://drive.google.com/u/0/uc?id=1WOVd1AaqeLeP6CZjbkfRWRzU_iZ_I5Uc&export=download",
+    "url_diff": "https://stellabms.xyz/upload/5452",
     "level": "10"
   },
   {
@@ -13657,6 +13697,16 @@
     "artist": "Junk obj.meta",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=123",
     "url_diff": "https://stellabms.xyz/upload/390",
+    "level": "11"
+  },
+  {
+    "id": 10277,
+    "title": "Lily [S]",
+    "artist": "tolz feat. 音街ウナ obj:S",
+    "md5": "bf091b2dd9d0a9fec6ed361c8cfbe213",
+    "sha256": "cd28822aed1b42a22fe3b4a4a40af789d13e225407f5de434b955e17feff9982",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=339&event=127",
+    "url_diff": "https://stellabms.xyz/upload/3561",
     "level": "11"
   },
   {
@@ -14047,6 +14097,16 @@
     "artist": "YuuSaKi obj.Hostc*",
     "url": "https://www.dropbox.com/s/nqgoua9e79r63rd/amadarasshu.zip?dl=0",
     "url_diff": "",
+    "level": "11"
+  },
+  {
+    "id": 10164,
+    "title": "空から贈る、あなたへの [さよなら。]",
+    "artist": "atily (feat. 花隈千冬) obj:FriedSnow",
+    "md5": "023dee769fec89c1937d7d21fdfd8852",
+    "sha256": "b10cf2a144da083a8d0c8ab7e89cf77597efa33b8600a904714a62b7d390248a",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=96&event=146",
+    "url_diff": "https://stellabms.xyz/upload/8433",
     "level": "11"
   },
   {
