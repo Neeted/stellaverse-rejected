@@ -250,6 +250,16 @@
     "level": "12"
   },
   {
+    "id": 10394,
+    "title": "Ascension to Heaven[ANOTHER]",
+    "artist": "xi",
+    "md5": "016b6f49058dd0dbc5083fab0905e1a9",
+    "sha256": "f68ad44b8a6a31ca96873434af522906214c1e238e3784d88555beca8996cdb8",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=60",
+    "url_diff": "",
+    "level": "12"
+  },
+  {
     "id": 9388,
     "title": "Collapsed Future [ANOTHER7]",
     "artist": "MUSIER",
@@ -276,6 +286,16 @@
     "md5": "1d44feb30fd2eea9e51d9ebfbf69ccf3",
     "sha256": "94e625d3f5e4907f8e961e7e7e395ceeaa987d209912474ed3b8428f1a22f743",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=146",
+    "url_diff": "",
+    "level": "12"
+  },
+  {
+    "id": 10396,
+    "title": "Valhalla[ANOTHER]",
+    "artist": "xi",
+    "md5": "7e30f96d26597484a04fd6f464a041b2",
+    "sha256": "6d6dc7787bbfaca6c6bae075cc9cdfab01486c59caa43bd29eb68a08adbc0d0c",
+    "url": "http://www1.axfc.net/u/3235156",
     "url_diff": "",
     "level": "12"
   }
