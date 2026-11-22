@@ -330,6 +330,16 @@
     "level": "3"
   },
   {
+    "id": 10240,
+    "title": "Revolution [SP ANOTHER]",
+    "artist": "BilliumMoto Illust: Metyayurusu, BGA: Fate",
+    "md5": "4adb46df1c6166f8a054a58fa6e05caa",
+    "sha256": "b1e8d89e8037757283bd75e5d76dbef0f482d70b1c29980717164e9b88e1dd7b",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=203&event=142",
+    "url_diff": "",
+    "level": "3"
+  },
+  {
     "id": 7443,
     "title": "Sphere",
     "artist": "arrange:A.S-Leaf / illustration:岾兎。",
@@ -560,6 +570,16 @@
     "level": "5"
   },
   {
+    "id": 10237,
+    "title": "インフィニット・パラダイムシフト [SINGULARITY]",
+    "artist": "みーに feat. 音街ウナ",
+    "md5": "fcdc14c55ebadeaccab843a2cce15ae5",
+    "sha256": "f776673a1141f682332f38d3dd501273fc7d23c02868013d57c4eb4062aca221",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=137",
+    "url_diff": "",
+    "level": "5"
+  },
+  {
     "id": 9402,
     "md5": "f8c4be3e95a1d016cefcc18eec5933cd",
     "sha256": "67a055b09705f8614d1a533ed3085fb83ca38fb49c4367cced0cc38e9cef9342",
@@ -636,6 +656,16 @@
     "title": "Parasitize Your Head [SP INSANE]",
     "artist": "ゆ～兎 Respect for ZUN",
     "url": "http://web.archive.org/web/20140921042451/http://timetorain.web.fc2.com/BMS/Parasitize_Your_Head_ogg.zip",
+    "url_diff": "",
+    "level": "6"
+  },
+  {
+    "id": 10241,
+    "title": "Time to beat the odds [SP REBELLIONS]",
+    "artist": "影虎。 BMS:Qayo BGA:yan / illust:Viosgit",
+    "md5": "51c469327a11dfb604d35a0d3aad696a",
+    "sha256": "49bd7e792b3cc82e751154a73886c5e674b6f5ed45ec62502d04c3a836d96811",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=198&event=140",
     "url_diff": "",
     "level": "6"
   },
@@ -857,6 +887,16 @@
     "sha256": "8b53869151e02593dc9393d2291df75150c042eb063782ffe4d4ce8e89a87375",
     "url": "https://bmsdrive.zris.work/d/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.201225/EXILE.rar?sign=1OI2OuLH0TX8yThet3MqitjilFDyZx-xTF3YIFRAT7c=:0",
     "url_diff": "https://drive.google.com/file/d/1l9GXiua4EciP0F1dH0-xKjP9FkvVUJ6h/view?usp=drive_link",
+    "level": "10"
+  },
+  {
+    "id": 10227,
+    "title": "far in the blue sky... [EX]",
+    "artist": "saikoro/さ",
+    "md5": "a6a003e96463a2d49a3e5dd641cd82e3",
+    "sha256": "1fe2e56141a7c42dc73c4316c3111e2c57066cc93d64a8880a39cf0decc14dd2",
+    "url": "https://web.archive.org/web/20040601000000/http://www.digitaljunk.net/saikoro-fitbs.rar",
+    "url_diff": "https://web.archive.org/web/20190211033141/http://sabosabun.tank.jp/sabun/far%20in%20the%20blue%20sky...%20sabun.zip",
     "level": "10"
   },
   {

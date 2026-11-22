@@ -5780,6 +5780,16 @@
     "level": "3"
   },
   {
+    "id": 10289,
+    "title": "Babel [HARD]",
+    "artist": "Nizikawa feat. nayuta Movie: Air /obj:赤い人",
+    "md5": "2979a410878c71a8275473933188ff62",
+    "sha256": "e12a2137ef713fc7c9747b706f3cc4d8932a645ba5e995d966344df18781a721",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=110",
+    "url_diff": "https://darksabun.club/mirror/akred/bmsfile/Babel-HARD.bme",
+    "level": "3"
+  },
+  {
     "id": 4743,
     "md5": "586d33edf48aee832c835a20921f7ab1",
     "sha256": "8cb6c3ee1a9312af8fa0ebce51875186c4ae466fc2267204900b7844156c695c",
@@ -6887,6 +6897,16 @@
     "artist": "remix by 44teru-k feat.ARU obj:BAECON",
     "url": "https://web.archive.org/web/20160101135626/http://creation-records.info/bms/lr_r_44teru-k.rar",
     "url_diff": "http://akred.web.fc2.com/baecon/_lr_r_7ex_f.bms",
+    "level": "3"
+  },
+  {
+    "id": 10287,
+    "md5": "f0b214ea99da056df1e41ce90f10acc6",
+    "sha256": "631854d0e686f2c41883d0383335acc045ed04ffbf78c787d2edb7bae96c1dd4",
+    "title": "アトロポスと最果の探求者 [ZOI]",
+    "artist": "しーけー obj:SUZUKAZEΛ",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=246&event=123",
+    "url_diff": "https://dl.dropboxusercontent.com/s/mio2m5ow42se0sx/%E3%82%A2%E3%83%88%E3%83%AD%E3%83%9D%E3%82%B9%E3%81%A8%E6%9C%80%E6%9E%9C%E3%81%AE%E6%8E%A2%E6%B1%82%E8%80%85zoi.zip",
     "level": "3"
   },
   {
@@ -13077,6 +13097,16 @@
     "artist": "noctie* obj.XYZ / quantized by Mallow♪",
     "url": "https://dropbox.bms.ms/u/106790826/resta_del_tramonto.rar",
     "url_diff": "https://darksabun.club/event/renewal/",
+    "level": "10"
+  },
+  {
+    "id": 10137,
+    "title": "Retrospective voyage. [Hard]",
+    "artist": "shio obj:sak",
+    "md5": "52e0d7051a8a53abc054a9ae88602e30",
+    "sha256": "83667d2df0a736554924fc002ab8d8b1f8e9c76a1cb2e4789e90a47764992404",
+    "url": "https://drive.google.com/file/d/1bg1pBFZTzJd6YYxmk8rNPsBUH6VOCSkq/view?usp=drive_link",
+    "url_diff": "",
     "level": "10"
   },
   {

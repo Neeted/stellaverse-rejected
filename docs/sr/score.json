@@ -90,6 +90,16 @@
     "level": "4"
   },
   {
+    "id": 10317,
+    "title": "Showguts (小吉)",
+    "artist": "Ninja Action Team",
+    "md5": "64213bc0b8881942e634bd1ab29b831b",
+    "sha256": "7d46717ba6ad6bf9183d669ebddd8c5fcace9f6ee5519800675c5f9a2531c00c",
+    "url": "https://web.archive.org/web/20130512082209/http://ninjaactionteam.sakura.ne.jp/download/showguts.rar",
+    "url_diff": "",
+    "level": "5"
+  },
+  {
     "id": 9208,
     "title": "vijore 7key",
     "artist": "onoken",

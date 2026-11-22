@@ -160,6 +160,16 @@
     "level": "4"
   },
   {
+    "id": 3741,
+    "md5": "926645bb21f27d3d83787b38449bfafa",
+    "sha256": "fece298450c9d2081b5302b309f7e19e4ce83c445566cbd3609c8a5a6194e425",
+    "title": "トッカータとfuga (HELL Version)",
+    "artist": "YOOSK",
+    "url": "https://drive.google.com/open?id=116cMFHreFmgsfd05oa0eSazPnFrlnCui",
+    "url_diff": "",
+    "level": "4"
+  },
+  {
     "id": 8170,
     "title": "Imitation of fragrance [萃夢想]",
     "artist": "NIshiuri. / こころ vs 妖夢 BGA:GAMEBAKA",
@@ -270,6 +280,16 @@
     "level": "8"
   },
   {
+    "id": 10119,
+    "title": "x-Aria (confuse)",
+    "artist": "ridis /obj:月門",
+    "md5": "b128b4e8d5d20958acd21dade130d6a1",
+    "sha256": "023de5d0cd88cdf5e109dcbbc9783e54913c6aa205bc80da3ae22969df2ceee6",
+    "url": "http://web.archive.org/web/20060305103446/http://bof.nothing.sh:8080/file/catnap_ridis_x_aria_hq.rar",
+    "url_diff": "",
+    "level": "8"
+  },
+  {
     "id": 7315,
     "title": "Hanky-Panky [FANKY]",
     "artist": "TRIAL BGA:KinCraft bj : BAECON",
@@ -288,6 +308,16 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=123",
     "url_diff": "https://github.com/kkkkkst/bms-web/raw/master/mirror/gnqg-upload/02352.zip",
     "level": "9"
+  },
+  {
+    "id": 10132,
+    "title": "Anti Function -SP INSANE-",
+    "artist": "Is-m BGA:ハマドメハマル",
+    "md5": "c718dfae050feb7ac84d8221cda1acd3",
+    "sha256": "01ade4af9b7911809c3b048630aa9c3d2f49ac8bfeece9d8c15fbb6096b53350",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=120",
+    "url_diff": "",
+    "level": "10"
   },
   {
     "id": 9776,
@@ -317,6 +347,16 @@
     "artist": "paraneumann / obj.dj kasou",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=131",
     "url_diff": "https://drive.usercontent.google.com/u/0/uc?id=1EConQ97n3ob2WEUmorrbWqUfbZaYV08x&export=download",
+    "level": "10"
+  },
+  {
+    "id": 10118,
+    "title": "幽雅に咲かせ、墨染の桜 [YUYUNATIC]",
+    "artist": "zun bms:乙UN / Ds",
+    "md5": "682e02de5f808f3517860d3a08cef0bd",
+    "sha256": "b1b87443026e0f59ef9688fe6f9623dcc9270a8b8443d5bcd974d8935987f8fe",
+    "url": "http://nekokan.dyndns.info/~lobsak/bms/yuuga_ogg.zip",
+    "url_diff": "https://sagena.harisen.jp/bms.html",
     "level": "10"
   },
   {
